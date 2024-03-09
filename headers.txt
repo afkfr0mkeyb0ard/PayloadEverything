@@ -160,6 +160,7 @@ TE: deflate
 TE: donotexist
 TE: gzip
 TE: trailers
+Token: donotexist
 Trailer: Authorization
 Trailer: donotexist
 Trailer: Max-Forwards
@@ -212,6 +213,7 @@ Warning: 112 - "PoC" "Sat, 25 Aug 2012 23:34:45 GMT"
 Warning: 199 Miscellaneous warning
 Warning: 214
 Warning: donotexist
+X-API-Key: donotexist
 X-Att-Deviceid: donotexist
 X-Att-Deviceid: GT-P7320/P7320XXLPG
 X-Att-Deviceid: SAMSUNG-SGH-I747/I747UCUEMJB
