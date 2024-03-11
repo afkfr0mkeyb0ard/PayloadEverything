@@ -237,6 +237,8 @@ X-Forwarded-Proto: ftp
 X-Forwarded-Proto: http
 X-Forwarded-Proto: https
 X-Forwarded-Proto: smb
+X-Forwarded-Server: 127.0.0.1
+X-Forwarded-Server: donotexit.donotexit
 X-Forwarded-Ssl: off
 X-Forwarded-Ssl: on
 X-Host: 127.0.0.1
