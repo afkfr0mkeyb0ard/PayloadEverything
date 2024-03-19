@@ -74,6 +74,8 @@ Content-Length: 42, 42
 Content-MD5: 816794d05167e5c2a480d1860c8dc3f9
 Content-MD5: donotexist
 Content-Type: application/x-www-form-urlencoded
+Content-Type: application/xml
+Content-Type: application/json
 Content-Type: donotexist
 Content-Type: text/html; charset=ISO-8859-4
 Content-Type: video/h264
@@ -217,6 +219,7 @@ X-API-Key: donotexist
 X-Att-Deviceid: donotexist
 X-Att-Deviceid: GT-P7320/P7320XXLPG
 X-Att-Deviceid: SAMSUNG-SGH-I747/I747UCUEMJB
+X-Auth-Token: donotexist
 X-Client-IP: 127.0.0.1
 X-Correlation-ID: f058ebd6-02f7-4d3f-942e-904344e8cde6
 X-Csrf-Token: aNg2MBTBUHjsyBWP4u2UPxfp9WdiXF1E
