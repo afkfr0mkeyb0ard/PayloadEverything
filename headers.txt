@@ -236,6 +236,7 @@ Warning: 112 - "PoC" "Sat, 25 Aug 2012 23:34:45 GMT"
 Warning: 199 Miscellaneous warning
 Warning: 214
 Warning: donotexist
+X-Amz-Cf-Id: donotexist
 X-API-Key: donotexist
 X-Att-Deviceid: donotexist
 X-Att-Deviceid: GT-P7320/P7320XXLPG
@@ -273,7 +274,7 @@ X-Original-URL: 127.0.0.1
 X-Original-URL: /admin
 X-Originating-IP: 127.0.0.1
 X-ProxyUser-Ip: 127.0.0.1
-x-real-ip: 127.0.0.1
+X-Real-IP: 127.0.0.1
 X-Remote-Addr: 127.0.0.1
 X-Remote-IP: 127.0.0.1
 X-Requested-With: 127.0.0.1
