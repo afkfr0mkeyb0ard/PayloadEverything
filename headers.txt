@@ -13,17 +13,24 @@ Accept: */*;q=0
 Accept: text/html
 Accept: text/plain; q=0.5, text/html,text/x-dvi; q=0.8, text/x-c
 Accept: text/*, text/plain, text/plain;format=flowed, */*
-Access-Control-Request-Headers: Host
 Access-Control-Request-Headers: donotexist
+Access-Control-Request-Headers: Host
 Access-Control-Request-Method: CONNECT
+Access-Control-Request-Method: COPY
 Access-Control-Request-Method: donotexist
 Access-Control-Request-Method: GET
 Access-Control-Request-Method: HEAD
+Access-Control-Request-Method: UNLOCK
 A-IM: donotexist
 A-IM: feed
 A-IM: range
 A-IM: vcdiff, diffe, gzip
 A-IM: vcdiff, gdiff;q=0.3
+Akamai-Debug: true
+Akamai-x-ro-trace: on
+Api-key: donotexist
+Authenticated-User: admin
+Authenticated-User: administrator
 Authorization:
 Authorization: AWS4-HMAC-SHA256
 Authorization: AWS4-HMAC-SHA256 donotexist
@@ -46,7 +53,9 @@ CDN-Loop: cloudflare
 CDN-Loop: donotexist
 CDN-Loop: saturn-l1-id, saturn.tech; ipfs.io;
 CF-Connecting-IP: ::1
+CF-Connecting_IP: ::1
 CF-Connecting-IP: 127.0.0.1
+CF-Connecting_IP: 127.0.0.1
 CF-Connecting-IPv6: ::1
 CF-EW-Via: 127.0.0.1
 CF-EW-Via: donotexist
@@ -62,6 +71,7 @@ CF-Visitor: { \"scheme\":\"https\"}
 CF-Worker: 127.0.0.1
 CF-Worker: donotexist.donotexist
 Client-IP: 127.0.0.1
+ClientIP: 127.0.0.1
 CloudFront-Forwarded-Proto: FTP
 CloudFront-Forwarded-Proto: HTTP
 CloudFront-Forwarded-Proto: HTTPS
@@ -94,9 +104,9 @@ Content-Length: 348
 Content-Length: 42, 42
 Content-MD5: 816794d05167e5c2a480d1860c8dc3f9
 Content-MD5: donotexist
-Content-Type: application/x-www-form-urlencoded
-Content-Type: application/xml
 Content-Type: application/json
+Content-Type: application/xml
+Content-Type: application/x-www-form-urlencoded
 Content-Type: donotexist
 Content-Type: text/html; charset=ISO-8859-4
 Content-Type: video/h264
@@ -107,11 +117,17 @@ Cookie: SID=31d4d96e407aad44
 Correlation-ID: donotexist
 Correlation-ID: f058ebd6-02f7-4d3f-942e-904344e8cde6
 Date: Tue, 15 Nov 1994 08:12:31 GMT
+DAV: 1
+Depth: 0
+Depth: infinity
+Destination: /admin
+Destination: https://127.0.0.1/admin
 DNT: 0
 DNT: 1
 DNT: donotexist
 Expect: 100-continue
 Expect: donotexist
+Forwarded-By: 127.0.0.1
 Forwarded: donotexist
 Forwarded: for=127.0.0.1
 Forwarded-For: 127.0.0.1
@@ -135,6 +151,7 @@ Host: www.google.com
 HTTP2-Settings: donotexist
 HTTP2-Settings: token64
 HTTP2-Settings: token68
+If: donotexist
 If-Match: *
 If-Match: "737060cd8c284d8af7ad3082f209582e"
 If-Modified-Since: donotexist
@@ -149,12 +166,20 @@ If-Range: Wed, 21 Oct 2015 07:28:00 GMT
 If-Unmodified-Since: *
 If-Unmodified-Since: donotexist
 If-Unmodified-Since: Sat, 29 Oct 1994 00:00:00 GMT
+Lock-Token: /admin
+Lock-Token: https://127.0.0.1/admin
 Max-Forwards: 0
 Max-Forwards: 1
 Max-Forwards: donotexist
+OData-MaxVersion: 4.1
+Original-Remote-Addr: 127.0.0.1
 Origin: donotexist
 Origin: http://donotexist.donotexist/
 Origin: https://127.0.0.1:8000/
+Overwrite: F
+Overwrite: T
+Pragma: akamai-x-cache-on,akamai-x-cache-remote-on,akamai-x-check-cacheable,akamai-x-get-cache-key,akamai-x-get-extracted-values,akamai-x-get-nonces,akamai-x-get-ssl-client-session-id,akamai-x-get-true-cache-key,akamai-x-serial-no
+Pragma: akamai-x-check-cacheable
 Pragma: donotexist
 Pragma: no-cache
 Prefer: handling=lenient
@@ -163,21 +188,31 @@ Prefer: respond-async, wait=5
 Prefer: return=minimal
 Prefer: return=representation
 Prefer: task_priority=2
+Profile: on
 Proxy-Authorization: Basic YWRtaW46YWRtaW4=
 Proxy-Authorization: Bearer donotexist
 Proxy-Authorization: donotexist
 Proxy-Connection: donotexist
 Proxy-Connection: keep-alive
+Proxy-Host: 127.0.0.1
+Proxy-Url: /admin
 Range: bytes=-100
 Range: bytes=500-999
 Range: bytes=900-
 Range: donotexist
+Real-Ip: 127.0.0.1
 Referer: donotexist
 Referer: http://127.0.0.1/admin?
+Request-Uri: *
+Request-Uri: /admin
+Request-Uri: http://127.0.0.1/
+Request-Uri: http://donotexist/
 Save-Data: donotexist
 Save-Data: on
 Sec-GPC: 1
 Sec-GPC: donotexist
+Surrogate-Capability: 11a91a6c7c3f="Surrogate/1.0 ESI/1.0"
+Sync-Token: donotexist;sn=28
 TE: compress
 TE: deflate
 TE: donotexist
@@ -193,12 +228,21 @@ Transfer-Encoding: deflate
 Transfer-Encoding: donotexist
 Transfer-Encoding: gzip
 True-Client-IP: 127.0.0.1
+True-IP: 127.0.0.1
 Upgrade: h2c, HTTPS/1.3, IRC/6.9, RTA/x11, websocket
 Upgrade: HTTP/2.0, SHTTP/1.3, IRC/6.9, RTA/x11
 Upgrade: HTTP/3.0
 Upgrade-Insecure-Requests: 1
 Upgrade-Insecure-Requests: donotexist
 Upgrade: websocket
+Uri: *
+Uri: /admin
+Uri: http://127.0.0.1/
+Uri: http://donotexist/
+Url: *
+Url: /admin
+Url: http://127.0.0.1/
+Url: http://donotexist/
 User-Agent: CERN-LineMode/2.15 libwww/2.17b3
 User-Agent: curl/7.64.1
 User-Agent: donotexist
@@ -227,28 +271,39 @@ User-Agent: Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/5
 Via: 1.0 127.0.0.1
 Via: 1.0 127.0.0.1, 1.1 google.com
 Via: 1.0 fred, 1.1 127.0.0.1
+Via: 1.1 1026589cc7887e7a0dc7827b4example.cloudfront.net
 Via: 1.111 vegur
 Via: 1.1 donotexist
 Via: donotexist
 Via: ftp/1.1 127.0.0.1
 Via: HTTP/1.1 GWA
-Via: 1.1 1026589cc7887e7a0dc7827b4example.cloudfront.net
 Warning: 112 - "PoC" "Sat, 25 Aug 2012 23:34:45 GMT"
 Warning: 199 Miscellaneous warning
 Warning: 214
 Warning: donotexist
 X-Access-Key: donotexist
+X-Akamai-A2-Disable: on
+X-Akamai-Pragma-Headers: true
+X-Akamai-Ro-Piez: on
 X-Amz-Cf-Id: donotexist
 X-Amzn-Trace-Id: donotexist
 X-API-Key: donotexist
+X-Arbitrary: 127.0.0.1
+X-Arbitrary: donotexist
 X-Att-Deviceid: donotexist
 X-Att-Deviceid: GT-P7320/P7320XXLPG
 X-Att-Deviceid: SAMSUNG-SGH-I747/I747UCUEMJB
 X-Auth-Token: donotexist
+X-Auth-Username: admin
+X-Auth-Username: administrator
+X-Aws-Cfid: donotexist
 X-Client-IP: 127.0.0.1
 X-Correlation-ID: f058ebd6-02f7-4d3f-942e-904344e8cde6
 X-Csrf-Token: aNg2MBTBUHjsyBWP4u2UPxfp9WdiXF1E
+X-Custom-IP-Authorization: 127.0.0.1
+X-Forward: 127.0.0.1
 X-Forwarded: 127.0.0.1
+X-Forwarded-By: 127.0.0.1
 X-Forwarded-For: 127.0.0.1
 X-Forwarded-For: 127.0.0.1, 127.0.0.1
 X-Forwarded-For: 127.0.0.1, 2001:db8:85a3:8d3:1319:8a2e:370:7347
@@ -256,9 +311,13 @@ X-Forwarded-For: 127.0.0.1, donotexist
 X-Forwarded-For: 129.78.138.66, 129.78.64.103
 X-Forwarded-For: 9287.2987.9437.34981
 X-Forwarded-For: donotexit.donotexit
+X-Forwarded-For-Original: 127.0.0.1
 X-Forwarded-Host: 127.0.0.1
 X-Forwarded-Host: 9287.2987.9437.34981
 X-Forwarded-Host: donotexit.donotexit
+X-Forwarded-IP: 127.0.0.1
+X-Forwarded-IP: 8.8.8.8
+X-Forwarded-IP: donotexist
 X-Forwarded-Protocol: donotexist
 X-Forwarded-Proto: donotexist
 X-Forwarded-Proto: ftp
@@ -269,15 +328,37 @@ X-Forwarded-Server: 127.0.0.1
 X-Forwarded-Server: donotexit.donotexit
 X-Forwarded-Ssl: off
 X-Forwarded-Ssl: on
+X-Forward-For: 127.0.0.1
 X-Host: 127.0.0.1
+X-HTTP-DestinationURL: /admin
+X-HTTP-DestinationURL: http://127.0.0.1/
+X-HTTP-Host-Override: 127.0.0.1
+X-HTTP-Host-Override: donotexist
 X-HTTP-Method-Override: CONNECT
+X-HTTP-Method-Override: COPY
 X-HTTP-Method-Override: donotexist
 X-HTTP-Method-Override: HEAD
+X-HTTP-Method-Override: UNLOCK
+X-If-Via: 1.1 i-FILTER8142561
+X-Im-Piez: on
+X-Iws-Via: 1.1 29597D84 (IWSS)
+X-Ms-Client-Principal-Name: admin
+X-Ms-Client-Principal-Name: administrator
+x-ms-client-request-id: donotexist
+x-ms-date: Fri, 11 May 2018 18:48:36 GMT
+x-ms-return-client-request-id: true
+X-Original-Forwarded-For: 127.0.0.1
+X-Original-Remote-Addr: 127.0.0.1
 X-Original-URL: 127.0.0.1
 X-Original-URL: /admin
+X-Original-URL: http://127.0.0.1/
 X-Originating-IP: 127.0.0.1
+X-Proxy-Url: /admin
+X-Proxy-Url: http://127.0.0.1/
 X-ProxyUser-Ip: 127.0.0.1
 X-Real-IP: 127.0.0.1
+X-Referrer: 127.0.0.1
+X-Referrer: http://127.0.0.1/
 X-Remote-Addr: 127.0.0.1
 X-Remote-IP: 127.0.0.1
 X-Requested-With: 127.0.0.1
@@ -285,13 +366,31 @@ X-Requested-With: donotexist
 X-Requested-With: XMLHttpRequest
 X-Request-ID: donotexist
 X-Request-ID: f058ebd6-02f7-4d3f-942e-904344e8cde6
+X-Request-Uri: *
+X-Request-Uri: /admin
+X-Request-Uri: http://127.0.0.1/
+X-Request-Uri: http://donotexist/
 X-Rewrite-URL: /admin
+X-Rewrite-URL: http://127.0.0.1/
+X-Server-Ip: 127.0.0.1
+X-Target: http://127.0.0.1/
+X-Target-Proxy: Transparent-donotexist
+X-True-IP: 127.0.0.1
 X-UIDH: ...
 X-UIDH: donotexist
+X-Uri: *
+X-Uri: /admin
+X-Uri: http://127.0.0.1/
+X-Uri: http://donotexist/
+X-Url: *
+X-Url: /admin
+X-Url: http://127.0.0.1/
+X-Url: http://donotexist/
 X-Url-Scheme: donotexist
 X-Url-Scheme: ftp
 X-Url-Scheme: https
 X-Url-Scheme: smb
+X-Via-Cloudfront: true
 x-wap-profile: donotexist
 x-wap-profile: http://127.0.0.1/a.xml
 x-wap-profile: http://donotexist.donotexist/a.xml
