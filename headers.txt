@@ -13,7 +13,7 @@ Accept: */*;q=0
 Accept: text/html
 Accept: text/plain; q=0.5, text/html,text/x-dvi; q=0.8, text/x-c
 Accept: text/*, text/plain, text/plain;format=flowed, */*
-Access-Control-Request-Headers: Access-Control-Request-Headers
+Access-Control-Request-Headers: Host
 Access-Control-Request-Headers: donotexist
 Access-Control-Request-Method: CONNECT
 Access-Control-Request-Method: donotexist
