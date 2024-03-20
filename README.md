@@ -1,2 +1,3 @@
-# PayloadAllTheHeaders
-List of all HTTP headers with malformed values
+# PayloadEverything
+
+Customised lists of payloads, similar to PayloadAllTheThings
