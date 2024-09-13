@@ -1,6 +1,7 @@
 
 !
 !@
+********
 0000
 000000
 1
@@ -21,6 +22,7 @@
 12345678
 123456789
 1234567890
+12345678910
 1234qwer
 123abc
 123qwe
@@ -37,11 +39,13 @@
 654321
 888888
 a
+Aa123456
 abc123
 abcd1234
 admin
 admin!@
 admin123
+Admin123
 admin123456
 administrator
 alpine
@@ -64,14 +68,14 @@ oracle
 p@$$w0rd
 pa55w0rd
 pass
+passw0rd
+Passw0rd
 password
-password123
 Password
+password123
+p@ssw0rd
 P@ssw0rd
 P@ssword
-Passw0rd
-passw0rd
-p@ssw0rd
 q1w2e3
 q1w2e3r4
 q1w2e3r4t5
