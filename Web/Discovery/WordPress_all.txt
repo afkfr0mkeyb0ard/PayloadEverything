@@ -2547,6 +2547,10 @@ wp-includes/widgets/class-wp-widget-text.php
 wp-includes/widgets.php
 wp-includes/wp-db.php
 wp-includes/wp-diff.php
+wp-json/oembed/1.0/embed?url=POST-URL
+wp-json/oembed/1.0/proxy
+wp-json/wp/v2/pages
+wp-json/wp/v2/users
 wp-links-opml.php
 wp-load.php
 wp-login.php
