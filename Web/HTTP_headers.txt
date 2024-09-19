@@ -322,11 +322,11 @@ X-Forwarded-For: 127.0.0.1, 2001:db8:85a3:8d3:1319:8a2e:370:7347
 X-Forwarded-For: 127.0.0.1, donotexist
 X-Forwarded-For: 129.78.138.66, 129.78.64.103
 X-Forwarded-For: 9287.2987.9437.34981
-X-Forwarded-For: donotexit.donotexit
+X-Forwarded-For: donotexist.donotexist
 X-Forwarded-For-Original: 127.0.0.1
 X-Forwarded-Host: 127.0.0.1
 X-Forwarded-Host: 9287.2987.9437.34981
-X-Forwarded-Host: donotexit.donotexit
+X-Forwarded-Host: donotexist.donotexist
 X-Forwarded-IP: 127.0.0.1
 X-Forwarded-IP: 8.8.8.8
 X-Forwarded-IP: donotexist
@@ -337,7 +337,7 @@ X-Forwarded-Proto: http
 X-Forwarded-Proto: https
 X-Forwarded-Proto: smb
 X-Forwarded-Server: 127.0.0.1
-X-Forwarded-Server: donotexit.donotexit
+X-Forwarded-Server: donotexist.donotexist
 X-Forwarded-Ssl: off
 X-Forwarded-Ssl: on
 X-Forwarded-TlsVersion: 1.1
