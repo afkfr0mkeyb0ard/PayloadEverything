@@ -131,6 +131,7 @@ DNT: donotexist
 Expect: 100-continue
 Expect: donotexist
 Forwarded-By: 127.0.0.1
+Forwarded: 127.0.0.1
 Forwarded: donotexist
 Forwarded: for=127.0.0.1
 Forwarded-For: 127.0.0.1
