@@ -656,6 +656,7 @@ wp-admin/widgets-form.php
 wp-admin/widgets.php
 wp-blog-header.php
 wp-comments-post.php
+wp-config.php
 wp-content
 wp-content/index.php
 wp-content/plugins
