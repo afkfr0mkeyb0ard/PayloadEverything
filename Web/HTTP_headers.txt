@@ -312,6 +312,7 @@ X-Auth-Username: administrator
 X-Aws-Cfid: donotexist
 X-Client-IP: 127.0.0.1
 X-Correlation-ID: f058ebd6-02f7-4d3f-942e-904344e8cde6
+X-CommonAccessToken: azertyuiop
 X-Csrf-Token: aNg2MBTBUHjsyBWP4u2UPxfp9WdiXF1E
 X-Custom-IP-Authorization: 127.0.0.1
 X-Forward: 127.0.0.1
