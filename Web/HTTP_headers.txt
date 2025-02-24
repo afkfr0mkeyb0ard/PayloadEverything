@@ -193,6 +193,7 @@ Prefer: return=minimal
 Prefer: return=representation
 Prefer: task_priority=2
 Profile: on
+Proxy: 127.0.0.1
 Proxy-Authorization: Basic YWRtaW46YWRtaW4=
 Proxy-Authorization: Bearer donotexist
 Proxy-Authorization: donotexist
@@ -370,10 +371,17 @@ X-Original-URL: 127.0.0.1
 X-Original-URL: /admin
 X-Original-URL: http://127.0.0.1/
 X-Originating-IP: 127.0.0.1
+X-pan-AuthCheck: off
+X-pan-ndpp-mode: False
 X-Proxy-Url: /admin
 X-Proxy-Url: http://127.0.0.1/
 X-ProxyUser-Ip: 127.0.0.1
 X-Real-IP: 127.0.0.1
+X-Real-Port: 80
+X-Real-Port: 445
+X-Real-Scheme: HTTP
+X-Real-Scheme: SMB
+X-Real-Server-IP: 127.0.0.1
 X-Referrer: 127.0.0.1
 X-Referrer: http://127.0.0.1/
 X-Remote-Addr: 127.0.0.1
