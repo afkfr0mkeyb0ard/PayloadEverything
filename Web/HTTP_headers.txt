@@ -170,6 +170,8 @@ If-Range: Wed, 21 Oct 2015 07:28:00 GMT
 If-Unmodified-Since: *
 If-Unmodified-Since: donotexist
 If-Unmodified-Since: Sat, 29 Oct 1994 00:00:00 GMT
+Keep-Alive: timeout=1000, max=1000
+Keep-Alive: error
 Lock-Token: /admin
 Lock-Token: https://127.0.0.1/admin
 Max-Forwards: 0
