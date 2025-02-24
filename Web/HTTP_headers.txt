@@ -196,6 +196,7 @@ Prefer: return=representation
 Prefer: task_priority=2
 Profile: on
 Proxy: 127.0.0.1
+Proxy-Authenticate: Basic realm="Dev", charset="UTF-8"
 Proxy-Authorization: Basic YWRtaW46YWRtaW4=
 Proxy-Authorization: Bearer donotexist
 Proxy-Authorization: donotexist
