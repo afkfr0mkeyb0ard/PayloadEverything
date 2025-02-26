@@ -1,0 +1,12 @@
+/%2fadmin/
+%2fadmin%2f
+/*/admin/
+/*admin/
+/./admin/
+///admin///
+//;//admin/
+//admin/./
+//admin//
+/;/admin/
+/admin/
+/admin/*
