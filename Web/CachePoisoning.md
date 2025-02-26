@@ -18,3 +18,9 @@ X-Cache: miss         Means you are loading content from the webserver itself
 ```
 Age: 5      Age of the cache
 ```
+
+- Vary
+```
+Vary: User-Agent         Means that the User-Agent header will determine the cache response
+Vary: Accept             Means that the Accept header will determine the cache response
+```
