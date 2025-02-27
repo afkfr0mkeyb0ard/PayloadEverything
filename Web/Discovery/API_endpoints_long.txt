@@ -9321,6 +9321,7 @@ SYS_QuestTrackSetting_TypefaceFont_OnValueChanged
 SysSecurity
 SysSqlScript
 system
+system/login
 SystemTime
 system_web
 SYS_VoiceSettings_AutoRadioButton_OnClick
