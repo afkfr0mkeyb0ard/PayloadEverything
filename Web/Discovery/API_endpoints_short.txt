@@ -401,6 +401,7 @@ swagger.yaml
 swagger.yml
 sync
 sync/control
+system/login
 t
 terminate
 Terminate
