@@ -1,5 +1,4 @@
 
-	
 !
 "
 %
@@ -22986,6 +22985,8 @@ eki/
 ekle
 ekledikleri.php
 eklentiler
+ekmf-openid/j_security_check
+ekmf-openid/openidlogin.jsp
 ekml
 ekmps/shops/
 ekomi
