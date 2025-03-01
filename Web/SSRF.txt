@@ -1,4 +1,5 @@
 aaa://
+aaas://
 data://
 dict://
 expect://
