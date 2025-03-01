@@ -32,7 +32,7 @@ finger://localhost
 fish://localhost
 ftp://localhost
 ftps://localhost
-geo:0,0
+geo:13.4125,103.8667
 gizmoproject://localhost
 glob://localhost
 go://localhost
@@ -40,7 +40,8 @@ gopher://localhost
 h323:localhost
 http://localhost
 https://localhost
-im:localhost
+icap://localhost
+im:fred@example.com
 imap://localhost
 input://localhost
 irc://localhost
