@@ -29,6 +29,7 @@ pop3://
 prospero://
 rar://
 sftp://
+smb://
 smtp://
 ssh://
 ssh2://
