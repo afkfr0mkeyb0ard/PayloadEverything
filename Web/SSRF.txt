@@ -21,6 +21,7 @@ ldap://
 mailto://
 netdoc:///etc/hosts
 netdoc:///etc/passwd
+nntp://
 ogg://
 phar://
 php://
