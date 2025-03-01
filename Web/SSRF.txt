@@ -8,7 +8,7 @@ apt://localhost
 aw://localhost
 cap://localhost
 chrome://localhost
-cid:content
+cid:foo4*foo1@bar.net
 coap://localhost
 content://localhost
 crid://localhost
