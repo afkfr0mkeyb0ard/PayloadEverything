@@ -1,0 +1,12 @@
+data://
+expect://
+file://
+ftp://
+glob://
+http://
+ogg://
+phar://
+php://
+rar://
+ssh2://
+zlib://
