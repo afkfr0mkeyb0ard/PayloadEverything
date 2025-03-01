@@ -6,6 +6,7 @@ file://
 file:///
 filter://
 ftp://
+glob://
 gopher://
 http://
 https://
@@ -21,10 +22,14 @@ mailto://
 netdoc:///etc/hosts
 netdoc:///etc/passwd
 ogg://
+phar://
+php://
 pop3://
+rar://
 sftp://
 smtp://
 ssh://
 ssh2://
 telnet://
 tftp://
+zlib://
