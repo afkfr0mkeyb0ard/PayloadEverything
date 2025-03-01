@@ -1,13 +1,16 @@
+data://
 dict://
 expect://
 fd://
 file://
 file:///
+filter://
 ftp://
 gopher://
 http://
 https://
 imap://
+input://
 jar:ftp://local-domain.com!/
 jar:http://0.0.0.0!/
 jar:http://127.0.0.1!/
