@@ -26,6 +26,7 @@ ogg://
 phar://
 php://
 pop3://
+prospero://
 rar://
 sftp://
 smtp://
