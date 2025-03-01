@@ -6,6 +6,7 @@ afp://localhost
 aim://localhost
 apt://localhost
 aw://localhost
+cap://localhost
 chrome://localhost
 cid:content
 coap://localhost
