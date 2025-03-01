@@ -33,4 +33,5 @@ ssh://
 ssh2://
 telnet://
 tftp://
+wais://
 zlib://
