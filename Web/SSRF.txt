@@ -13,6 +13,7 @@ coap://localhost
 content://localhost
 crid://localhost
 cvs://localhost
+data:,A%20brief%20note
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAdCAYAAADLnm6HAAAAqUlEQVR4AWJwL/ABsFvGNgCCQAB0AdZgAZansKA0YQlKt0DOQIj0/Fv8J2ewuoPqjzaucTaqELgc7iGvSuCeN48x1pzzTnCsLzHlQrNE9ENKScqP61cBFmABFmABFmABFqC/kFwcvPfvylRK2QoOXDi7+wj8KBFYy0fELSjGFXAT8KGN28nq46PKM+IUIqIpE4hTCeBMkFpqOoDc3hMvtUPgKgmWXyXWXAAq6b6WUlFxJwAAAABJRU5ErkJggg==
 dav:read
 dict://localhost
