@@ -602,6 +602,7 @@
 .pgsql.txt
 .pgt
 .ph
+.phar
 .php
 .php‎
 .php,
