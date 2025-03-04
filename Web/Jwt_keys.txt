@@ -868,6 +868,7 @@ $yoshiki$
 0wzvzzSfREVECrKr5QHSwcbglPHu8xyX
 0x64charHexEncodedSecretToken
 0x7365637265747365637265747365637265747365637265747365637265747365
+0xdc49981516e8e72b401a63e6405495a32dafc3939b5d6d83cc319ac0388bca1b
 0xfad2709d0bb03bf0e8ba3c99bea194575d3e98863133d1af638ed056d1d59345
 0xiaoming
 1
@@ -33768,6 +33769,7 @@ _1234567
 202060235
 20209420
 2020@azad2##*$
+2020hypertube42
 202.102.4.14
 2021030
 20212021
@@ -34480,6 +34482,7 @@ _1234567
 22222222222
 22222222a
 22222223
+!@2222222fasdhiohDCWQA
 2222222ya
 22222233
 222222aa
@@ -36799,6 +36802,7 @@ _1234567
 2c717855-cfe2-471e-97d9-afa63599692b
 2C721e8d
 2c89024b
+2c89956d186a75693f2be77a79874107ed7fc7e2f860f0156abe8e2c20e5b12d
 2c98009b
 2ca55b2f
 2CD6202a
@@ -37413,6 +37417,7 @@ _1234567
 3122130
 31223122
 312312312
+3123123213123
 312312353
 31233123
 31234511
@@ -39623,6 +39628,7 @@ _1234567
 37dengyu21
 37E20c02
 37fc9528-6dec-430b-b9e5-bfe82f82caf3
+37I55x+uqygp+G2VIRXczS6Wew77xm6iJ37L7J5CnY0=
 37jMq3zAH62cnOlcsxrJaMExu2DuaaWn
 37OIHY(#b#*H0g9#_Gj_(#HG()B)@(_#HBV)@BGiBL@!@_
 38000000
@@ -40893,6 +40899,7 @@ _1234567
 4321rewq
 4321zaq1
 43231323
+43242355ghbvhh234bjjn
 432432432
 4324661708
 4324798355
@@ -42230,6 +42237,7 @@ _1234567
 4QV0u1o8v%
 4r3e2w1q
 4r5t6y7u
+4R5T6YGHU896GCBDFW24C43F64G64G67
 4rfv5tgb
 4rfv5tgb6yhn
 4rfv7ujm
@@ -45814,6 +45822,7 @@ _1234567
 56992
 56995888
 5699927
+569a1821-0a93-45e8-87ab-eb857f20a010
 56B174e0
 56b46296
 56b55ccd
@@ -46795,6 +46804,7 @@ _1234567
 5F464930
 5f543654
 5f5f6fbb
+5f6f968254f6fe5c30d0d9f0e520af705c60160201435e82d50596604d41dd67
 5f8a2a6f
 5f9708F5
 5f9b679A
@@ -52733,6 +52743,8 @@ _5xlnqfkob0qob2Nxwvz4qWpezt46cnTsLQtGwN1BGc
 7abc62d0
 7AC26d16
 7ad14039-ba9c-48d9-a0e5-bb902e8c17fc
+7ad9cfdec75eceb662f5e48f5765701c17f51a5233a60fbcfa5f9e495fa99d18
+7ad9cfdec75eceb662f5e48f5765701c17f51a5233a60fbcfa5f9e495fa99d20
 7ae2d07b-c5c0-46cb-add1-aba2280077aa
 7af9ca9b-cdad-4dab-ac88-153ac789790b
 7b1026CD
@@ -54308,6 +54320,7 @@ _5xlnqfkob0qob2Nxwvz4qWpezt46cnTsLQtGwN1BGc
 83304188
 83305300
 83305777
+833087d55e3478bfb24c2116d5a194645452a03b10996976b2b74c4f881a5d60
 83311133
 83313408
 8331663686
@@ -54518,6 +54531,7 @@ _5xlnqfkob0qob2Nxwvz4qWpezt46cnTsLQtGwN1BGc
 83ffd73e-7a3d-4953-8d47-0f372b4b3dec
 83jUIH9890=)?^padfu989kjl()=i'0ajksdfhZUIFH98U()=ZFUZjUIO89hio)(=?98'0fdjkajhu9p'90a=)?=)jkj=?¨luinl,m()hiHUOHa89j=)?87h23%68ghafdsj776jafdhuiiHUIIuofdhuioh
 83yj27tg
+84006397748da2821f7ad4689a6efafb8cf653581f623d2eb2436ff2944735f1bf6751b899c9c4589555171940076c3e850d054d144305b003d7f96bd334cf9d
 84007410
 8400810411
 8400ebe6-abf2-443a-905c-5cffa6e4c45e
@@ -57094,6 +57108,7 @@ _5xlnqfkob0qob2Nxwvz4qWpezt46cnTsLQtGwN1BGc
 899993123
 89atd2z4
 89Bu0221QQ
+89cbffaddc4948ee97d87a44edff6af4b2583fffe2e9e1575be293102763ee67
 89edit02
 89ting627yu
 8a2ca0fa-56d8-4f6c-b0ed-5baf7aa50793
@@ -57168,6 +57183,7 @@ _5xlnqfkob0qob2Nxwvz4qWpezt46cnTsLQtGwN1BGc
 8x2h4Gcc9q
 8x2h4Gccaq
 8XmZtfSN8kgCCz98mAfhOvUgNLSrqKP9
+8Xn8@z&A3Bv%vG4#*E$z
 8xxg3Gcc9r
 8xxg3Hcb9r
 8xxg3Hcc9r
@@ -59174,6 +59190,7 @@ _5xlnqfkob0qob2Nxwvz4qWpezt46cnTsLQtGwN1BGc
 9lianjia
 9lj198802020
 9*Lq?H>5
+9mVKZz6Hg4h7zx5zX8Tf
 9nanuttt
 9o0p-[=]
 9ol.0p;/
@@ -60352,6 +60369,7 @@ ABCCBA123
 abccba123321
 abccbaabc
 abcd
+ABCD
 abcd!@#$
 ABCD0000
 abcd000000
@@ -60807,6 +60825,7 @@ adzcadzc
 ae120c49-cd80-493c-a220-0e0dab04c9b6
 ae477649-a268-47f5-8d9f-803671275c02
 ae5f98d0-6eac-4ea1-8d35-a03a394be7f0
+ae732ca3cca8dbb8348d6a08ef65b9ce75e85d61ad820394e569472a4fc4295e111448394a9715b7a2207c14f57c3a248a97c8e767d1604c410e07be080d834e
 aeg20086
 Aegeansea
 aeiouaeiou
@@ -62418,6 +62437,7 @@ asdfjkll
 asdfjklz
 asdfjklг╗
 asdfksdofiasdngnasdfl
+asdfl9cqdfafds4a3ds29878f2
 asdf;lkj
 asdflkjh
 asdfpeter
@@ -62460,6 +62480,7 @@ asdzxcqwe
 a secret
 a-secret
 asecret
+aSecret
 A secret...
 A secret API example
 asecretforjwttoken
@@ -62786,6 +62807,7 @@ b542029468
 b56314db-91fa-4674-ba77-4a902de619ec
 +b59WQF+kUDr0TGxevzpRV3ixMvyIQuD1O
 b5j5s5s1
+B5OeJVIOHzeorY5dkPINOc/3hNiRQzgffqQA1dzGzhbZK+waZrIEbpFu5t8xRIzM
 b6066998
 B612B612
 b62d534e-6e87-4f5f-89d1-fb63d0103775
@@ -63550,6 +63572,7 @@ BiBi19850726
 bibi850726
 bibibibi
 bible64517072
+biblioteca@ifsp
 biedaohao
 BIEDAOWOHAO
 biefanwo
@@ -65058,6 +65081,7 @@ Change_me
 Changeme
 CHANGE_ME
 CHANGEME
+CHANGE_ME!@#$%
 ChangeMeForProduction
 CHANGEMELATER-JWTSECRET
 CHANGE_ME_TO_A_COMPLEX_RANDOM_SECRET
@@ -65077,6 +65101,7 @@ change-this-secret
 CHANGE_THIS_SECRET
 change_this_super_secret_random_string
 change_this_to_something_other_than_this
+CHANGE_THIS_TO_SOMETHING_RANDOM
 changfang
 changfei
 changfeng
@@ -66761,6 +66786,7 @@ cookersong
 cookie
 cookie123
 cookie89612
+cookies
 COOKIEsEssIoNSecret%6378108737870987
 cool1234
 COOL123456
@@ -67004,6 +67030,7 @@ csy871315288
 csy911cc
 ct123456
 ct80794352
+CTCHEN
 ctfjr4tqta
 cti123456
 CTK4Sabtmh
@@ -68009,6 +68036,7 @@ development
 Development
 development12345
 Development13@unive!
+development key
 DEVELOPMENT_ONLY_JWT_SECRET
 development_secret
 DEVELOPMENT#SECRET&KEY
@@ -69136,6 +69164,7 @@ edit2000
 editedit
 [EDIT_ME]
 editor
+EDJb34y267rv3Cu6ibupaWQBjOFM6escz8ht5gTVqly4OUd7nywdRXKNwwixeJ6toUpHCPmnSpIqFEB6hZvJGGGG
 edmund28
 ednapall
 education
@@ -69202,6 +69231,7 @@ ejdfetjf@#
 ejemplo
 ejjj2007
 ejrcc101
+ek9mDvzK7K8NGA2m/QDYQa7v1R2yXcCBJgwUv5koTvxhRGbcFjYEMJG8/NIt5zfg
 ekinandy
 ekincheng
 ekinekin
@@ -69394,6 +69424,7 @@ erse1732
 ert***
 ertbvhe28
 ertgetyh
+erty
 erw5478d
 erwow1982
 erzi0627
@@ -69661,6 +69692,7 @@ facetoface
 factory
 FAD@$!42rfd2#@vgare123
 fadsfjasij4j32r23jfijsd
+FAE8649B15526F4349498C51D8552452
 faemail177668
 fafafafa
 fafathan
@@ -69898,6 +69930,7 @@ fayeyy1860
 faynet90
 FaZaa4KeeZoo2ahgoh2uenahd3Uta4Ei
 fazai520
+faztwebblog
 fb123456
 fb1427sz
 fb19541983
@@ -69935,6 +69968,7 @@ fd123456
 fd4hsftjisrt@126
 FD791112
 fd87654321fd
+fdasfkjlsadfkljsdah
 fdb6a6f7-ce3e-4995-ba6d-e646547a75cd
 fddfsf*DDs$#&nm,dsddsfs*1FDFS!!#DC
 fdeffzefzefzfz
@@ -71746,6 +71780,7 @@ GOGOsiji
 gogostudy
 gohu997391
 goiabailuminattivoadoracomcaimbranaorelha
+GoiasOMaiorClube
 gojackie
 goK!pusp6ThEdURUtRenOwUhAsWUCLheBazl!uJLPlS8EbreWLdrupIwabRAsiBu
 gold1234
@@ -71766,6 +71801,7 @@ goldstar
 goldtree
 goldzccom
 golfer
+go-mall
 gomeyangyi.com
 GoMorita
 gonewind
@@ -73381,6 +73417,7 @@ hello520
 hello5791
 hello8107
 helloangel
+hellob
 hellobaby
 helloboy
 hellobuild
@@ -73635,6 +73672,7 @@ hh1314520
 hh19750107
 hh19881010
 hh3712381
+hh4khjh324h324jk3$#@$n32
 hh5201314
 hh520520
 hh562353111
@@ -75332,6 +75370,7 @@ iamtheking
 iamtheone
 iamtiancai
 Iamtiger
+iamuzairtasawarmynameiskhanandiamnotaterrorist
 i-am-very-secret-key
 iamwaiting
 iamwanghui
@@ -75715,6 +75754,7 @@ ilovelinux
 ilovelion
 ilovelisa
 iloveliu
+I_LOVE_LL
 ilovelois
 ilovelondon
 ilovelong
@@ -76067,6 +76107,7 @@ innovision
 INp8IvdIy89eMCoGAgFGoA61DdBglwwSqnXJZkgz8PSnW
 insecure
 insecure_default_secret
+INSERT_SECRET_KEY
 <insert shared secret here>
 insert_your_random_key_here
 insist373
@@ -77946,6 +77987,7 @@ jsjswaloo
 jsk993505
 jsksfnfisdjdsjsdjdskdfvmfdfsåpsdä2348ej383j
 jsksfnfisdjdsjsdjdskdfvmfdfs\u00e5psd\u00e42348ej383j
+json-server-auth-123456
 JSON-WEB-TOKEN
 JsonWebTokenKey
 json-web-token-secret
@@ -78080,6 +78122,7 @@ just4u32
 just4you
 just789real
 Just a bunch of top secret stuff here
+justasecret
 justatest
 justbemyself
 justcause
@@ -78216,6 +78259,7 @@ jwtS3cr3t
 JwtSafeKey0008
 JwtSafetyKey0025
 JwtSafetyToken0971
+JWTs are the best!
 jwt_scoped_secret
 jwt_sec
 jwtSecr3t
@@ -78231,6 +78275,7 @@ JWT SECRET
 JWT_SECRET
 JWT_SECRET!
 JWTSECRET
+jwtsecret123
 jwtSecret123
 jwt_secret_1234567890
 jwt_secret_1234_abcd
@@ -78306,6 +78351,7 @@ JwtValidatorKey0019
 JwtVerification0020
 JwtVerificationK
 JWTWithJyamiSuperSecretKey
+JwtYourSecretStoreKey
 jwyshya99
 jx100049
 jx123456
@@ -78817,8 +78863,10 @@ key3
 key7807270
 keyannasui
 keyboard cat
+keyboard-cat
 keyboard_cat
 keyboardcat
+keyboard_kitten
 KeyForJsonWebTkn
 KeyOauthJwt
 key_qa
@@ -79418,6 +79466,7 @@ kuykuykuy
 kuytkani
 kV0iL9Ro3zWYKUfhOnFD8WUUE3ArmP6hJnci3ISYawyryKJZR57iBon0HhdQdQem
 kvov0609
+KVvSh8Wkb@9~#FtnUfsS0@xy%xn2nvkek14DA48Dks~0Tc|Bq~QAalqF7Gk$VO64|@?rZgYuCWDxl}~$tmuF7R~zjoeqezVcKt~
 kwepthnn
 kwfeknvjbvjrbvrbvjbjjbjbrj
 %^&kwicms319842__71839^HBSksmdil
@@ -84306,6 +84355,7 @@ lv80066368
 lv864026
 lv880131
 lvbuhero
+lv+C3Vv+mTSAcrv/tmGsbg=="
 lvcha123456
 lverya123456
 lvfeididi
@@ -85049,6 +85099,7 @@ maradona
 maratsafin
 marcopolo
 margaret
+Margarita
 mariaailin
 mariah70327
 mariahcarey
@@ -85123,6 +85174,7 @@ matianyu
 matilian
 matingting
 matishan
+"m/ATjN6q8rEjMyXaX/QIoKrhyn9Cw3wtkSwQPrTe4KosTVX3wTRyo7r8Bz03dneK
 mattel01
 matthew
 matthew1
@@ -85524,6 +85576,7 @@ meteor2008
 meteor77
 meteorgarden
 metersbonwe
+metTaClefDeDecryptageDeJwtDTC
 MeTY43Yx
 meYEtb3nBkH3pF6RnvmmZkVe71Cv4xI6nJVewHlIfslDPXiOzvF1h4TLI8dGJmUu
 mF8QNsmZpO
@@ -85548,6 +85601,7 @@ MGLsupersecret
 MGUwYmQxZmI0OGJjN2ZkMmEyNGQwZjM5ZTdkNTcxYmRhYWIzNjkxOTM1OTQ1NzQ0MjllMjdmNTg4ZWU0OTlhNGVlYmY2OTY1ODA2Yzg1NTBiMDQyYWRmMDhmMGQ5YmVkZjgxZDQxNDI0ODdjMmM0YTdmMjVkZTAxZDEwZTVhNDg=
 mh007007
 MH123456
+Mh15O0JNMZVZhEO4E8sQVD9PWFeaBhnKPvUy
 mh666666
 mhf531226
 mhh123456
@@ -86530,6 +86584,7 @@ myhong521220
 myibosyss
 myict3701
 myideapool-session-secret
+m yincredibl y(!!1!11!)<'SECRET>)Key'!
 myit8888
 myj111111
 myjltcht
@@ -86583,6 +86638,7 @@ myname2008
 my-name-debarshi-mondal-secret-token
 mynameis
 mynameis4125!
+mynameisaayushisharma
 mynameisjeff
 my-name-is-shubham-and-i-am-bad-boy
 mynewlife
@@ -86617,6 +86673,7 @@ My Secret
 MySecret
 MY_SECRET
 MYSECRET
+mysecret123
 my-secret-from-env-file-in-prod
 mysecretisnothere
 mysecretisnotheretoo
@@ -86643,6 +86700,7 @@ mysecretssshhhhhhh
 MY_SECRET_STORY
 mySecretStr
 my secret string
+mysecretstring
 MYSECRETTOCHANG3
 my-secret-token
 mysecrettoken
@@ -87600,10 +87658,13 @@ not_a_working_secret
 NOT_DEVELOPMENT_ONLY_JWT_SECRET
 notebook
 note_dev
+notesApp#12345
 nothing123
+notmysecret
 not-secret-development-only
 not_secure
 notsecure
+not so secret
 not-so-secret
 notstackoverflow
 nottingham
@@ -87695,6 +87756,7 @@ NwsVsXv4YCAF9suxWZmT7N6PSzmouCDHqVpzbS5niBKo49b7rTREmwFe6roKswf4
 nwt6B8fj9YEgz7y5jcIDZSGyGcmGd7OA
 nx123456
 NXGyanzi
+NxpmDotDevJwtSecret
 N#xTe4>IGSWfH#M&MYXxI~#w9yj@X8X/g8-N{;n)5D>kFh~AaW
 ny123456
 n/y1HzjLXD8Wzoen21E7G8fa0fFEbx2Rlfg6nO/CqXg=
@@ -87734,6 +87796,7 @@ o2wgyo1wgy
 o5o9weiwei
 o5val8brqj
 o78068771
+O7mzVJbE1IhtNqFdXn8yRpswAe9jYl6B
 o987123q
 o9oskd32
 oa
@@ -87779,6 +87842,7 @@ oepfhugdid
 oethjiothjpj
 ofbEgdz2t0
 ofcourse
+ofcourseistillloveyou
 office
 OFFICE0403
 office123
@@ -88096,6 +88160,7 @@ oyf993101
 oygNsNl1i2FgpfReDI95jWZSAaxhXjElxhKHFAST0bRRJ1cjvV8ZS0syJMZXUaN5
 oyp6742422
 oysjoysj55
+oyvEgyD2oqPpD1n4iJLVrgkQjnNPasABVvX3Gylj13LDnqWkqbWMnkQE4qz0fbMi
 p
 p@$$w0rd
 P@$$w0rd
@@ -88612,6 +88677,7 @@ picasso19820716
 picc1234
 picc95518
 PickAComplexString1337
+pierre_dev
 pifront99
 pig123456
 pig820901
@@ -88976,6 +89042,7 @@ pro#1122
 proactive
 probiz2009
 procedure
+process.env.jwtSecret
 prodigal
 prod-jwt-secret
 prodSecret
@@ -90028,6 +90095,7 @@ qmdongman
 qmfvgi4e
 qmpzGM21
 qmwnebrv
+qnebAGPgYLDbEd7M/XCHXsSQXGI0InZeNZECUqfA0Oc4eq1GpQXwFcIF9QsDJveg
 q.nF9L\u000b8gLT\\M:KxYd$#f*m#3`gJ*uZ
 q.nF9L\v8gLT\M:KxYd$#f*m#3`gJ*uZ
 _/QNgj*DDF|AA:b[)q5eLd-+grM-x6b8L.gO#/nGny<1(:Ls%&E%|wniv?0>By+X
@@ -90498,6 +90566,7 @@ question
 QUESTION_ANSWERS_AUTH_KEY
 quezikaimen
 qufanxiao2008
+QUFLTOKENKEY
 qufuyoungzhou
 quguofeng462088#
 quhongming
@@ -91028,6 +91097,7 @@ r7649894
 R84vm3eui
 r850219q
 R9EF3iqvd9OUJe3b8GGDo3bcdJASBVp8
+r9iMKoe5CRMgvJBBtp4HrqN7QiPpUToj
 R9MyWaEoyiMYViVWo8Fk4TUGWiSoaW6U1nOqXri8_XU
 r9ronaldo
 r9sgf619
@@ -91124,6 +91194,7 @@ random_string
 randomstring
 RandomString
 RANDOM_STRING
+<random_string_at_least_32_characters_long>
 randomstringgg
 randomstringthatissolongandpowerfulthatnoonecanguess
 randomText
@@ -91259,6 +91330,7 @@ ren790217030406
 renaissance
 renaoren
 rendanruju
+rendrom
 rene8253
 renestepaside
 renfeng813
@@ -92179,6 +92251,7 @@ sdj7788250
 sdjgveufwbdmnrbcinf
 sdjkle89
 sdjksdjk
+sdjlhagmlamlsdkfjgh
 sdjnwsyt6210461
 sdjsh123
 sdjz871017
@@ -92321,6 +92394,7 @@ SeCreTKeY
 SECRET_KEY
 SECRETKEY
 SecretKey012345678901234567890123456789012345678901234567890123456789
+secretkey23456
 secretkeybuatgroupproject
 SecretKeyCarRentalApp
 SECRET_KEY_FOR_CREATE_JSON_WEB_TOKEN
@@ -92379,6 +92453,7 @@ secrettoken
 secretToken
 SECRET_TOKEN
 SecretTokenKey01
+SECRET TOKEN STRING
 Secret \u00e0 changer
 SECRETUIUUB
 secret untuk jwt
@@ -92390,6 +92465,8 @@ secretword
 secretWord
 Secret word
 SecretWord
+_secure|
+secure
 SecureHmacKey123
 SecureJwtKey1234
 SecureJwtKey2022
@@ -92408,6 +92485,7 @@ Seemefly
 seeyouagain
 seeyoulater
 seeyouseeme
+segredosecreto
 seishiro
 seishirou
 sekret
@@ -92459,6 +92537,7 @@ serendipity
 sereneazure
 serenity
 seriedad
+serucity_is_secure_beacuse_it_is
 Server
 SERVER123
 server1234ASDF
@@ -92823,6 +92902,7 @@ sharapova
 share
 share123
 sharecxc
+sharedkey
 shared-secret
 sharon07
 sharp
@@ -93887,6 +93967,7 @@ smilecat
 smileclouds
 smileeveryday
 smileface
+smilegate_hap_kyuk_ha_go_ship_da
 smilegirl
 smilelife
 smilesky
@@ -94092,6 +94173,7 @@ some-secret-key
 someSecretKey
 SOME_SECRET_KEY
 somesecretkeyforjsonwebtoken
+some-secret-password
 somesecret@python.com
 %some_secrets%
 some-secret-shit-goes-here
@@ -94260,6 +94342,7 @@ sorrysorry
 sortear-uma
 sos123123123
 sos123456
+so-secret
 So Secret!
 So Secret! 🔥🌵
 so secret that it hurts a b1t
@@ -94414,6 +94497,7 @@ ss8518com
 ssaa
 ssadmin
 ssamtg770121
+SSBDOASDIMOASMOCSMPCMSAPOMCA
 ssbws0eloolqq
 ssconfig
 ssD516axx!d*dadxxDDDew23fcx*asf16evo00!*-1dd##151
@@ -95106,6 +95190,7 @@ Super Secret Key
 superSecretKeyForJwt
 Su-Per//Sec!!ret/Key-now-available-in-GitHub
 supersecretkeyyoushouldnotcommittogithub
+supersecretkungfury
 superSecretLOL
 super-secret-mock-demo
 supersecretmon
@@ -95240,6 +95325,7 @@ sweetheart
 sweetlove
 sweetsmile
 sweetsweet
+swempresarial2023*
 swf19881225
 swggws3352505
 swim0930
@@ -95462,6 +95548,7 @@ t7758521
 t7f64h85478td6h49tf
 T7pimr11
 t7vizb80
+t7w3P8X6472qWc3u
 t7w!z%C*F)J@NcRfUjXn2r5u8x/A?D(G
 t839k241
 t84l04n14
@@ -95859,6 +95946,7 @@ test1234
 test12345
 test123456
 test123test
+test123-test123-test123-test123-test123-test123-test123
 test2008
 test2009
 test2010
@@ -95911,6 +95999,7 @@ testtokenforsecurity
 test_token_secret
 testunnotechjwttoken
 testuser
+test value
 tet17uBVNH
 tet17uCWNH
 tet17vCWNH
@@ -96012,6 +96101,7 @@ The client secret key
 thedoors
 the-final-accord
 THEFIRST
+The GBA is awesome
 theghost
 The great white silver fox
 theIifD4x2
@@ -96093,6 +96183,7 @@ This is an UNSECURE Secret. CHANGE THIS for production environments.
 ThisIsARandomString
 thisisarima
 thisisasamplesecret
+this is a secret
 thisisasecret
 thisIsASecret
 This is a secret
@@ -96145,12 +96236,14 @@ this_is_not_secure_generate_a_password
 thisisnotsuchabigsecret
 this is our secret
 This is our secret!
+this_is_private_key_for_crud
 thisisproductmanagementproject
 this is secret!
 this_is_secret
 thisissecret
 This is secret
 thisissecrete
+thisissecretkey
 thisissomesecretornot
 THIS IS SUPER SECRET, DO NOT SHARE!
 this-is-the-collaborative-project-between-sarthak-and-anand
@@ -96181,6 +96274,7 @@ this_is_your_secret
 thislove
 this_must_be_a_super_secret
 THIS_MY_EXCAVATION
+This secret is stored base-64 encoded on the proxy hos
 this-secret-must-be-32-character
 this-secret-strength-is-over-nine-thousand
 This_Should_be_32_characters_long
@@ -96843,6 +96937,7 @@ togetherforever
 tohoshinki
 tohyuk42my
 token
+@token2F5e84cb2610411b048c16probono4e60553855ebd5827918
 tokencan
 TokenEskat
 tokenizerandlexer
@@ -97350,6 +97445,7 @@ tzwadmin123
 \u0422\u0430\u0439\u043d\u0430
 U1NBRlkgOOq4sCDqs7XthrXtlITroZzsoJ3tirggNuuwmCAy7KGwIO2ZqeynhO2DnCDqs6Drs5Hsp4Qg7JWI7KSA7ZmNIOygleybkOyYgSDstZzsnqztnawg6rmA7YOc7JiBIO2ZlOydtO2MhSEh
 u2ctu2ct
+U2FtcGxlU2VjcmV0S2V5
 u2master
 \u52A0\u5BC6
 \u5bc6\u94a5
@@ -97365,6 +97461,7 @@ u87654321
 u88688ky
 u8ihdtdbsz
 u8u8u8u8
+u9+udaYDqC1+2Hw2faJszg==
 uaa8571892
 uaa_jwt_secret
 uanun10180515
@@ -97482,6 +97579,7 @@ ulwfnhzw
 ulyygyia
 umbrella
 umbreve9
+umeshSecret
 ummm it's a secret
 unauthorized
 uncoverwheat
@@ -97691,6 +97789,7 @@ VERYSECRETKEY
 very secret secret
 very_secret_secret
 verySecretSecret
+verysecrettestkey123454321
 very-secret-value
 VERYSECURE
 very-secure-and-unbreakable-secret
@@ -97706,6 +97805,7 @@ vfNpGbkC4hcVDvQoB4ODlRYWKwNbiV9q1LxXK3QMOyjWNfbHnx5FIfdVmesxGyZqvFnaKU5vzVe4Jx6c
 vfr43edc
 vFue6wic6qNk0jaSFjOKwYnZ6Qfq9SGF
 vg00037k
+VGhpcyBzZWNyZXQgaXMgc3RvcmVkIGJhc2UtNjQgZW5jb2RlZCBvbiB0aGUgcHJveHkgaG9zdA
 vgyukiop
 vh851144
 VHAkH56kfc
@@ -97905,6 +98005,7 @@ vvvvvvvvvvvvvvvv
 vWe3gYDEThzLK2ROAJSZPm7kmsDi88c20noscs8AqyuEc4t9UNLqXYS16OmYy0O
 vwk9r4.com
 vWsBwvuJ4phW89bh
+V^Z5cbXUD]sw->2{Rm_f/g%YQM:6`4&a
 vZR8Ydfxrm
 w
 w0000000
@@ -102812,6 +102913,7 @@ wrl369963
 wrl82475
 wrlhydpy
 wrmfw1024
+wRnjBKd}ECd8.'yqA8[cK44!pN5ay2yCQ]!_JS7m[c~-=tpak>t^HPukh=.d@HHc
 wrnmnmrw
 wrnmwrnm
 wrp1982222
@@ -103217,6 +103319,7 @@ Your GitHub client secret
 your-hidden-secret
 *your jasonwebtoken secret*
 your json token secret
+your-json-web-token
 YOUR_JWT
 your_jwt_pass
 your jwt secret
@@ -103287,6 +103390,7 @@ your super secret key
 yourSuperSecretPassword
 your_super_secret_secret
 your-super-secret-string
+<Your-Token>
 your-top-secret-key
 you secret string
 You Shall Not Pass
