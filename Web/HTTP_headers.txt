@@ -44,6 +44,8 @@ Authorization: Digest donotexist
 Authorization: Digest username=admin,uri="http://127.0.0.1/a"
 Authorization: donotexist
 Authorization: Negociate
+Base-Uri: http://127.0.0.1
+Base-Url: http://127.0.0.1
 Cache-Control: max-age=0
 Cache-Control: no-cache
 Cache-Control: no-store
@@ -152,6 +154,7 @@ Host: 127.0.0.1
 Host: 127.0.0.1:8000
 Host: donotexist.donotexist
 Host: www.google.com
+Http-Url: 127.0.0.1
 HTTP2-Settings: donotexist
 HTTP2-Settings: token64
 HTTP2-Settings: token68
@@ -210,8 +213,10 @@ Range: bytes=500-999
 Range: bytes=900-
 Range: donotexist
 Real-Ip: 127.0.0.1
+Redirect: http://127.0.0.1
 Referer: donotexist
 Referer: http://127.0.0.1/admin?
+Referrer: http://127.0.0.1/admin?
 Request-Uri: *
 Request-Uri: /admin
 Request-Uri: http://127.0.0.1/
