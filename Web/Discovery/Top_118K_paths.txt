@@ -7828,6 +7828,7 @@ autoptimize
 &autor=
 autor
 autor/
+author-sitemap.xml
 autorank
 autoren
 autoren.php
