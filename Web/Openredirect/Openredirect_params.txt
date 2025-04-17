@@ -33,6 +33,7 @@
 ?p=https://www.google.com
 ?q=https://www.google.com
 /redirect/https://www.google.com
+?referrer=https://www.google.com
 ?redirect=https://www.google.com
 ?redirectto=https://www.google.com
 ?redirect_uri=https://www.google.com
