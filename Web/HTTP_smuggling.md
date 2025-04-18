@@ -1,7 +1,7 @@
 > From the PortSwigger very good article:\
 > https://portswigger.net/web-security/request-smuggling/finding
 
-### What is smuggling
+## What is smuggling
 
 To know when the body of POST request ends, servers can use **Content-Length** and **Transfer-Encoding** headers.
 
@@ -13,7 +13,7 @@ To know when the body of POST request ends, servers can use **Content-Length** a
 :information_source: Use HTTP/1.1 to exploit, because HTTP/2 is not vulnerable.\
 :information_source: However, it is still possible to exploit if the frontend supports HTTP/2 but not the backend!
 
-### CL.TE vulnerabilities
+## CL.TE vulnerabilities
 - **Frontend** uses **Content-Length**
 - **Backend** uses **Transfer-Encoding**
 
@@ -34,7 +34,7 @@ Foo: x
 
 The next request should answer with a 404.
 
-### TE.CL vulnerabilities
+## TE.CL vulnerabilities
 - **Frontend** uses **Transfer-Encoding**
 - **Backend** uses **Content-Length**
 
@@ -59,7 +59,7 @@ x=
 
 The next request should answer with a 404.
 
-### TE.TE vulnerabilities
+## TE.TE vulnerabilities
 - Both use **Transfer-Encoding** but one of the servers can be induced not to process it by obfuscating the header in some way.
 
 Ways to obfuscate the header:
