@@ -60,6 +60,8 @@ x=1
 
 The next request should answer with a 404.
 
+:information_source: The chunk size (here **5e**) is the length of the following chunk in hexadecimal (the chunk being the following request).
+
 ## TE.TE vulnerabilities
 - Both use **Transfer-Encoding** but one of the servers can be induced not to process it by obfuscating the header in some way.
 
