@@ -98,4 +98,4 @@ xyzGET / HTTP/1.1
 Host: vulnerable-website.com
 ```
 
-The next request should give a **405 Method Not Allowed** as the backend will process the request with **xyzGET** method. 
+The next request should give a **405 Method Not Allowed** as the backend will process the body as the next request, so with **xyzGET** method. 
