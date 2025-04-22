@@ -6,7 +6,7 @@
 To know when the body of POST request ends, servers can use **Content-Length** and **Transfer-Encoding** headers.
 
 - **Content-Length** specifies the length of the message body in bytes
-- **Transfer-Encoding (chunked)** waits to meet a 0 in the body
+- **Transfer-Encoding (chunked)** indicates the chunk length in hexadecimal at the top of the body, and then stoppes and it meets a 0 in the body
 
 :warning: **Smuggling requests may occur when frontend (proxy, firewall) and backend servers do not use the same delimiter method.**
 
