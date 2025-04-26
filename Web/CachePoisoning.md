@@ -1,3 +1,10 @@
+> From the PortSwigger very good article:\
+> https://portswigger.net/web-security/web-cache-poisoning
+
+## What is cache poisoning
+
+Cache poisoning is a technique that allows an attacker **to cache malicious web pages and serve them to website users**. This can lead to XSS, Openredirection, etc.
+
 ## Headers (server response)
 
 - Cache-Control
