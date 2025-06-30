@@ -24,12 +24,15 @@
 ?login=https://www.google.com
 ?logoutExitPage=https://www.google.com
 ?logout=https://www.google.com
+/login?to=https://www.google.com
 ?m=https://www.google.com
 ?next=https://www.google.com
 ?next_page=https://www.google.com
 ?nextpage=https://www.google.com
 ?n=https://www.google.com
 ?o=https://www.google.com
+/out/https://www.google.com
+/out?https://www.google.com
 ?page=https://www.google.com
 ?p=https://www.google.com
 ?q=https://www.google.com
