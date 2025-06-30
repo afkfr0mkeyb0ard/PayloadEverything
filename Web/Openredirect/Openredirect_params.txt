@@ -2,6 +2,7 @@
 ?b=https://www.google.com
 ?checkout_url=https://www.google.com
 ?c=https://www.google.com
+/cgi-bin/redirect.cgi?https://www.google.com
 ?continue=https://www.google.com
 ?dest=https://www.google.com
 ?destination=https://www.google.com
