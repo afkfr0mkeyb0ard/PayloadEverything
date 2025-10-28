@@ -50,6 +50,7 @@
 ?r=https://www.google.com
 ?rurl=https://www.google.com
 ?s=https://www.google.com
+?service=https://www.google.com
 ?target=https://www.google.com
 ?t=https://www.google.com
 ?u=https://www.google.com
