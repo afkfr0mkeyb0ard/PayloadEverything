@@ -49,6 +49,7 @@
 /proc/cmdline
 /proc/config.gz
 /proc/mounts
+/proc/self/cmdline
 /proc/self/environ
 /proc/version
 /root/.bash_history
