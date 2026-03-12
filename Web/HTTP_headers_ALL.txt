@@ -328,7 +328,10 @@ X-Custom-IP-Authorization: 127.0.0.1
 X-Forward: 127.0.0.1
 X-Forwarded: 127.0.0.1
 X-Forwarded-By: 127.0.0.1
+X-Forwarded-Email: admin@localhost
+X_Forwarded_Email: admin@localhost
 X-Forwarded-For: 127.0.0.1
+X_Forwarded_For: 127.0.0.1
 X-Forwarded-For: 127.0.0.1, 127.0.0.1
 X-Forwarded-For: 127.0.0.1, 2001:db8:85a3:8d3:1319:8a2e:370:7347
 X-Forwarded-For: 127.0.0.1, donotexist
@@ -337,26 +340,33 @@ X-Forwarded-For: 9287.2987.9437.34981
 X-Forwarded-For: donotexist.donotexist
 X-Forwarded-For-Original: 127.0.0.1
 X-Forwarded-Host: 127.0.0.1
+X_Forwarded_Host: 127.0.0.1
 X-Forwarded-Host: 9287.2987.9437.34981
 X-Forwarded-Host: donotexist.donotexist
 X-Forwarded-IP: 127.0.0.1
 X-Forwarded-IP: 8.8.8.8
+X_Forwarded_IP: 127.0.0.1
 X-Forwarded-IP: donotexist
 X-Forwarded-Protocol: donotexist
+X_Forwarded_Protocol: donotexist
 X-Forwarded-Proto: donotexist
 X-Forwarded-Proto: ftp
 X-Forwarded-Proto: http
 X-Forwarded-Proto: https
 X-Forwarded-Proto: smb
+X_Forwarded_Proto: donotexist
 X-Forwarded-Server: 127.0.0.1
 X-Forwarded-Server: donotexist.donotexist
+X_Forwarded_Server: 127.0.0.1
 X-Forwarded-Ssl: off
 X-Forwarded-Ssl: on
 X-Forwarded-TlsVersion: 1.1
 X-Forwarded-TlsVersion: 1.0
 X-Forwarded-TlsVersion: 1.5
 X-Forward-For: 127.0.0.1
+X_Forward_For: 127.0.0.1
 X-Host: 127.0.0.1
+X_Host: 127.0.0.1
 X-HTTP-DestinationURL: /admin
 X-HTTP-DestinationURL: http://127.0.0.1/
 X-HTTP-Host-Override: 127.0.0.1
@@ -394,7 +404,9 @@ X-Real-Server-IP: 127.0.0.1
 X-Referrer: 127.0.0.1
 X-Referrer: http://127.0.0.1/
 X-Remote-Addr: 127.0.0.1
+X_Remote_Addr: 127.0.0.1
 X-Remote-IP: 127.0.0.1
+X_Remote_IP: 127.0.0.1
 X-Requested-With: 127.0.0.1
 X-Requested-With: donotexist
 X-Requested-With: XMLHttpRequest
@@ -407,6 +419,7 @@ X-Request-Uri: http://donotexist/
 X-Rewrite-URL: /admin
 X-Rewrite-URL: http://127.0.0.1/
 X-Server-Ip: 127.0.0.1
+X_Server_Ip: 127.0.0.1
 X-SITE-DEPLOYMENT-ID: donotexist
 X-SITE-DEPLOYMENT-ID: 127.0.0.1 
 X-Target: http://127.0.0.1/
