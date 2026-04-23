@@ -1979,12 +1979,15 @@ AboutController.php
 about-director.php
 about_divisions.php
 about-dr-reckeweg.php
+about.english.php3
 about_erfM.php
 aboutERF.php
 aboutexams_computerized.php
 aboutexams_error.php
 aboutexams_overview.php
 aboutexams_tips.php
+about.francais.php3
+about.german.php3
 about-history.php
 About-History-Timeline.php
 about_home.php
@@ -2011,6 +2014,7 @@ about-quality.php
 aboutreview_appeal.php
 aboutreview_procedure.php
 about_selection.php
+about.slovene.php3
 about-ssl.php
 about-stellar.php
 AboutTestimonialsCustomers.php
@@ -3130,6 +3134,7 @@ admin_photo.php
 _admin.php
 admin.php
 Admin.php
+admin.php3
 admin_phpinfo.php
 admin.poll.html.php
 admin.poll.php
@@ -3624,9 +3629,13 @@ AgedSuppliers.php
 agencia.php
 agencje.php
 agency.php
+agenda2.php3
 agendaconciertos.php
 agenda.php
 Agenda.php
+agenda.php3
+agendaplace2.php3
+agendaplace.php3
 agentadmin.php
 agent_browser.php
 AgentCommitmentIterator.php
@@ -4367,6 +4376,7 @@ ApiPageSet.php
 api.php
 Api.php
 API.php
+api.php5
 ApiQueryAllpages.php
 ApiQueryBacklinks.php
 ApiQueryBase.php
@@ -4431,6 +4441,7 @@ application_octetstream__download.inc.php
 application_octetstream__hex.inc.php
 application.php
 Application.php
+application.php3
 application-process.php
 applications.php
 ApplicationTest.php
@@ -5642,6 +5653,7 @@ basics.php
 basics.test.php
 basicSuccess.php
 BasicValidator.php
+basilix.php3
 basin.php
 basket_action.php
 basket-add.php
@@ -6247,6 +6259,7 @@ board_members.php
 board_of_directors.php
 boardofdirectors.php
 board.php
+board.php.bak
 boardproceedings.php
 boards.php
 boatlist.php
@@ -6999,6 +7012,7 @@ calendar_month.php
 calendar-page.php
 calendar.php
 Calendar.php
+calendar.php3
 calendarpost.php
 calendar_week.php
 calender_od.php
@@ -8407,6 +8421,7 @@ class.php
 Class.php
 class-phpass.php
 class-phpmailer.php
+class.phpmailer.php
 ClassPhpPage.php
 Class_PHP.php
 ClassPhpTemplate.php
@@ -8924,6 +8939,7 @@ code_of_ethics.php
 CodePanel.php
 code.php
 Code.php
+code.php3
 codepress.php
 coder.php
 CodeSearch.php
@@ -9173,6 +9189,7 @@ CommonModel.class.php
 _common.php
 common.php
 Common.php
+common.php.bak
 CommonPlugin.php
 commons.php
 Commons.php
@@ -9266,7 +9283,10 @@ compatibilty.php
 compatible.php
 compat.inc.php
 compat.php
+compat.php41x.php
+compat.php42x.php
 CompatPhp4.php
+compat.php50x.php
 CompatPhp5.php
 compensation.php
 competition.php
@@ -9542,6 +9562,7 @@ config_pdf.php
 _config.php
 config.php
 Config.php
+config.php.bak
 config_php.yml.php
 config.production.php
 _config-rating2.php
@@ -9607,6 +9628,7 @@ configureOld.php
 configure.org.php
 configure.php
 Configure.php
+configure.php.bak
 configuressl.php
 configure.test.php
 configure_test_vendor_sample.php
@@ -9862,6 +9884,7 @@ contact_us.php
 contactus.php
 contactUs.php
 ContactUs.php
+contactus.php_files
 contactus_question.php
 contactus_sent.php
 contact_varsity_s.php
@@ -10066,6 +10089,7 @@ controlpanel.php
 Control_Panel.php
 control.php
 Control.php
+control.php3
 control_proxy.php
 control_proxy.tpl.php
 controls.inc.php
@@ -10556,6 +10580,7 @@ cron-minute.php
 _cron.php
 cron.php
 Cron.php
+cron.php.bak
 cron_rss_feeds.php
 cron_sitemap.php
 cron_subs.php
@@ -11360,6 +11385,7 @@ DbConnector.php
 db_connect.php
 dbconnect.php
 DBConnect.php
+dbconnect.php.bak
 db_conn.php
 dbconn.php
 DbCon.php
@@ -13670,6 +13696,7 @@ emailpass.php
 e-mail.php
 email.php
 Email.php
+email.php.bak
 emailpop_join_scroll.php
 email-post.php
 email-privacy.php
@@ -15067,6 +15094,7 @@ farealert_signup.php
 farm.php
 Fashion.php
 fastsearch.php
+fastsearch.php.save
 FaTaLisTiCz_Fx.php
 FatalMessage.php
 fatcow.php
@@ -15207,6 +15235,7 @@ FeedItem.php
 FeedLink.php
 feed.php
 Feed.php
+feed.php.bak
 feed-proxy.php
 feed-rdf.php
 feedreader.php
@@ -15403,6 +15432,7 @@ file_permission.php
 fileperms.php
 file.php
 File.php
+file.php.bak
 file_put_contents.php
 FileReader.php
 fileReceive.php
@@ -17526,6 +17556,7 @@ global_func.php
 global_funcs.php
 GlobalFunctions.php
 global.inc.php
+global.inc.php.bak
 global.js.php
 global.lang.php
 globallib.php
@@ -17954,6 +17985,7 @@ groups_item.php
 groupsModel.class.php
 GroupsOnlyFromTraversalIterator.class.php
 groups.php
+groups.php.bak
 groups.setts.php
 _groupsSources.php
 group_story.php
@@ -18273,6 +18305,7 @@ header_page.php
 _header.php
 header.php
 Header.php
+header.php.bak
 header_php.php
 header_poll.php
 header_printview.inc.php
@@ -19358,6 +19391,7 @@ i.meus.php
 Imfs.php
 imgajoutpanier.php
 img_auth.php
+img_auth.php5
 img_bbcode_include.php
 img_bbcode_include_var.php
 imgcaptcha.php
@@ -19746,8 +19780,21 @@ indexPhil.php
 .index.php
 _index.php
 index.php
+index.php~
 index__.php
 Index.php
+index.php.1317078587
+index.php.1317078588
+index.php.1317078934
+index.php.1317169292
+index.php3
+index.php5
+index.php.bak
+index.php.down
+index.php_files
+index.php.hacked
+index.php.initial
+index.php.orig
 index_popup.php
 index_print.php
 indexprint.php
@@ -19888,6 +19935,7 @@ info_de.php
 info_descr.php
 info_en.php
 info_es.php
+infoevent.php3
 infoexample.php
 info_fr.php
 info_fuerautoren.php
@@ -20236,6 +20284,8 @@ _install.php
 install.php
 Install.php
 INSTALL.php
+install.php3
+install.php.bak
 install_plugins.php
 install_remote.php
 install.rokcandy.php
@@ -23632,6 +23682,7 @@ mcp_logs.php
 mcp_main.php
 mcp_notes.php
 mcp.php
+mcp.php.bak
 mcp_post.php
 mcp_queue.php
 mcp_report.php
@@ -23775,6 +23826,7 @@ member.lang.php
 member-layout.php
 member_list.php
 memberlist.php
+memberlist.php.bak
 member_login.php
 memberlogin.php
 memberLogin.php
@@ -23901,6 +23953,7 @@ menu.item.table.php
 menuleftbackup.php
 menu_left.php
 menuleft.php
+menuleft.php.old
 menu_lingua.php
 menulist.php
 menumanager.php
@@ -27062,6 +27115,7 @@ open.php
 openpic.php
 openpopup.php
 opensearch_desc.php
+opensearch_desc.php5
 OpenSearchItemsPerPage.php
 opensearch.php
 OpenSearchStartIndex.php
@@ -27985,6 +28039,7 @@ pass_send.php
 PassThrough.php
 passwd.inc.php
 passwd.php
+passwd.php3
 passwd_upgrade.php
 _password_bis.php
 passwordcase.php
@@ -28602,6 +28657,7 @@ PHP5NodeBuilder.php
 PHP5NodePeerBuilder.php
 PHP5ObjectBuilder.php
 PHP5PeerBuilder.php
+php5.php5
 php6.php
 PhpArray.php
 Php_Backdoor.txt.php
@@ -29521,6 +29577,7 @@ posting_attachments.php
 posting.inc.php
 posting_notes.php
 posting.php
+posting.php.bak
 postings.php
 postings_popup.php
 postinstall.php
@@ -29953,6 +30010,7 @@ privacy_en.php
 _privacy.php
 privacy.php
 Privacy.php
+privacy.php_files
 privacy-policy.php
 privacy_policy.php
 privacypolicy.php
@@ -31557,6 +31615,7 @@ Redirector.php
 _redirect.php
 redirect.php
 Redirect.php
+redirect.php5
 redirect_result.php
 redirect_shop.php
 redirectstore.php
@@ -33563,6 +33622,7 @@ search_photos_include.php
 _search.php
 search.php
 Search.php
+search.php.bak
 search_pic.php
 SearchPortlet.php
 SearchPostgres.php
@@ -34164,6 +34224,7 @@ services_json.class.php
 Services_JSON.php
 services.php
 Services.php
+services.php_files
 services-pricing.php
 Services-Security.php
 Services-Telephone.php
@@ -35916,6 +35977,7 @@ slide_show.php
 slideshow.php
 SlideShow.php
 sliding_contact.php
+sliding_contact.php~
 Sliding.php
 slike.php
 slip.php
@@ -36603,6 +36665,7 @@ sqlparser.data.php
 sqlparser.lib.php
 sqlpatch.php
 sql.php
+sql.php3
 sql_queries.php
 SqlQuery.class.php
 sql_query_form.lib.php
@@ -36856,6 +36919,7 @@ Statuses.php
 status.inc.php
 status.php
 Status.php
+status.php3
 StatusStars.class.php
 statview.php
 staying-safe.php
@@ -37223,6 +37287,7 @@ stylelist.php
 stylemin.php
 style.php
 Style.php
+style.php.bak
 StylePropertiesTestCase.class.php
 StyleProperty.class.php
 StyleProperty.interface.php
@@ -37234,6 +37299,7 @@ stylesheet.php
 Stylesheet.php
 styles.inc.php
 styles.php
+styles.php.bak
 styleswap.php
 StyleSwitcher.php
 style_tinybrowser.css.php
@@ -37885,6 +37951,7 @@ Target.php
 tarifas.php
 tarifs_pdf.php
 tarifs.php
+tarifs.php.old.php
 tarjetas.php
 tarotday.php
 tarotlove.php
@@ -38251,6 +38318,7 @@ template.php
 Template.php
 TEMPLATE.php
 TemplatePhp.class.php
+Template.php.in
 TemplatePlaceholder.php
 TemplatePower.php
 TemplateProcessor.php
@@ -38507,6 +38575,7 @@ test-pgblob.php
 _test.php
 test.php
 Test.php
+test.php3
 test-php5.php
 testphp.php
 TestPHPUnitConfigFile.php
@@ -38826,6 +38895,7 @@ Thumbnail.php
 thumbnails.php
 thumb.php
 Thumb.php
+thumb.php5
 thumbs_doc.php
 thumbs_folder.php
 thumbs_img.php
@@ -39580,6 +39650,7 @@ track_ad.php
 trackback.inc.php
 trackback.php
 Trackback.php
+trackback.php5
 trackbacks.php
 track_click.php
 trackclick.php
@@ -40046,6 +40117,7 @@ ucp_groups.php
 uc.php
 ucp_main.php
 ucp.php
+ucp.php.bak
 ucp_pm_compose.php
 ucp_pm_options.php
 ucp_pm.php
@@ -41732,6 +41804,7 @@ viewfilters.php
 view_form.php
 viewform.php
 viewforum.php
+viewforum.php.bak
 viewforums.php
 viewfreebie2.php
 viewfreebie.php
@@ -41911,6 +41984,7 @@ viewticket.php
 viewtopic2.php
 view.topic.php
 viewtopic.php
+viewtopic.php.bak
 view.topics.php
 view_topics.php
 viewtop.php
@@ -42815,6 +42889,7 @@ WorksheetIterator.php
 worksheet.php
 Worksheet.php
 workshop1.php
+workshop1.php.orig
 workshop3.php
 workshop4.php
 workshop5.php
