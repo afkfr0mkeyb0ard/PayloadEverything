@@ -131,6 +131,7 @@ X-HTTP-Method-Override: donotexist
 X-HTTP-Method-Override: HEAD
 X-HTTP-Method-Override: UNLOCK
 X-Original-Forwarded-For: 127.0.0.1
+X-Original-Host: 127.0.0.1
 X-Original-Remote-Addr: 127.0.0.1
 X-Original-URL: 127.0.0.1
 X-Original-URL: /admin
