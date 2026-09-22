@@ -385,6 +385,7 @@ x-ms-client-request-id: donotexist
 x-ms-date: Fri, 11 May 2018 18:48:36 GMT
 x-ms-return-client-request-id: true
 X-Original-Forwarded-For: 127.0.0.1
+X-Original-Host: 127.0.0.1
 X-Original-Remote-Addr: 127.0.0.1
 X-Original-URL: 127.0.0.1
 X-Original-URL: /admin
